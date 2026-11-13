@@ -1,53 +1,98 @@
+"""Regla de negocio: mejor oferta USA vs. precio de referencia en Lima -> costo, venta objetivo, margen y semáforo."""
 import os
 
-FACTOR = float(os.getenv("FACTOR_IMPORTACION") or "1.25")
+from scraper.models import Offer, filtrar_lima, filtrar_usa, ordenar_ofertas
+
+FACTOR_DEFAULT = 1.25
 DESCUENTO_VS_LIMA = 0.92   # vendemos 8 % debajo del más barato en Lima
+UMBRAL_VERDE = 35.0
+UMBRAL_AMARILLO = 20.0
 
 
-def evaluar(producto: dict, ofertas_usa: list, ofertas_lima: list, tc: float) -> dict:
-    """Elige la oferta USA más barata (de cualquier tienda) y calcula costo en Lima y margen."""
+def factor_importacion() -> float:
+    """Se lee en cada llamada (no al importar) para respetar .env y los cambios en tests."""
+    try:
+        return float(os.getenv("FACTOR_IMPORTACION") or FACTOR_DEFAULT)
+    except ValueError:
+        return FACTOR_DEFAULT
+
+
+def semaforo(margen_pct: float) -> str:
+    if margen_pct >= UMBRAL_VERDE:
+        return "VERDE"
+    if margen_pct >= UMBRAL_AMARILLO:
+        return "AMARILLO"
+    return "ROJO"
+
+
+def evaluar(producto: dict, ofertas_usa: list[Offer], ofertas_lima: list[Offer], tc: float) -> dict:
+    """Filtra ofertas irrelevantes, elige la USA más barata (de cualquier tienda) y calcula costo y margen."""
     base = {"id": producto["id"], "marca": producto["marca"], "nombre": producto["nombre"]}
 
-    usa = sorted((o for o in ofertas_usa if o.moneda == "USD"), key=lambda o: o.precio)
-    lima_vals = [o.precio for o in ofertas_lima if o.moneda == "PEN"]
-    if producto.get("precio_lima_manual"):
-        lima_vals.append(float(producto["precio_lima_manual"]))
+    usa = ordenar_ofertas(filtrar_usa(ofertas_usa, producto), producto["marca"])
+    lima = sorted(filtrar_lima(ofertas_lima, producto), key=lambda o: o.precio)
 
-    ranking = _ranking_por_tienda(usa)
-    if not usa or not lima_vals:
-        return {**base, "estado": "SIN DATOS", "ranking_tiendas": ranking}
+    # precio_lima_manual solo cuando no hay ningún resultado real en Lima
+    lima_estimado = False
+    if lima:
+        precio_lima_ref = lima[0].precio
+    elif producto.get("precio_lima_manual"):
+        precio_lima_ref = float(producto["precio_lima_manual"])
+        lima_estimado = True
+    else:
+        precio_lima_ref = None
 
-    ganadora = usa[0]
-    precio_lima_ref = min(lima_vals)
-    costo_lima = ganadora.precio * tc * FACTOR
+    fila = {
+        **base,
+        "tc": tc,
+        "ranking_tiendas": _ranking_por_tienda(usa),
+        "lima_estimado": lima_estimado,
+        "ofertas_lima": [{"tienda": o.tienda, "precio_pen": round(o.precio, 2), "url": o.url, "titulo": o.titulo}
+                         for o in lima],
+    }
+    if usa:
+        g = usa[0]
+        fila.update({
+            "precio_usa_usd": round(g.precio, 2),
+            "tienda_ganadora": g.tienda,
+            "url_ganadora": g.url,
+            "titulo_ganador": g.titulo,
+            "envio_gratis": g.envio_gratis,
+            "fecha_precio_usa": g.fecha,     # None = consultado hoy
+            "nota_usa": g.nota,
+        })
+    if precio_lima_ref is not None:
+        fila["precio_lima_ref_pen"] = round(precio_lima_ref)
+        fila["tienda_lima_ref"] = lima[0].tienda if lima else "Referencia manual"
+
+    if not usa or precio_lima_ref is None:
+        fila["estado"] = "SIN DATOS"
+        fila["falta"] = "USA" if not usa else "Lima"
+        return fila
+
+    costo_lima = usa[0].precio * tc * factor_importacion()
     venta = precio_lima_ref * DESCUENTO_VS_LIMA
     margen = venta - costo_lima
-    pct = margen / venta
-    estado = "VERDE" if pct >= 0.35 else "AMARILLO" if pct >= 0.20 else "ROJO"
-
-    return {
-        **base,
-        "precio_usa_usd": round(ganadora.precio, 2),
-        "tienda_ganadora": ganadora.tienda,
-        "url_ganadora": ganadora.url,
-        "titulo_ganador": ganadora.titulo,
-        "tc": tc,
+    pct = round(margen / venta * 100, 1)
+    fila.update({
         "costo_lima_pen": round(costo_lima),
-        "precio_lima_ref_pen": round(precio_lima_ref),
         "venta_objetivo_pen": round(venta),
         "margen_pen": round(margen),
-        "margen_pct": round(pct * 100, 1),
-        "estado": estado,
-        "ranking_tiendas": ranking,
-    }
+        "margen_pct": pct,
+        "estado": semaforo(pct),
+    })
+    return fila
 
 
-def _ranking_por_tienda(ofertas_ordenadas: list) -> list[dict]:
-    """La oferta más barata de cada tienda, de menor a mayor precio."""
+def _ranking_por_tienda(ofertas_ordenadas: list[Offer]) -> list[dict]:
+    """La mejor oferta de cada tienda, en el mismo orden que el desempate."""
     vistas, ranking = set(), []
     for o in ofertas_ordenadas:
         if o.tienda in vistas:
             continue
         vistas.add(o.tienda)
-        ranking.append({"tienda": o.tienda, "precio_usd": round(o.precio, 2), "url": o.url})
+        ranking.append({
+            "tienda": o.tienda, "precio_usd": round(o.precio, 2), "url": o.url, "titulo": o.titulo,
+            "envio_gratis": o.envio_gratis, "fecha": o.fecha, "nota": o.nota,
+        })
     return ranking

@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+{% block title %}Precios bebé · {{ fecha }}{% endblock %}
+{% block css %}
+.controles { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; margin: 8px 0 4px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: none; }
+.chip { border: 1px solid var(--line); background: var(--surface); color: var(--text); border-radius: 999px;
+  padding: 6px 12px; font: inherit; font-size: .85rem; cursor: pointer; white-space: nowrap; }
+.chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+input[type=search] { width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--text); font: inherit; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: .75rem; color: var(--muted); font-weight: 600; text-transform: uppercase;
+  letter-spacing: .03em; padding: 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+td { padding: 9px 8px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+td.r, th.r { text-align: right; }
+td.num { white-space: nowrap; }
+.prod a { color: var(--text); font-weight: 600; text-decoration: none; }
+.prod a:hover { text-decoration: underline; }
+.marca { color: var(--muted); font-size: .8rem; }
+.margen-grande { font-weight: 700; }
+.vacio { text-align: center; color: var(--muted); padding: 30px 0; display: none; }
+
+/* Móvil: cada fila es una tarjeta */
+@media (max-width: 899px) {
+  table, tbody, tr, td { display: block; }
+  thead { display: none; }
+  tr { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
+    margin-bottom: 10px; display: grid; grid-template-columns: 1fr 1fr; column-gap: 12px; }
+  td { border: 0; padding: 3px 0; }
+  td[data-l]::before { content: attr(data-l); display: block; font-size: .7rem; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .03em; }
+  td.prod { grid-column: 1 / -1; display: flex; justify-content: space-between; gap: 8px; align-items: flex-start;
+    padding-bottom: 8px; }
+  td.col-estado-desk, td.col-marca { display: none; }
+  td.r { text-align: left; }
+  td.comprar { grid-column: 1 / -1; padding-top: 8px; }
+  td.comprar .btn { display: block; text-align: center; }
+}
+@media (min-width: 900px) {
+  .prod .pill { display: none; }
+  td.prod { min-width: 170px; }
+  .btn .larga { display: none; }
+  .tabla { overflow-x: auto; }
+  td .tag { display: block; width: fit-content; margin: 3px 0 0; }
+  td.r .tag { margin-left: auto; }
+  td, th { padding-left: 6px; padding-right: 6px; }
+  .marca-mov { display: none; }
+}
+{% endblock %}
+{% block body %}
+<header class="top">
+  <h1>Precios bebé: EE.UU. → Lima</h1>
+  <div class="meta">{{ fecha }} · TC S/ {{ tc }}{% if tc_fuente != "SUNAT" %} (fijo){% endif %} ·
+    {{ conteo["VERDE"] }} verdes de {{ productos|length }}</div>
+</header>
+
+<div class="controles">
+  <div class="chips" role="group" aria-label="Filtrar por estado">
+    <button class="chip" data-f="" aria-pressed="true">Todos {{ productos|length }}</button>
+    {% for e in estados %}{% if conteo[e] %}
+    <button class="chip" data-f="{{ e }}" aria-pressed="false">{{ e|capitalize }} {{ conteo[e] }}</button>
+    {% endif %}{% endfor %}
+  </div>
+  <input type="search" id="q" placeholder="Buscar producto, marca o tienda…" aria-label="Buscar">
+</div>
+
+<div class="tabla">
+<table>
+  <thead><tr>
+    <th>Producto</th><th>Marca</th><th class="r">Mejor USA</th><th>Tienda</th><th></th>
+    <th class="r">Costo Lima</th><th class="r">Ref. Lima</th><th class="r">Venta obj.</th>
+    <th class="r">Margen S/</th><th class="r">Margen %</th><th class="r">vs ayer</th><th>Estado</th>
+  </tr></thead>
+  <tbody>
+  {% for p in productos %}
+  {% set url = p.url_ganadora|url_segura %}
+  <tr data-estado="{{ p.estado }}" data-texto="{{ (p.nombre ~ ' ' ~ p.marca ~ ' ' ~ (p.tienda_ganadora or ''))|lower }}">
+    <td class="prod">
+      <span><a href="{{ raiz }}producto/{{ p.id|slug }}.html">{{ p.nombre }}</a>
+        <span class="marca marca-mov"><br>{{ p.marca }}</span></span>
+      <span class="pill {{ p.estado.split()[0] }}">{{ p.estado }}</span>
+    </td>
+    <td class="col-marca marca">{{ p.marca }}</td>
+    <td class="r num" data-l="Mejor USA">
+      {% if p.precio_usa_usd is defined %}${{ "%.2f"|format(p.precio_usa_usd) }}
+        {% if p.fecha_precio_usa %}<span class="tag aviso" title="Precio guardado de un día anterior">del {{ p.fecha_precio_usa[5:] }}</span>{% endif %}
+      {% else %}—{% endif %}
+    </td>
+    <td data-l="Tienda">{{ p.tienda_ganadora or "—" }}{% if p.envio_gratis %} <span class="tag">envío gratis</span>{% endif %}</td>
+    <td class="comprar">{% if url %}<a class="btn" href="{{ url }}" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en {{ p.tienda_ganadora }}</span></a>{% endif %}</td>
+    <td class="r num" data-l="Costo Lima">{% if p.costo_lima_pen is defined %}S/ {{ p.costo_lima_pen }}{% else %}—{% endif %}</td>
+    <td class="r num" data-l="Ref. Lima">
+      {% if p.precio_lima_ref_pen is defined %}S/ {{ p.precio_lima_ref_pen }}{% else %}—{% endif %}
+      {% if p.lima_estimado %}<span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>{% endif %}
+    </td>
+    <td class="r num" data-l="Venta objetivo">{% if p.venta_objetivo_pen is defined %}S/ {{ p.venta_objetivo_pen }}{% else %}—{% endif %}</td>
+    <td class="r num margen-grande" data-l="Margen S/">{% if p.margen_pen is defined %}S/ {{ p.margen_pen }}{% else %}—{% endif %}</td>
+    <td class="r num margen" data-l="Margen %">{% if p.margen_pct is defined %}{{ p.margen_pct }} %{% else %}{{ "falta " ~ p.falta if p.falta else "—" }}{% endif %}</td>
+    <td class="r num" data-l="vs ayer">
+      {% if p.delta_pct_vs_ayer is defined and p.delta_pct_vs_ayer is not none %}
+        {% if p.delta_pct_vs_ayer < 0 %}<span class="baja">▼ {{ "%.1f"|format(-p.delta_pct_vs_ayer) }} %</span>
+        {% elif p.delta_pct_vs_ayer > 0 %}<span class="sube">▲ {{ "%.1f"|format(p.delta_pct_vs_ayer) }} %</span>
+        {% else %}={% endif %}
+      {% else %}—{% endif %}
+    </td>
+    <td class="col-estado-desk"><span class="pill {{ p.estado.split()[0] }}">{{ p.estado }}</span></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+<p class="vacio" id="vacio">Ningún producto coincide.</p>
+
+{% if errores %}
+<details style="margin-top:16px"><summary class="meta">{{ errores|length }} consultas fallaron hoy</summary>
+  <ul class="meta">{% for e in errores %}<li>{{ e.fuente }} · {{ e.producto }}: {{ e.error }}</li>{% endfor %}</ul>
+</details>
+{% endif %}
+{% endblock %}
+{% block js %}
+<script>
+(function () {
+  var filas = Array.prototype.slice.call(document.querySelectorAll("tbody tr"));
+  var chips = document.querySelectorAll(".chip"), q = document.getElementById("q");
+  var estado = "";
+  function aplicar() {
+    var t = q.value.trim().toLowerCase(), visibles = 0;
+    filas.forEach(function (tr) {
+      var ok = (!estado || tr.dataset.estado === estado) && (!t || tr.dataset.texto.indexOf(t) !== -1);
+      tr.style.display = ok ? "" : "none";
+      if (ok) visibles++;
+    });
+    document.getElementById("vacio").style.display = visibles ? "none" : "block";
+  }
+  chips.forEach(function (c) {
+    c.addEventListener("click", function () {
+      estado = c.dataset.f;
+      chips.forEach(function (o) { o.setAttribute("aria-pressed", o === c ? "true" : "false"); });
+      aplicar();
+    });
+  });
+  q.addEventListener("input", aplicar);
+})();
+</script>
+{% endblock %}

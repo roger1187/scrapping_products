@@ -11,13 +11,23 @@ Para cada producto se consultan todas las fuentes USA disponibles y se guarda la
 Si hoy Walmart está más barato que Amazon, el ganador es Walmart y la web muestra "Comprar en Walmart" con el link.
 Se guarda también el ranking completo (todas las tiendas con precio) para auditar.
 
-## Estado actual del código (punto de partida)
-Ya existe y funciona como base:
-- `main.py` recorre `USA_SOURCES` y `LIMA_SOURCES`, elige la oferta USA más barata y escribe `data/latest.json`
-  y `data/history/YYYY-MM-DD.json`.
-- `scraper/sources/usa/amazon.py` (scraping HTML básico) y `scraper/sources/lima/mercadolibre.py` (API pública).
-- `scraper/compare.py`, `scraper/fx.py`, `scraper/notify.py`, `scraper/models.py`.
-Falta todo lo demás de este documento. Este CLAUDE.md manda sobre el código base: si algo no coincide, se corrige el código.
+## Estado actual del código
+Hecho y con tests (pytest, sin red):
+- `main.py` orquesta fx -> fuentes USA -> fuentes Lima -> compare -> data/ (latest.json, history/, cache_fuentes.json).
+  Valida products.yaml, una fuente o un producto que falla no aborta la corrida, y oculta secretos en los logs.
+- `scraper/models.py`: Offer + filtros de relevancia (marca, used/renewed, size/pack) + normalización de tienda + desempate.
+- `scraper/compare.py`: margen y semáforo. `scraper/cuota.py`: cupo diario con rotación para fuentes de pago.
+- Fuentes: `google_shopping.py` (SerpAPI), `amazon.py`, `mercadolibre.py` (con token OAuth opcional).
+- `build_site.py` + `templates/`, workflow diario con deploy a gh-pages, `scripts/cron.sh` y `scripts/run_daily.ps1`.
+Pendiente hasta tener red para verificar contra páginas reales (no se escriben selectores ni fixtures a ciegas):
+walmart.py, target.py, brand_site.py, slickdeals.py, falabella.py, ripley.py, oechsle.py, Keepa en amazon.py y
+fallback de Mercado Libre a listado.mercadolibre.com.pe.
+
+## Decisiones del dueño
+- precio_lima_manual se usa SOLO si no hay ningún resultado relevante en Lima; la web lo marca «referencia estimada».
+- SerpAPI tiene cupo: SERPAPI_MAX_DIARIO (default 3 ≈ 90/mes). Se consultan N productos por día rotando (nunca
+  consultados primero, luego los de dato más antiguo); el resto reutiliza el último precio conocido (máx. 14 días),
+  mostrado con su fecha. Una fuente se vuelve "con cupo" definiendo ENV_MAX_DIARIO en su módulo.
 
 ## Fuentes USA (módulos en scraper/sources/usa/, cada uno expone get_offers(query, marca) -> list[Offer])
 1. google_shopping.py  AGREGADOR PRINCIPAL. SerpAPI (engine=google_shopping, gl=us, hl=en) si existe SERPAPI_KEY
@@ -41,7 +51,7 @@ Empate de precio: gana la que tenga envío gratis; luego orden de confianza marc
 - mercadolibre.py  API pública https://api.mercadolibre.com/sites/MPE/search?q=  (ya existe; si la API pide token,
   usar OAuth de aplicación con ML_CLIENT_ID / ML_CLIENT_SECRET o caer a scraping de listado.mercadolibre.com.pe)
 - falabella.py, ripley.py, oechsle.py  Playwright headless; 5 primeros resultados; screenshot en debug/ si falla el selector.
-- precio_lima_manual del YAML se usa como piso si no hay resultados.
+- precio_lima_manual del YAML se usa solo si no hay resultados (ver «Decisiones del dueño»).
 
 ## Regla de negocio
 - tipo_cambio: GET https://api.apis.net.pe/v1/tipo-cambio-sunat (campo venta); fallback 3.80
@@ -97,4 +107,4 @@ Empate de precio: gana la que tenga envío gratis; luego orden de confianza marc
 - pytest
 
 ## Variables de entorno (.env local / GitHub Secrets) — nunca commitear .env
-SERPAPI_KEY (recomendado), KEEPA_API_KEY (opcional), TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, FACTOR_IMPORTACION (opcional), SITE_BASE_URL
+SERPAPI_KEY (recomendado), SERPAPI_MAX_DIARIO (default 3), KEEPA_API_KEY (opcional), ML_CLIENT_ID / ML_CLIENT_SECRET (opcional), TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, FACTOR_IMPORTACION (opcional), SITE_BASE_URL

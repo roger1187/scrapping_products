@@ -1,11 +1,16 @@
 name: daily-prices
 on:
   schedule:
-    - cron: "0 12 * * *"   # 07:00 hora de Lima, todos los días
+    - cron: "0 12 * * *"   # 07:00 hora de Lima (UTC-5), todos los días
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# nunca dos corridas a la vez (cron + manual): pisarían data/ y el cupo de SerpAPI
+concurrency:
+  group: daily-prices
+  cancel-in-progress: false
 
 jobs:
   run:
@@ -13,30 +18,55 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt && playwright install chromium
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Tests
+        run: pytest -q
+        continue-on-error: true   # avisa en el log, pero no impide la corrida del día
+
       - name: Buscar precios
         run: python main.py
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           KEEPA_API_KEY: ${{ secrets.KEEPA_API_KEY }}
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+          FACTOR_IMPORTACION: ${{ vars.FACTOR_IMPORTACION }}
+          SERPAPI_MAX_DIARIO: ${{ vars.SERPAPI_MAX_DIARIO }}
+
       - name: Generar la web
-        run: if [ -f build_site.py ]; then python build_site.py; fi
+        run: python build_site.py
+
+      # data/ guarda historial y el caché de SerpAPI (la rotación depende de él)
       - name: Guardar historial
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "precios $(date -u +%F)"
-          git push
+          if git diff --cached --quiet; then echo "sin cambios en data/"; exit 0; fi
+          git commit -m "precios $(date -u +%F)"
+          for i in 1 2 3 4; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            sleep $((i * 5))
+          done
+          echo "no se pudo subir data/ tras 4 intentos" && exit 1
+
       - name: Publicar en GitHub Pages
-        if: hashFiles('site/index.html') != ''
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
+          publish_branch: gh-pages
+          force_orphan: true    # gh-pages solo guarda la última versión; el historial vive en data/

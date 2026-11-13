@@ -6,3 +6,4 @@ venv/
 debug/
 site/
 .pytest_cache/
+logs/
