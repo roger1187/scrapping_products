@@ -1,0 +1,96 @@
+{
+ "_fuente": "Recorte real de __NEXT_DATA__ de falabella.com.pe/falabella-pe/search (Ntt=skip hop / ergobaby omni 360), 2026-11-13",
+ "props": {
+  "pageProps": {
+   "results": [
+    {
+     "productId": "137957456",
+     "displayName": "Bolso Pañalero Unisex Bebé",
+     "brand": "SKIP HOP",
+     "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
+     "prices": [
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": false,
+       "type": "eventPrice",
+       "price": [
+        "319.20"
+       ]
+      },
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": true,
+       "type": "normalPrice",
+       "price": [
+        "399"
+       ]
+      }
+     ],
+     "sellerName": "Tienda Infanti"
+    },
+    {
+     "productId": "138771993",
+     "displayName": "Mochila Unisex Niño 10L",
+     "brand": "SKIP HOP",
+     "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
+     "prices": [
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": false,
+       "type": "eventPrice",
+       "price": [
+        "90.30"
+       ]
+      },
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": true,
+       "type": "normalPrice",
+       "price": [
+        "129"
+       ]
+      }
+     ],
+     "sellerName": "Tienda Infanti"
+    },
+    {
+     "productId": "123124632",
+     "displayName": "Cama Saltarina de 2.44 m",
+     "brand": "360",
+     "url": "https://www.falabella.com.pe/falabella-pe/product/123124632/cama-saltarina-de-2-44-m",
+     "prices": [
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": false,
+       "type": "internetPrice",
+       "price": [
+        "299"
+       ]
+      },
+      {
+       "label": "",
+       "icons": "",
+       "symbol": "S/ ",
+       "crossed": true,
+       "type": "normalPrice",
+       "price": [
+        "599"
+       ]
+      }
+     ],
+     "sellerName": "Tottus"
+    }
+   ]
+  }
+ }
+}

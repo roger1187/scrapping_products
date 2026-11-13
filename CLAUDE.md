@@ -12,16 +12,23 @@ Si hoy Walmart está más barato que Amazon, el ganador es Walmart y la web mues
 Se guarda también el ranking completo (todas las tiendas con precio) para auditar.
 
 ## Estado actual del código
-Hecho y con tests (pytest, sin red):
+Hecho y con tests (pytest, sin red; los parsers se prueban con recortes REALES en tests/fixtures/, nov-2026):
 - `main.py` orquesta fx -> fuentes USA -> fuentes Lima -> compare -> data/ (latest.json, history/, cache_fuentes.json).
   Valida products.yaml, una fuente o un producto que falla no aborta la corrida, y oculta secretos en los logs.
-- `scraper/models.py`: Offer + filtros de relevancia (marca, used/renewed, size/pack) + normalización de tienda + desempate.
-- `scraper/compare.py`: margen y semáforo. `scraper/cuota.py`: cupo diario con rotación para fuentes de pago.
-- Fuentes: `google_shopping.py` (SerpAPI), `amazon.py`, `mercadolibre.py` (con token OAuth opcional).
+- `scraper/models.py`: Offer + filtros de relevancia (marca, used/renewed, size/pack, requiere/requiere_lima)
+  + normalización de tienda + desempate.
+- `scraper/compare.py`: margen y semáforo. `scraper/cuota.py`: caché por fuente/producto = respaldo si una fuente
+  falla (último precio bueno ≤ 14 días) + cupo diario con rotación para fuentes de pago.
+- `scraper/navegador.py`: un Chromium de Playwright compartido (PLAYWRIGHT_CHROMIUM_PATH opcional).
+- Fuentes verificadas en vivo (nov-2026): amazon.py (HTML; 503 intermitentes), brand_site.py (Playwright, JSON-LD),
+  falabella.py (__NEXT_DATA__, sin Playwright), oechsle.py (API VTEX, sin Playwright).
+- `google_shopping.py` (SerpAPI): código listo, no verificable desde el entorno de Claude (la key va en la URL).
+- `mercadolibre.py`: la API responde 403 sin token -> necesita ML_CLIENT_ID/ML_CLIENT_SECRET (sin probar).
 - `build_site.py` + `templates/`, workflow diario con deploy a gh-pages, `scripts/cron.sh` y `scripts/run_daily.ps1`.
-Pendiente hasta tener red para verificar contra páginas reales (no se escriben selectores ni fixtures a ciegas):
-walmart.py, target.py, brand_site.py, slickdeals.py, falabella.py, ripley.py, oechsle.py, Keepa en amazon.py y
-fallback de Mercado Libre a listado.mercadolibre.com.pe.
+Descartado por ahora (bloqueo anti-bot verificado desde IP de datacenter, incluso con navegador): walmart.py
+("Robot or human?"), target.py (Redsky 435 / 429), ripley.py (Cloudflare), listado.mercadolibre.com.pe (verificación
+de cuenta). Walmart y Target llegan vía SerpAPI. Pendiente: slickdeals.py, Keepa, brand_url de Skip Hop, Hatch y
+Ergobaby (sus webs redirigen a www.*, host no habilitado en el entorno de pruebas).
 
 ## Decisiones del dueño
 - precio_lima_manual se usa SOLO si no hay ningún resultado relevante en Lima; la web lo marca «referencia estimada».
@@ -44,13 +51,15 @@ fallback de Mercado Libre a listado.mercadolibre.com.pe.
 Cada módulo nuevo se registra en la lista `USA_SOURCES` de `main.py`; no hay que tocar nada más.
 
 Relevancia: descartar ofertas cuyo título no contenga la marca (case-insensitive, sin apóstrofes) y las "used"/"renewed".
+Además `requiere` / `requiere_lima` del YAML: palabras obligatorias ("a|b" = cualquiera). Imprescindible en Lima,
+porque la referencia es el MÍNIMO y las búsquedas devuelven accesorios baratos de la misma marca.
 Si el producto tiene size o pack en el YAML, exigir que el título lo contenga.
 Empate de precio: gana la que tenga envío gratis; luego orden de confianza marca > Amazon > Walmart > Target > resto.
 
 ## Fuentes Lima (módulos en scraper/sources/lima/)
 - mercadolibre.py  API pública https://api.mercadolibre.com/sites/MPE/search?q=  (ya existe; si la API pide token,
   usar OAuth de aplicación con ML_CLIENT_ID / ML_CLIENT_SECRET o caer a scraping de listado.mercadolibre.com.pe)
-- falabella.py, ripley.py, oechsle.py  Playwright headless; 5 primeros resultados; screenshot en debug/ si falla el selector.
+- falabella.py (__NEXT_DATA__) y oechsle.py (API VTEX) sin Playwright; ripley.py bloqueado por Cloudflare.
 - precio_lima_manual del YAML se usa solo si no hay resultados (ver «Decisiones del dueño»).
 
 ## Regla de negocio

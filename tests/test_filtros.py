@@ -69,3 +69,11 @@ def test_filtrar_lima_no_exige_size_pack():
 ])
 def test_normalizar_tienda(crudo, limpio):
     assert normalizar_tienda(crudo) == limpio
+
+
+def test_palabras_requeridas_con_alternativas_y_sin_tildes():
+    from scraper.models import cumple_palabras
+    assert cumple_palabras("SKIP HOP Bolso Pañalero Forma", ["pañaler", "forma"])
+    assert cumple_palabras("Pantalón bebé pack x4", ["pantal", "x4|4 pack"])
+    assert not cumple_palabras("CARTERS Media Bebé Pack X4", ["pantal", "x4|4 pack"])
+    assert cumple_palabras("cualquier cosa", None)

@@ -16,14 +16,16 @@ from scraper import notify  # noqa: E402
 from scraper.compare import evaluar  # noqa: E402
 from scraper.cuota import Cupos, es_limitada, nombre_fuente  # noqa: E402
 from scraper.fx import tipo_cambio  # noqa: E402
-from scraper.sources.lima import mercadolibre  # noqa: E402
-from scraper.sources.usa import amazon, google_shopping  # noqa: E402
+from scraper.sources.lima import falabella, mercadolibre, oechsle  # noqa: E402
+from scraper.sources.usa import amazon, brand_site, google_shopping  # noqa: E402
 
 # Ninguna tienda es la favorita: se consultan todas y gana la más barata.
-# Cada módulo nuevo (walmart, target, brand_site...) se agrega aquí y no hay que tocar nada más.
-# Un módulo puede definir disponible() -> bool para omitirse (p. ej. sin API key) y ENV_MAX_DIARIO para tener cupo.
-USA_SOURCES = [google_shopping, amazon]
-LIMA_SOURCES = [mercadolibre]
+# Cada módulo nuevo se agrega aquí y no hay que tocar nada más. Un módulo puede definir:
+#   disponible() -> bool   para omitirse (p. ej. sin API key)
+#   ENV_MAX_DIARIO         para tener cupo diario con rotación (scraper/cuota.py)
+#   CAMPO = "brand_url"    para recibir ese campo del YAML en lugar del texto de búsqueda
+USA_SOURCES = [google_shopping, amazon, brand_site]
+LIMA_SOURCES = [mercadolibre, falabella, oechsle]
 
 DATA = Path("data")
 PRODUCTOS = Path("products.yaml")
@@ -66,19 +68,22 @@ def cargar_productos(ruta: Path = PRODUCTOS) -> list[dict]:
 
 def consultar(fuentes: list, producto: dict, campo: str, cupos: Cupos | None, errores: list) -> list:
     """Junta las ofertas de todas las fuentes; si una falla, se registra y se sigue."""
-    query = producto.get(campo)
-    if not query:
+    if not producto.get(campo):
         return []
     ofertas = []
     for fuente in fuentes:
         nombre = nombre_fuente(fuente)
-        if hasattr(fuente, "disponible") and not fuente.disponible():
+        query = producto.get(getattr(fuente, "CAMPO", campo))
+        if not query or (hasattr(fuente, "disponible") and not fuente.disponible()):
             continue
         try:
-            if cupos and es_limitada(fuente):
-                ofertas += cupos.obtener(fuente, producto["id"], lambda: fuente.get_offers(query, producto["marca"]))
+            consulta = lambda: fuente.get_offers(query, producto["marca"])  # noqa: E731
+            if cupos is None:
+                ofertas += consulta()
+            elif es_limitada(fuente):
+                ofertas += cupos.obtener(fuente, producto["id"], consulta)
             else:
-                ofertas += fuente.get_offers(query, producto["marca"])
+                ofertas += cupos.con_respaldo(fuente, producto["id"], consulta)
         except Exception as e:
             msg = ocultar_secretos(f"{e}")[:300]
             print(f"[{nombre}] falló con '{query}': {msg}")

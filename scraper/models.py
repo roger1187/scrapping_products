@@ -1,5 +1,6 @@
 """Modelo de oferta y reglas comunes a todas las fuentes: relevancia, nombre de tienda y desempate."""
 import re
+import unicodedata
 from dataclasses import asdict, dataclass, fields
 
 
@@ -59,6 +60,21 @@ def cumple_variante(titulo: str, producto: dict) -> bool:
     return all(_norm_variante(producto[c]) in t for c in ("size", "pack") if producto.get(c))
 
 
+def _sin_tildes(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", s.lower()) if unicodedata.category(c) != "Mn")
+
+
+def cumple_palabras(titulo: str, requeridas: list | None) -> bool:
+    """Cada elemento debe aparecer en el título; 'a|b' acepta cualquiera. Sin tildes ni mayúsculas.
+
+    Evita que un accesorio barato de la misma marca (estuche, juguete) gane o fije la referencia de Lima."""
+    t = _norm_variante(_sin_tildes(titulo))
+    return all(
+        any(_norm_variante(_sin_tildes(alt)) in t for alt in str(req).split("|"))
+        for req in (requeridas or [])
+    )
+
+
 def filtrar_usa(ofertas: list[Offer], producto: dict) -> list[Offer]:
     return [
         o for o in ofertas
@@ -66,6 +82,7 @@ def filtrar_usa(ofertas: list[Offer], producto: dict) -> list[Offer]:
         and contiene_marca(o.titulo, producto["marca"])
         and not es_usado(o)
         and cumple_variante(o.titulo, producto)
+        and cumple_palabras(o.titulo, producto.get("requiere"))
     ]
 
 
@@ -75,6 +92,7 @@ def filtrar_lima(ofertas: list[Offer], producto: dict) -> list[Offer]:
         if o.moneda == "PEN" and o.precio > 0
         and contiene_marca(o.titulo, producto["marca"])
         and not es_usado(o)
+        and cumple_palabras(o.titulo, producto.get("requiere_lima"))
     ]
 
 

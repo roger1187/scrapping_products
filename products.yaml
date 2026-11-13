@@ -5,6 +5,9 @@
 #   precio_lima_manual       precio de referencia en soles si no hay resultados en Lima (estimado, revísalo)
 #   brand_url (opcional)     URL exacta del producto en la web oficial de la marca
 #   size / pack (opcional)   texto que el título debe contener
+#   requiere (opcional)      palabras que el título de EE.UU. debe contener; "a|b" = cualquiera de las dos
+#   requiere_lima (opcional) lo mismo para Lima (sin tildes ni mayúsculas). Evitan que un accesorio barato de la
+#                            misma marca (medias, estuche, juguete) gane o fije la referencia de Lima.
 products:
   - id: kyte_pijama_bambu
     marca: Kyte Baby
@@ -12,6 +15,9 @@ products:
     usa: "Kyte Baby zippered footie"
     lima: "Kyte Baby pijama"
     precio_lima_manual: 230
+    brand_url: "https://kytebaby.com/products/zippered-footie-in-taro"
+    requiere: ["footie"]
+    requiere_lima: ["pijama|enterizo"]
 
   - id: kyte_sleep_bag
     marca: Kyte Baby
@@ -19,6 +25,9 @@ products:
     usa: "Kyte Baby sleep bag 1.0 TOG"
     lima: "Kyte Baby sleep bag"
     precio_lima_manual: 320
+    brand_url: "https://kytebaby.com/products/sleep-bag-in-oat-1-0"
+    requiere: ["sleep bag"]
+    requiere_lima: ["saco|sleep bag"]
 
   - id: kyte_enterizo
     marca: Kyte Baby
@@ -26,6 +35,8 @@ products:
     usa: "Kyte Baby zippered romper"
     lima: "Kyte Baby enterizo"
     precio_lima_manual: 250
+    requiere: ["romper"]
+    requiere_lima: ["enterizo|romper"]
 
   - id: kyte_toalla
     marca: Kyte Baby
@@ -33,6 +44,8 @@ products:
     usa: "Kyte Baby hooded bath towel"
     lima: "Kyte Baby toalla"
     precio_lima_manual: 250
+    requiere: ["towel"]
+    requiere_lima: ["toalla"]
 
   - id: little_sleepies_pack2
     marca: Little Sleepies
@@ -40,6 +53,9 @@ products:
     usa: "Little Sleepies zippy bamboo pajamas"
     lima: "Little Sleepies"
     precio_lima_manual: 210
+    brand_url: "https://littlesleepies.com/products/forest-crew-zippy"
+    requiere: ["zippy|pajama"]
+    requiere_lima: ["pijama|zippy"]
 
   - id: posh_peanut_swaddle
     marca: Posh Peanut
@@ -47,6 +63,9 @@ products:
     usa: "Posh Peanut swaddle"
     lima: "Posh Peanut swaddle"
     precio_lima_manual: 290
+    brand_url: "https://poshpeanut.com/products/vintage-pink-rose-swaddle-set"
+    requiere: ["swaddle"]
+    requiere_lima: ["swaddle|manta"]
 
   - id: posh_peanut_enterizo
     marca: Posh Peanut
@@ -54,6 +73,8 @@ products:
     usa: "Posh Peanut footie zippered one piece"
     lima: "Posh Peanut"
     precio_lima_manual: 290
+    requiere: ["footie|one piece"]
+    requiere_lima: ["enterizo|pijama"]
 
   - id: kickee_pijama
     marca: Kickee Pants
@@ -61,6 +82,8 @@ products:
     usa: "Kickee Pants footie"
     lima: "Kickee Pants"
     precio_lima_manual: 270
+    requiere: ["footie"]
+    requiere_lima: ["pijama|enterizo"]
 
   - id: hanna_pijama
     marca: Hanna Andersson
@@ -68,6 +91,8 @@ products:
     usa: "Hanna Andersson organic cotton pajamas baby"
     lima: "Hanna Andersson pijama"
     precio_lima_manual: 310
+    requiere: ["pajama|sleeper"]
+    requiere_lima: ["pijama|enterizo"]
 
   - id: halo_sleepsack
     marca: Halo
@@ -75,6 +100,8 @@ products:
     usa: "Halo SleepSack wearable blanket"
     lima: "Halo SleepSack"
     precio_lima_manual: 180
+    requiere: ["sleepsack"]
+    requiere_lima: ["sleepsack"]
 
   - id: aden_anais_muselina
     marca: Aden
@@ -82,6 +109,8 @@ products:
     usa: "aden + anais muslin swaddle 4 pack"
     lima: "Aden Anais muselina"
     precio_lima_manual: 310
+    requiere: ["swaddle"]
+    requiere_lima: ["muselina|swaddle|manta"]
 
   - id: skip_hop_mochila
     marca: Skip Hop
@@ -89,6 +118,8 @@ products:
     usa: "Skip Hop diaper bag backpack"
     lima: "Skip Hop pañalera mochila"
     precio_lima_manual: 520
+    requiere: ["diaper"]
+    requiere_lima: ["pañaler"]
 
   - id: skip_hop_forma
     marca: Skip Hop
@@ -96,6 +127,8 @@ products:
     usa: "Skip Hop Forma backpack diaper bag"
     lima: "Skip Hop Forma"
     precio_lima_manual: 650
+    requiere: ["forma"]
+    requiere_lima: ["forma", "pañaler"]
 
   - id: solly_fular
     marca: Solly Baby
@@ -103,6 +136,9 @@ products:
     usa: "Solly Baby wrap"
     lima: "Solly Baby fular"
     precio_lima_manual: 490
+    brand_url: "https://sollybaby.com/products/wrap-driftwood-stripe"
+    requiere: ["wrap"]
+    requiere_lima: ["fular|wrap"]
 
   - id: ergobaby_omni360
     marca: Ergobaby
@@ -110,6 +146,8 @@ products:
     usa: "Ergobaby Omni 360 baby carrier"
     lima: "Ergobaby Omni 360"
     precio_lima_manual: 1250
+    requiere: ["omni 360|omni360|omni classic"]   # el Omni 360 se vende ahora como "Omni Classic"
+    requiere_lima: ["omni"]
 
   - id: hatch_rest2
     marca: Hatch
@@ -117,6 +155,8 @@ products:
     usa: "Hatch Rest 2nd Gen sound machine"
     lima: "Hatch Rest"
     precio_lima_manual: 520
+    requiere: ["routine builder|2nd gen|rest 2"]   # en Amazon la Rest 2nd Gen ahora se llama "Routine Builder"; excluye la 1st Gen
+    requiere_lima: ["rest|routine builder"]
 
   - id: freshly_picked_zapatos
     marca: Freshly Picked
@@ -124,6 +164,9 @@ products:
     usa: "Freshly Picked baby moccasins"
     lima: "Freshly Picked"
     precio_lima_manual: 420
+    brand_url: "https://freshlypicked.com/products/zion"
+    requiere: ["moccasin"]
+    requiere_lima: ["mocasin|moccasin|zapat"]
 
   # Producto de control: debe salir ROJO (Falabella ya lo vende barato en Lima)
   - id: carters_pants4
@@ -132,3 +175,5 @@ products:
     usa: "Carter's baby 4-pack pants"
     lima: "Carters pantalon pack x4 bebe"
     precio_lima_manual: 130
+    requiere: ["pant"]
+    requiere_lima: ["pantal", "x4|4 pack|pack 4"]

@@ -1,4 +1,8 @@
-"""Fuentes con cupo limitado (p. ej. SerpAPI: 100 búsquedas/mes en el plan gratis).
+"""Caché de ofertas por fuente y producto (data/cache_fuentes.json).
+
+1. Respaldo para TODAS las fuentes: si una consulta falla (bloqueo 503, timeout...), se usa el último precio bueno
+   de esa fuente para ese producto (máx. MAX_DIAS_CACHE días), marcado con su fecha.
+2. Cupo para fuentes limitadas (p. ej. SerpAPI: 100 búsquedas/mes en el plan gratis).
 
 Una fuente se declara limitada definiendo en su módulo:
     ENV_MAX_DIARIO = "SERPAPI_MAX_DIARIO"   # variable de entorno con el máximo de búsquedas por día
@@ -93,6 +97,22 @@ class Cupos:
                 e["productos"][producto_id] = {"fecha": self.hoy, "ofertas": [o.to_dict() for o in ofertas]}
                 return ofertas
         return self._cacheadas(fuente, e["productos"].get(producto_id))
+
+    def con_respaldo(self, fuente, producto_id: str, consultar: Callable[[], list[Offer]]) -> list[Offer]:
+        """Fuente sin cupo: consulta siempre; si falla, devuelve el último precio bueno y relanza el error en el log."""
+        e = self._de(fuente)
+        try:
+            ofertas = consultar()
+        except Exception as ex:
+            respaldo = self._cacheadas(fuente, e["productos"].get(producto_id))
+            if not respaldo:
+                raise
+            print(f"[{nombre_fuente(fuente)}] falló para {producto_id} ({str(ex)[:80]}); "
+                  f"uso el precio del {respaldo[0].fecha or 'día'}")
+            return respaldo
+        if ofertas:   # un resultado vacío no borra el último precio bueno
+            e["productos"][producto_id] = {"fecha": self.hoy, "ofertas": [o.to_dict() for o in ofertas]}
+        return ofertas
 
     def _cacheadas(self, fuente, guardado: dict | None) -> list[Offer]:
         if not guardado:

@@ -22,7 +22,9 @@ Desde ahí corre solo todos los días a las 07:00 (hora de Lima).
 
 ## Cómo funciona
 
-- `products.yaml`: los productos. `precio_lima_manual` se usa **solo** si no hay ningún resultado en Lima, y en la web se marca como «referencia estimada».
+- `products.yaml`: los productos. `requiere` / `requiere_lima` son palabras que el título debe tener (evitan que un estuche o unas medias de la misma marca fijen el precio); `brand_url` activa la lectura del precio en la web oficial de la marca.
+- Tiendas: Amazon, web de la marca y Google Shopping (SerpAPI, incluye Walmart y Target) en EE.UU.; Falabella, Oechsle y Mercado Libre en Lima. Si una tienda falla, se usa su último precio bueno (máx. 14 días), marcado con la fecha.
+- `precio_lima_manual` se usa **solo** si no hay ningún resultado en Lima, y en la web se marca como «referencia estimada».
 - SerpAPI (Google Shopping) da 100 búsquedas al mes gratis. `SERPAPI_MAX_DIARIO` (por defecto 3, unas 90 al mes) limita cuántos productos se consultan cada día.
   Los productos rotan; para los demás se reutiliza el último precio conocido, que la web marca como «del dd-mm» (hasta 14 días de antigüedad).
 - Fórmula: `costo = USD × TC × 1.25`, `venta = mínimo Lima × 0.92`, `margen % = (venta − costo) / venta`. VERDE ≥ 35 %, AMARILLO 20–35 %, ROJO < 20 %.

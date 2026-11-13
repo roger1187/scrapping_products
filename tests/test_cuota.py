@@ -93,3 +93,21 @@ def test_si_la_consulta_falla_usa_cache_y_cuenta_la_busqueda(tmp_path, monkeypat
 def test_cache_corrupto_no_rompe(tmp_path):
     (tmp_path / "cache.json").write_text("{no es json")
     assert Cupos(tmp_path / "cache.json", "2026-11-06").estado == {}
+
+
+def test_respaldo_si_una_fuente_sin_cupo_falla(tmp_path):
+    f = types.SimpleNamespace(__name__="scraper.sources.usa.amazon")
+    c1 = Cupos(tmp_path / "cache.json", "2026-11-01")
+    assert c1.con_respaldo(f, "a", lambda: [usd(30.0)])[0].fecha is None
+    c1.guardar()
+
+    def bloqueado():
+        raise RuntimeError("HTTP 503")
+
+    c2 = Cupos(tmp_path / "cache.json", "2026-11-03")
+    o = c2.con_respaldo(f, "a", bloqueado)
+    assert o[0].precio == 30.0 and o[0].fecha == "2026-11-01"
+    assert c2.con_respaldo(f, "a", lambda: [])  == []                     # vacío no es fallo...
+    assert c2.estado["amazon"]["productos"]["a"]["fecha"] == "2026-11-01"  # ...ni borra el respaldo
+    with pytest.raises(RuntimeError):
+        c2.con_respaldo(f, "sin_historial", bloqueado)                     # sin respaldo: el error sigue
