@@ -1,0 +1,134 @@
+# Un producto por bloque. Campos:
+#   id, marca, nombre        obligatorios
+#   usa                      texto de búsqueda para TODAS las tiendas de EE.UU.
+#   lima                     texto de búsqueda para las tiendas de Lima
+#   precio_lima_manual       precio de referencia en soles si no hay resultados en Lima (estimado, revísalo)
+#   brand_url (opcional)     URL exacta del producto en la web oficial de la marca
+#   size / pack (opcional)   texto que el título debe contener
+products:
+  - id: kyte_pijama_bambu
+    marca: Kyte Baby
+    nombre: Pijama con cierre de bambú
+    usa: "Kyte Baby zippered footie"
+    lima: "Kyte Baby pijama"
+    precio_lima_manual: 230
+
+  - id: kyte_sleep_bag
+    marca: Kyte Baby
+    nombre: Saco de dormir 1.0 TOG
+    usa: "Kyte Baby sleep bag 1.0 TOG"
+    lima: "Kyte Baby sleep bag"
+    precio_lima_manual: 320
+
+  - id: kyte_enterizo
+    marca: Kyte Baby
+    nombre: Enterizo de bambú
+    usa: "Kyte Baby zippered romper"
+    lima: "Kyte Baby enterizo"
+    precio_lima_manual: 250
+
+  - id: kyte_toalla
+    marca: Kyte Baby
+    nombre: Toalla con capucha
+    usa: "Kyte Baby hooded bath towel"
+    lima: "Kyte Baby toalla"
+    precio_lima_manual: 250
+
+  - id: little_sleepies_pack2
+    marca: Little Sleepies
+    nombre: Pijama de bambú
+    usa: "Little Sleepies zippy bamboo pajamas"
+    lima: "Little Sleepies"
+    precio_lima_manual: 210
+
+  - id: posh_peanut_swaddle
+    marca: Posh Peanut
+    nombre: Swaddle de bambú
+    usa: "Posh Peanut swaddle"
+    lima: "Posh Peanut swaddle"
+    precio_lima_manual: 290
+
+  - id: posh_peanut_enterizo
+    marca: Posh Peanut
+    nombre: Enterizo de bambú estampado
+    usa: "Posh Peanut footie zippered one piece"
+    lima: "Posh Peanut"
+    precio_lima_manual: 290
+
+  - id: kickee_pijama
+    marca: Kickee Pants
+    nombre: Pijama de bambú
+    usa: "Kickee Pants footie"
+    lima: "Kickee Pants"
+    precio_lima_manual: 270
+
+  - id: hanna_pijama
+    marca: Hanna Andersson
+    nombre: Pijama de algodón orgánico
+    usa: "Hanna Andersson organic cotton pajamas baby"
+    lima: "Hanna Andersson pijama"
+    precio_lima_manual: 310
+
+  - id: halo_sleepsack
+    marca: Halo
+    nombre: Saco de dormir SleepSack
+    usa: "Halo SleepSack wearable blanket"
+    lima: "Halo SleepSack"
+    precio_lima_manual: 180
+
+  - id: aden_anais_muselina
+    marca: Aden
+    nombre: Manta muselina pack x4
+    usa: "aden + anais muslin swaddle 4 pack"
+    lima: "Aden Anais muselina"
+    precio_lima_manual: 310
+
+  - id: skip_hop_mochila
+    marca: Skip Hop
+    nombre: Pañalera mochila
+    usa: "Skip Hop diaper bag backpack"
+    lima: "Skip Hop pañalera mochila"
+    precio_lima_manual: 520
+
+  - id: skip_hop_forma
+    marca: Skip Hop
+    nombre: Pañalera mochila Forma
+    usa: "Skip Hop Forma backpack diaper bag"
+    lima: "Skip Hop Forma"
+    precio_lima_manual: 650
+
+  - id: solly_fular
+    marca: Solly Baby
+    nombre: Fular elástico
+    usa: "Solly Baby wrap"
+    lima: "Solly Baby fular"
+    precio_lima_manual: 490
+
+  - id: ergobaby_omni360
+    marca: Ergobaby
+    nombre: Portabebé Omni 360
+    usa: "Ergobaby Omni 360 baby carrier"
+    lima: "Ergobaby Omni 360"
+    precio_lima_manual: 1250
+
+  - id: hatch_rest2
+    marca: Hatch
+    nombre: Luz de sueño Rest 2nd Gen
+    usa: "Hatch Rest 2nd Gen sound machine"
+    lima: "Hatch Rest"
+    precio_lima_manual: 520
+
+  - id: freshly_picked_zapatos
+    marca: Freshly Picked
+    nombre: Zapatos primeros pasos
+    usa: "Freshly Picked baby moccasins"
+    lima: "Freshly Picked"
+    precio_lima_manual: 420
+
+  # Producto de control: debe salir ROJO (Falabella ya lo vende barato en Lima)
+  - id: carters_pants4
+    marca: Carter's
+    nombre: Pack pantalones x4 (control)
+    usa: "Carter's baby 4-pack pants"
+    lima: "Carters pantalon pack x4 bebe"
+    precio_lima_manual: 130
