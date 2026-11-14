@@ -47,8 +47,8 @@ def evaluar(producto: dict, ofertas_usa: list[Offer], ofertas_lima: list[Offer],
         "tc": tc,
         "ranking_tiendas": _ranking_por_tienda(usa),
         "lima_estimado": lima_estimado,
-        "ofertas_lima": [{"tienda": o.tienda, "precio_pen": round(o.precio, 2), "url": o.url, "titulo": o.titulo}
-                         for o in lima],
+        "busqueda_lima": producto.get("lima") or f"{producto['marca']} {producto['nombre']}",
+        "ofertas_lima": _sin_repetidas(lima),
     }
     if usa:
         g = usa[0]
@@ -82,6 +82,18 @@ def evaluar(producto: dict, ofertas_usa: list[Offer], ofertas_lima: list[Offer],
         "estado": semaforo(pct),
     })
     return fila
+
+
+def _sin_repetidas(lima: list[Offer]) -> list[dict]:
+    """Todas las publicaciones de Lima que pasaron los filtros (más barata primero), sin duplicados."""
+    vistas, out = set(), []
+    for o in lima:
+        clave = (o.tienda, o.url or o.titulo, round(o.precio, 2))
+        if clave in vistas:
+            continue
+        vistas.add(clave)
+        out.append({"tienda": o.tienda, "precio_pen": round(o.precio, 2), "url": o.url, "titulo": o.titulo})
+    return out
 
 
 def _ranking_por_tienda(ofertas_ordenadas: list[Offer]) -> list[dict]:

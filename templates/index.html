@@ -19,6 +19,22 @@ td.num { white-space: nowrap; }
 .marca { color: var(--muted); font-size: .8rem; }
 .margen-grande { font-weight: 700; }
 .vacio { text-align: center; color: var(--muted); padding: 30px 0; display: none; }
+tr[hidden] { display: none !important; }
+.ref-btn { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer;
+  text-decoration: underline dotted; text-underline-offset: 3px; font-variant-numeric: tabular-nums; }
+.ref-btn::after { content: " ▾"; font-size: .75em; }
+.ref-btn[aria-expanded="true"]::after { content: " ▴"; }
+tr.detalle > td { background: var(--bg); padding: 12px 14px; }
+.panel h3 { font-size: .85rem; margin: 0 0 8px; }
+.panel ol { margin: 0 0 10px; padding: 0; list-style: none; }
+.panel li { display: grid; grid-template-columns: 1fr auto auto; gap: 4px 10px; align-items: baseline;
+  padding: 7px 0; border-bottom: 1px solid var(--line); }
+.panel li:last-child { border-bottom: 0; }
+.panel .tit { grid-column: 1 / -1; font-size: .78rem; color: var(--muted); overflow-wrap: anywhere; }
+.panel .ref { font-weight: 700; }
+.panel .nota { font-size: .8rem; color: var(--muted); margin: 0 0 8px; }
+.panel .buscar { font-size: .8rem; color: var(--muted); }
+.panel .buscar a { margin-right: 10px; white-space: nowrap; }
 
 /* Móvil: cada fila es una tarjeta */
 @media (max-width: 899px) {
@@ -35,6 +51,10 @@ td.num { white-space: nowrap; }
   td.r { text-align: left; }
   td.comprar { grid-column: 1 / -1; padding-top: 8px; }
   td.comprar .btn { display: block; text-align: center; }
+  tr.fila.abierta { border-bottom-left-radius: 0; border-bottom-right-radius: 0; margin-bottom: 0; }
+  tr.detalle { display: block; padding: 0; margin: -1px 0 10px; border-top-left-radius: 0; border-top-right-radius: 0;
+    overflow: hidden; }
+  tr.detalle > td { padding: 12px 14px; }
 }
 @media (min-width: 900px) {
   .prod .pill { display: none; }
@@ -74,7 +94,7 @@ td.num { white-space: nowrap; }
   <tbody>
   {% for p in productos %}
   {% set url = p.url_ganadora|url_segura %}
-  <tr data-estado="{{ p.estado }}" data-texto="{{ (p.nombre ~ ' ' ~ p.marca ~ ' ' ~ (p.tienda_ganadora or ''))|lower }}">
+  <tr class="fila" data-id="{{ p.id|slug }}" data-estado="{{ p.estado }}" data-texto="{{ (p.nombre ~ ' ' ~ p.marca ~ ' ' ~ (p.tienda_ganadora or ''))|lower }}">
     <td class="prod">
       <span><a href="{{ raiz }}producto/{{ p.id|slug }}.html">{{ p.nombre }}</a>
         <span class="marca marca-mov"><br>{{ p.marca }}</span></span>
@@ -90,7 +110,9 @@ td.num { white-space: nowrap; }
     <td class="comprar">{% if url %}<a class="btn" href="{{ url }}" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en {{ p.tienda_ganadora }}</span></a>{% endif %}</td>
     <td class="r num" data-l="Costo Lima">{% if p.costo_lima_pen is defined %}S/ {{ p.costo_lima_pen }}{% else %}—{% endif %}</td>
     <td class="r num" data-l="Ref. Lima">
-      {% if p.precio_lima_ref_pen is defined %}S/ {{ p.precio_lima_ref_pen }}{% else %}—{% endif %}
+      {% if p.precio_lima_ref_pen is defined %}<button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-{{ p.id|slug }}" title="Ver todas las referencias de Lima">S/ {{ p.precio_lima_ref_pen }}</button>
+      {% else %}<button type="button" class="ref-btn" aria-expanded="false" aria-controls="lima-{{ p.id|slug }}">—</button>{% endif %}
       {% if p.lima_estimado %}<span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>{% endif %}
     </td>
     <td class="r num" data-l="Venta objetivo">{% if p.venta_objetivo_pen is defined %}S/ {{ p.venta_objetivo_pen }}{% else %}—{% endif %}</td>
@@ -104,6 +126,32 @@ td.num { white-space: nowrap; }
       {% else %}—{% endif %}
     </td>
     <td class="col-estado-desk"><span class="pill {{ p.estado.split()[0] }}">{{ p.estado }}</span></td>
+  </tr>
+  <tr class="detalle" id="lima-{{ p.id|slug }}" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · {{ p.marca }} {{ p.nombre }}</h3>
+      {% if p.ofertas_lima %}
+      <ol>
+        {% for o in p.ofertas_lima %}{% set u = o.url|url_segura %}
+        <li>
+          <span>{{ o.tienda }}{% if loop.first %} <span class="tag aviso">referencia</span>{% endif %}</span>
+          <span class="num {{ 'ref' if loop.first }}">S/ {{ "%.2f"|format(o.precio_pen) }}</span>
+          <span>{% if u %}<a href="{{ u }}" target="_blank" rel="noopener noreferrer">Ver</a>{% endif %}</span>
+          <span class="tit">{{ o.titulo }}</span>
+        </li>
+        {% endfor %}
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ {{ p.precio_lima_ref_pen }} × 0.92{% if p.venta_objetivo_pen is defined %} = S/ {{ p.venta_objetivo_pen }}{% endif %}.</p>
+      {% elif p.lima_estimado %}
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ {{ p.precio_lima_ref_pen }}</strong> — revísalo con los links de abajo.</p>
+      {% else %}
+      <p class="nota">Sin publicaciones en Lima y sin precio manual.</p>
+      {% endif %}
+      <div class="buscar">Buscar «{{ p.busqueda_lima or (p.marca ~ ' ' ~ p.nombre) }}» en:
+        {% for tienda, u in busquedas_lima(p) %}<a href="{{ u }}" target="_blank" rel="noopener noreferrer">{{ tienda }}</a>{% endfor %}
+      </div>
+    </div></td>
   </tr>
   {% endfor %}
   </tbody>
@@ -120,7 +168,7 @@ td.num { white-space: nowrap; }
 {% block js %}
 <script>
 (function () {
-  var filas = Array.prototype.slice.call(document.querySelectorAll("tbody tr"));
+  var filas = Array.prototype.slice.call(document.querySelectorAll("tbody tr.fila"));
   var chips = document.querySelectorAll(".chip"), q = document.getElementById("q");
   var estado = "";
   function aplicar() {
@@ -128,6 +176,8 @@ td.num { white-space: nowrap; }
     filas.forEach(function (tr) {
       var ok = (!estado || tr.dataset.estado === estado) && (!t || tr.dataset.texto.indexOf(t) !== -1);
       tr.style.display = ok ? "" : "none";
+      var det = document.getElementById("lima-" + tr.dataset.id);
+      if (det) det.style.display = ok ? "" : "none";
       if (ok) visibles++;
     });
     document.getElementById("vacio").style.display = visibles ? "none" : "block";
@@ -140,6 +190,15 @@ td.num { white-space: nowrap; }
     });
   });
   q.addEventListener("input", aplicar);
+  document.querySelectorAll(".ref-btn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var det = document.getElementById(b.getAttribute("aria-controls"));
+      var abrir = det.hidden;
+      det.hidden = !abrir;
+      b.setAttribute("aria-expanded", abrir ? "true" : "false");
+      b.closest("tr").classList.toggle("abierta", abrir);
+    });
+  });
 })();
 </script>
 {% endblock %}
