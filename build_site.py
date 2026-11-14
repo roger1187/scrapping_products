@@ -5,6 +5,7 @@ import re
 import shutil
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -15,6 +16,17 @@ ESTADOS = ["VERDE", "AMARILLO", "ROJO", "SIN DATOS"]
 def url_segura(url: str | None) -> str:
     """Solo http(s): un link raspado nunca debe poder ejecutar javascript: en la web."""
     return url if isinstance(url, str) and re.match(r"^https?://", url, re.I) else ""
+
+
+def busquedas_lima(p: dict) -> list[tuple[str, str]]:
+    """Links para verificar a mano el precio en las tiendas de Lima."""
+    q = p.get("busqueda_lima") or f"{p.get('marca', '')} {p.get('nombre', '')}".strip()
+    return [
+        ("Falabella", f"https://www.falabella.com.pe/falabella-pe/search?Ntt={quote(q)}"),
+        ("Oechsle", f"https://www.oechsle.pe/{quote(q)}?_q={quote(q)}&map=ft"),
+        ("Ripley", f"https://simple.ripley.com.pe/busqueda?term={quote(q)}"),
+        ("Mercado Libre", f"https://listado.mercadolibre.com.pe/{quote(q.replace(' ', '-'))}"),
+    ]
 
 
 def slug(producto_id: str) -> str:
@@ -53,6 +65,7 @@ def construir(data: Path, out: Path, templates: Path) -> None:
     env = Environment(loader=FileSystemLoader(templates), autoescape=select_autoescape(["html"]))
     env.filters["url_segura"] = url_segura
     env.filters["slug"] = slug
+    env.globals["busquedas_lima"] = busquedas_lima
 
     productos = latest.get("productos", [])
     conteo = {e: sum(1 for p in productos if p.get("estado") == e) for e in ESTADOS}
