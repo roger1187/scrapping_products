@@ -1,6 +1,6 @@
 {
   "fecha": "2026-11-14",
-  "generado": "2026-11-14T15:37:28+00:00",
+  "generado": "2026-11-14T17:44:48+00:00",
   "tipo_cambio": 3.404,
   "tipo_cambio_fuente": "SUNAT",
   "productos": [
@@ -247,6 +247,15 @@
           "envio_gratis": true,
           "fecha": "2026-11-13",
           "nota": "30% OFF"
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 26.59,
+          "url": "https://www.amazon.com/dp/B0FMXRKKH9",
+          "titulo": "KYTE BABY Zippered Footie",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
         },
         {
           "tienda": "Kyte Living",
@@ -870,13 +879,13 @@
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
