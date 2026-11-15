@@ -1,7 +1,7 @@
 {
   "google_shopping": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 3
     },
     "productos": {
@@ -2674,17 +2674,911 @@
             "nota": ""
           }
         ]
+      },
+      "posh_peanut_enterizo": {
+        "fecha": "2026-11-15",
+        "ofertas": []
+      },
+      "kickee_pijama": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Elizabeth & Company",
+            "titulo": "Kickee Pants Sport Stripe Zipper Footie",
+            "precio": 36.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12573601461470493084,headlineOfferDocid:12573601461470493084,imageDocid:14975414847763953352,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie - Moss with Aloe 12-18 Months",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:2116982108909502273,headlineOfferDocid:2116982108909502273,imageDocid:16823199759978172093,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Coverall with Zipper",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:2937539503801465238,productid:907839152071296557,headlineOfferDocid:8416225744144374629,imageDocid:11513342494440481416,rds:PC_12391568386662624453|PROD_PC_12391568386662624453,gpcid:16862125772170702394,mid:576462912501854403,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie - Kite with Pond 3T",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:9243392354302846629,headlineOfferDocid:9243392354302846629,imageDocid:16753826318945340202,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Footie with 2-Way Zipper - Latte Kitsune 9-12 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:11278175692986918759,headlineOfferDocid:11278175692986918759,imageDocid:2186309115989254181,rds:PC_1260066186639235213|PROD_PC_1260066186639235213,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Satara Home & Baby",
+            "titulo": "Newborn Print Classic Ruffle Footie with Snaps",
+            "precio": 36.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:4257307229641660922,productid:4437633940341733558,headlineOfferDocid:16887728675063663483,imageDocid:311096698106030059,rds:PC_10047839293019416814|PROD_PC_10047839293019416814,gpcid:10803482425135057912,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Kids on King",
+            "titulo": "Kickee Pants Camping Footie 18-24",
+            "precio": 48.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:3139691365846003778,headlineOfferDocid:3139691365846003778,imageDocid:6332338907852145495,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Whatnot",
+            "titulo": "kickee pants footie",
+            "precio": 5.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12090543485927851859,headlineOfferDocid:12090543485927851859,imageDocid:10962529852736941447,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie - Kite with Pond 12-18 Months",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:5897239939841907245,headlineOfferDocid:5897239939841907245,imageDocid:16753826318945340202,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Print Footie with 2 Way Zipper",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:6130711717485543525,productid:15219017783566493603,headlineOfferDocid:12676997047643561801,imageDocid:14792843838460578384,rds:PC_1693219158830381808|PROD_PC_1693219158830381808,gpcid:1693219158830381808,mid:576462916006174976,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Footie - Scarlet | Baby Riddle 12-18 Months",
+            "precio": 24.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:6751148757326828112,headlineOfferDocid:6751148757326828112,imageDocid:17084802173767895270,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo 2-Way Zipper Footie - Cake Pop 6-9 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:6947284804125327795,headlineOfferDocid:6947284804125327795,imageDocid:17398964366601245877,rds:PC_1693219158830381808|PROD_PC_1693219158830381808,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Kids on King",
+            "titulo": "Kickee Pants Camping Footie 12-18",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:16921516538890673631,headlineOfferDocid:16921516538890673631,imageDocid:6332338907852145495,rds:PC_16862125772170702394|PROD_PC_16862125772170702394,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Print Footie - Pond Fireflies Newborn",
+            "precio": 24.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:57604885061225084,headlineOfferDocid:57604885061225084,imageDocid:6992089474288789357,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo 2-Way Zipper Footie - Cake Pop 18-24 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12205353630610191933,headlineOfferDocid:12205353630610191933,imageDocid:17398964366601245877,rds:PC_1693219158830381808|PROD_PC_1693219158830381808,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Boy's Print Footie with Zipper - Peacock Fox Newborn",
+            "precio": 25.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:17371498741504772146,headlineOfferDocid:17371498741504772146,imageDocid:6525567355929645698,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Footie with 2-Way Zipper - Pond Sweet Stripe 18-24 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:2946273320174392927,headlineOfferDocid:2946273320174392927,imageDocid:8293427084605060486,rds:PC_12576180346493688390|PROD_PC_12576180346493688390,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo 2-Way Zipper Footie - Cake Pop 12-18 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:11476327294685708396,headlineOfferDocid:11476327294685708396,imageDocid:17398964366601245877,rds:PC_1693219158830381808|PROD_PC_1693219158830381808,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie with Snaps - Glacier 2T",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:11758646851891787536,headlineOfferDocid:11758646851891787536,imageDocid:10448588735998395142,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "The Spotted Goose",
+            "titulo": "KICKEE PANTS Solid Footie With 2 Way Zipper",
+            "precio": 43.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:1118983085690648606,headlineOfferDocid:1118983085690648606,imageDocid:15389664157388859148,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "KicKee Pants Bamboo Boys And Girls Footie with Snaps - Feather 18-24 Months",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:15170355824301101354,headlineOfferDocid:15170355824301101354,imageDocid:15771967185699195083,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Girl's Footie with Snaps - Lilac Newborn",
+            "precio": 23.8,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:11256754183683453462,headlineOfferDocid:11256754183683453462,imageDocid:151547332192823560,rds:PC_10600442217070074636|PROD_PC_10600442217070074636,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Print Footie with Snaps Natural Chairlift Newborn",
+            "precio": 25.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:6301352406638523404,headlineOfferDocid:6301352406638523404,imageDocid:13023953306096988935,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Baby Kickee Pants Footie with 2 Way Zipper",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:5194490723034122318,productid:6074190831648304033,headlineOfferDocid:4114861270467761177,imageDocid:4000726126837495409,rds:PC_2733692185724599910|PROD_PC_2733692185724599910,gpcid:4204232358982946236,mid:576462916921443204,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "6pm",
+            "titulo": "Baby Kickee Pants Print Footie with 2 Way Zipper",
+            "precio": 34.85,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:9320622062186008838,productid:2074825404972081644,headlineOfferDocid:17813654006791830976,imageDocid:6138885378123290653,rds:PC_12576180346493688390|PROD_PC_12576180346493688390,gpcid:12576180346493688390,mid:576462916610243194,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "15% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Footie with 2 Way Zipper in Midnight",
+            "precio": 20.7,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:3601186883977685403,productid:3757641537278719638,headlineOfferDocid:3079282622248997551,imageDocid:17628478148249069947,rds:PC_1693219158830381808|PROD_PC_1693219158830381808,gpcid:10817379582775474320,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Baby Footie",
+            "precio": 22.4,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:3079072774986403409,productid:1059742382792462935,headlineOfferDocid:3313706978173920532,imageDocid:18432097343431750313,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,gpcid:2182834143688924557,mid:576462912638136588,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "kickeepants",
+            "titulo": "Kickee Pants Boy's Bamboo Footie with 2-Way Zipper - Blue Moon Newborn",
+            "precio": 41.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:17754742644519508939,productid:15588676436659290640,headlineOfferDocid:4082495684264996782,imageDocid:13266894404978809582,rds:PC_2733692185724599910|PROD_PC_2733692185724599910,gpcid:11722701262065643695,mid:576462916921443204,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Footie with Zipper Aloe",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:14120976239482327919,productid:16523173027387900268,headlineOfferDocid:10772323219369232771,imageDocid:4000726126837495409,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,gpcid:14037504057568924342,mid:576462815740725283,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Girl's Footie with Snaps - Lotus 2T",
+            "precio": 25.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:4638182666841589354,headlineOfferDocid:4638182666841589354,imageDocid:4837617071985523408,rds:PC_5374559514150731732|PROD_PC_5374559514150731732,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Footie with 2-Way Zipper - Pond Sweet Stripe 12-18 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:14850608061337084209,headlineOfferDocid:14850608061337084209,imageDocid:8293427084605060486,rds:PC_3151154837549561323|PROD_PC_3151154837549561323,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Ellington & French",
+            "titulo": "Infant Boy's Kickee Pants Print Footie with Zipper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:1715873740027542463,productid:7427298434722604800,headlineOfferDocid:3117057868576957085,imageDocid:12384463103320304981,gpcid:4376699285720467465,mid:576462914533537552,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Footie with Zipper - Glass (TSS22) 9-12 Months",
+            "precio": 34.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:7854408432937986526,headlineOfferDocid:7854408432937986526,imageDocid:7200746499453886377,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Ellington & French",
+            "titulo": "{Kickee Pants} Footie Pajamas : Boy Fresh Water Stripe",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12320607133915853731,headlineOfferDocid:12320607133915853731,imageDocid:2236176265320399028,rds:PC_10600442217070074636|PROD_PC_10600442217070074636,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Print Footie - Kite Water Lattice 12-18 Months",
+            "precio": 24.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:15509110860782796191,headlineOfferDocid:15509110860782796191,imageDocid:17415744247625141060,rds:PC_10600442217070074636|PROD_PC_10600442217070074636,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "KicKee Pants Bamboo Footie (Snap) - Cedar Vintage Ornaments 12-18 Months",
+            "precio": 23.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:299277177447277189,headlineOfferDocid:299277177447277189,imageDocid:15400600804311469561,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie with Snaps - Navy 2T",
+            "precio": 23.1,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:2926093880705940189,headlineOfferDocid:2926093880705940189,imageDocid:13449803372233807379,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Boy's Bamboo Footie w/ 2-Way Zipper - Glass Phoenix 6-9 Months",
+            "precio": 36.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:1360310766348441637,headlineOfferDocid:1360310766348441637,imageDocid:1088216191896468675,rds:PC_1260066186639235213|PROD_PC_1260066186639235213,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Little Boys Solid Footie - Bark with Glass 2T",
+            "precio": 24.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:10034236557721807841,headlineOfferDocid:10034236557721807841,imageDocid:7103878451173877960,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "Baby Riddle",
+            "titulo": "Kickee Pants Bamboo Solid Footie - Glass with Shady Glade 18-24 Months",
+            "precio": 24.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:6243848228498809580,headlineOfferDocid:6243848228498809580,imageDocid:17789093069400952831,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "30% OFF"
+          }
+        ]
+      },
+      "hanna_pijama": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Donna The Llama On Almond Oil HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Toddler",
+            "precio": 19.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:11639123765747882176,productid:17809450827044848975,headlineOfferDocid:220103030002021469,imageDocid:4321664158763134022,rds:PC_1306890134553657832|PROD_PC_1306890134553657832,gpcid:1306890134553657832,mid:576462915359796833,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Girls'",
+            "precio": 13.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:10702046096521424683,productid:7987524039621780896,headlineOfferDocid:1312754829601093244,imageDocid:7705527862822478242,rds:PC_3071582484542347150|PROD_PC_3071582484542347150,gpcid:3071582484542347150,mid:576462885622167290,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Baby Girls' Hanna Andersson Pajamas Hanna Andersson Hannajams Strawberry Sleeper 1218m",
+            "precio": 16.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:4751211562853650770,productid:15602446669193572143,headlineOfferDocid:3653262271145684354,imageDocid:1140320445453921826,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:320707948554608927,mid:576462887961876585,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Happy Frogs On Ecru HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Boys'",
+            "precio": 14.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:7255919974738686471,productid:2142898563284081725,headlineOfferDocid:8769620832659120685,imageDocid:9602214285751691963,rds:PC_9500888657611731440|PROD_PC_9500888657611731440,gpcid:9500888657611731440,mid:576462878796125089,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "HannaJams Sleeper",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:16072532153091790287,productid:11352809077560447575,headlineOfferDocid:11791219458288371174,imageDocid:13169774383287470470,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:2792042842535416870,mid:576462563962826396,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Snap Footed Sleeper In Organic Cotton",
+            "precio": 11.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:2824468897117186613,productid:9917966664016056372,headlineOfferDocid:2400818108424579750,imageDocid:10696721596685589343,gpcid:2010962610018730900,mid:576462833475112241,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Footed Sleeper",
+            "precio": 42.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:15261227197580352516,productid:6072283003854845260,headlineOfferDocid:13196497416857796662,imageDocid:1090705927349023298,rds:PC_1183432156973136850|PROD_PC_1183432156973136850,gpcid:1183432156973136850,mid:576462550030863237,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson HannaJams Footed Sleeper Pajamas in 100% Organic Combed Cotton Baby Boys'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:10851082568292214853,productid:2433851792630537368,headlineOfferDocid:4441210476036333756,imageDocid:5128082383890727823,rds:PC_4624636675733299278|PROD_PC_4624636675733299278,gpcid:4624636675733299278,mid:576462847595862852,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "hannaandersson",
+            "titulo": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
+            "precio": 14.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "62% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby 2-Way Zip Sleeper",
+            "precio": 15.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:1505904902212748493,productid:11934881402457638464,headlineOfferDocid:4725147089144962582,imageDocid:14780224050823977004,rds:PC_5802925226261984599|PROD_PC_5802925226261984599,gpcid:5802925226261984599,mid:576462913540351358,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Strawberry Sweetness On Echinacea HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Girls'",
+            "precio": 12.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:1378634444484111673,productid:12340424813447136197,headlineOfferDocid:3605710263161963862,imageDocid:2457066038207960627,gpcid:6642750767476573616,mid:576462575784924624,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Sleeper",
+            "precio": 14.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:13307103431878514811,productid:16330423881205394909,headlineOfferDocid:9543672889482859734,imageDocid:3333030592316953369,gpcid:9222380204336350250,mid:576462897654657342,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Sleeper In Organic Cotton",
+            "precio": 11.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:6813738265795813868,productid:17367762422574193630,headlineOfferDocid:8307656782965140570,imageDocid:7263729550397541591,gpcid:13659982319153483944,mid:576462576250574256,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Boys'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:7261231867771564883,productid:8961278449598258487,headlineOfferDocid:13747759991878041235,imageDocid:17825637472729572980,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:7485725307468749380,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Footed Sleeper In Organic Cotton",
+            "precio": 15.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:1913502184988719841,productid:17297767967389185398,headlineOfferDocid:13740085516694542733,imageDocid:7126908772435338362,gpcid:14319782550716763152,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Sleeper in Organic Cotton",
+            "precio": 11.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:10638438406593463914,productid:17039953410675437013,headlineOfferDocid:9758473450760456876,imageDocid:13867381851775245981,gpcid:244903220509006619,mid:576462895425180106,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Little Sleepers With Feet In Organic Cotton",
+            "precio": 15.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:9478902963441050119,productid:5428407259377127404,headlineOfferDocid:2663078452891822842,imageDocid:2053391419121546610,gpcid:365499633554415382,mid:576462863000107945,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "hannaandersson",
+            "titulo": "Hanna Andersson Daniel Tiger Trolley HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Toddler",
+            "precio": 23.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:4140109751108070435,productid:12770475591792957818,headlineOfferDocid:7877837853676288089,imageDocid:6187270994890999567,rds:PC_2236827693904549947|PROD_PC_2236827693904549947,gpcid:2236827693904549947,mid:576462914509766686,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Holiday HannaJams Footed Sleeper",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:3420687267810753371,productid:1896034812090127647,headlineOfferDocid:15167113624955704488,imageDocid:18302374466900171267,rds:PC_16064500455577766054|PROD_PC_16064500455577766054,gpcid:14074435153351295929,mid:576462567103526851,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Dear Deer Baby Zip Sleeper",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:8543904639622931174,productid:14032418836000601484,headlineOfferDocid:17204599146782883520,imageDocid:5114204458431588348,gpcid:87936786157799805,mid:576462896366253466,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Baby Boys' Hanna Andersson Pajamas Hanna Andersson Space Sleeper",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:3651985408094496665,productid:4750833153941262612,headlineOfferDocid:16272899899794257706,imageDocid:17484904058802390316,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:17010979486034210295,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "hannaandersson",
+            "titulo": "Hanna Andersson Baby Print 2-Way Zip Shortie Sleeper",
+            "precio": 19.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:13621188914503203875,productid:16479597602980396661,headlineOfferDocid:8386265004102473230,imageDocid:9915680515353868075,rds:PC_16535833801714186752|PROD_PC_16535833801714186752,gpcid:16535833801714186752,mid:576462840981869838,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "50% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Buddy The Elf HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Boys'",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:7317729715299955796,productid:6066064143834803449,headlineOfferDocid:16111978097467565334,imageDocid:16807495427593323091,rds:PC_4207760589012111804|PROD_PC_4207760589012111804,gpcid:4207760589012111804,mid:576462788809973768,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Long John Pajama Set",
+            "precio": 13.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:4978326603329867242,productid:10855815120226510126,headlineOfferDocid:14690587095201479849,imageDocid:5563335637399879971,gpcid:8084523185284303509,mid:576462576254175223,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson | Baby Zip Sleeper | Size: 18-24 m",
+            "precio": 14.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:8961341483247609162,productid:17231982076243443227,headlineOfferDocid:15559853237062572779,imageDocid:13363332167256801497,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Pink Daisy HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Girls'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:9237958077604867589,productid:14089314956066156026,headlineOfferDocid:2924485596028602070,imageDocid:1391647180777555839,rds:PC_3583178931096516739|PROD_PC_3583178931096516739,gpcid:3583178931096516739,mid:576462567034831976,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Kids' Hanna Andersson Pajamas Hanna Andersson Organic Red Plaid Pajama Set",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:10782459505661484153,productid:10273142193082633492,headlineOfferDocid:11334114905283601850,imageDocid:8470370406817916427,rds:PC_16358526255059362855|PROD_PC_16358526255059362855,gpcid:16358526255059362855,mid:576462895427566468,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Kids' Hanna Andersson Pajamas Hanna Andersson Pajama Set",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:3750938985808868640,productid:8096740185418985696,headlineOfferDocid:3852647647356514123,imageDocid:849822943461851303,rds:PC_4456982904518907843|PROD_PC_4456982904518907843,gpcid:4456982904518907843,mid:576462913841627811,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Holiday HannaJams Sleeper Pajamas in 100% Cotton - Toddler Size 18-24 mos by Hanna Andersson",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:12741459222471875922,productid:680743635495869192,headlineOfferDocid:10641316150837495070,imageDocid:7187864325059934589,rds:PC_2929501684747617449|PROD_PC_2929501684747617449,gpcid:2929501684747617449,mid:576462899427407549,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Glow-In-The-Dark Baby Zip Sleeper In Organic Cotton",
+            "precio": 13.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:2699269647215324045,productid:5106383078340394060,headlineOfferDocid:1388569980339425724,imageDocid:11366004254004601115,gpcid:6859586966847690107,mid:576462833475764488,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson HannaSoft Stretch Pajama Set in 100% Organic Combed Cotton Toddler",
+            "precio": 29.4,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:5538450282075099414,productid:2506888950872668950,headlineOfferDocid:4090165231669109474,imageDocid:18128013243652032165,rds:PC_13867654672235514487|PROD_PC_13867654672235514487,gpcid:13867654672235514487,mid:576462916999685175,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Butterflies On Fuchsia Pink HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Girls'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:15868962539167783072,productid:17669974440032888570,headlineOfferDocid:2588915373792031922,imageDocid:17611157013608132482,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:8084323668983833308,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Kids' Hanna Andersson Multi Tree Chevron Holiday HannaJams Pajama Set in 100% Organic Combed Cotton",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:4731993316360845822,productid:9419767069645683044,headlineOfferDocid:13275209318147603148,imageDocid:2383047357994918748,rds:PC_12343868764492186669|PROD_PC_12343868764492186669,gpcid:12343868764492186669,mid:576462915358481032,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Zip Bold Stripe Sleeper In Organic Cotton",
+            "precio": 18.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:17498164510694129115,productid:12782669542040051810,headlineOfferDocid:16092729611574547092,imageDocid:17972347735439996255,gpcid:16052581780960433259,mid:576462913290576267,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Cherries On Electric Purple HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Girls'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:9135760245265574034,productid:3166122775573349610,headlineOfferDocid:16372430926924651828,imageDocid:9494742947506937053,gpcid:578475245998472126,mid:576462576109130020,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Jovie Elf HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Girls'",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:4477400480273447778,productid:5238511208937147599,headlineOfferDocid:10845919804807041580,imageDocid:11626756285984405924,rds:PC_5589277555052746690|PROD_PC_5589277555052746690,gpcid:5589277555052746690,mid:576462866779136406,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Cars HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Boys'",
+            "precio": 27.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:14615291331552229690,productid:7695315979662446661,headlineOfferDocid:12956842566954392656,imageDocid:9339955066268541026,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:6876805254951591620,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Hanna Andersson Multi Hearts On Ecru HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Girls'",
+            "precio": 27.6,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:9646176154886185232,productid:10007803171511876422,headlineOfferDocid:11483417113215334727,imageDocid:5938088794955734742,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:16211580563671719064,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Hanna-Me-Downs",
+            "titulo": "Hanna Andersson Baby Shortie Sleeper In Organic Cotton",
+            "precio": 18.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:16872594654486768567,productid:2674064730874058919,headlineOfferDocid:7954402240751175010,imageDocid:685025852327330,gpcid:8445605495430906377,mid:576462835294899433,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hanna Andersson",
+            "titulo": "Kids' Hanna Andersson Rainbow Plaid HannaJams Pajama Set in 100% Organic Combed Cotton",
+            "precio": 31.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:1787826124549352088,productid:11160531745869548113,headlineOfferDocid:11931033995302255683,imageDocid:17751524012384982321,rds:PC_4326784154773386482|PROD_PC_4326784154773386482,gpcid:4326784154773386482,mid:576462913292717718,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          }
+        ]
       }
     }
   },
   "amazon": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Amazon",
@@ -2724,7 +3618,7 @@
             "titulo": "KYTE BABY Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
             "precio": 37.99,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B0CN3CHM3T",
+            "url": "https://www.amazon.com/dp/B08282MDFY",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -2735,7 +3629,29 @@
             "titulo": "KYTE BABY Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
             "precio": 37.99,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B08282MDFY",
+            "url": "https://www.amazon.com/dp/B0CN3CHM3T",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B082856TFK",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0F6R9JGC9",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -2751,13 +3667,18 @@
             "condicion": "new",
             "fecha": null,
             "nota": ""
-          },
+          }
+        ]
+      },
+      "kyte_sleep_bag": {
+        "fecha": "2026-11-15",
+        "ofertas": [
           {
             "tienda": "Amazon",
-            "titulo": "KYTE BABY Unisex Footie, Rayon Made From Bamboo, Snap Closure,0-24 Months",
-            "precio": 34.99,
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B01N5T3IV1",
+            "url": "https://www.amazon.com/dp/B07PH258LW",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -2765,10 +3686,1378 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "Magnetic Me 100% Organic Cotton Magnetic Baby Footie Pajamas | Super Soft Cotton Fabric",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084RR39Q8",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0B46QPXHZ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084RG33KC",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084RHR77F",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0B46P8Q72",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084RQC7B6",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+            "precio": 55.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0B46RBFBD",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "kyte_enterizo": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08284XQ64",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0GLN73Z2Q",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 40.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DRWR713K",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084P7WQG3",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B082856TFK",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B084RQ3735",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Soft Bamboo from Rayon Long Sleeve Unisex Bodysuit, 0-24 Months",
+            "precio": 37.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0GKRLGHM2",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Zippered Shortall Romper",
+            "precio": 34.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0F6RLB1NV",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "kyte_toalla": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Blush",
+            "precio": 41.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DLH67Z1D",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Storm",
+            "precio": 41.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CN3CV94W",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Storm with Cloud Trim",
+            "precio": 41.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CN3DRGGJ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Cloud with Storm Trim",
+            "precio": 41.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CN3CSQ7Y",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Cloud with Midnight Trim",
+            "precio": 41.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CN3F3H1F",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KeaBabies Organic Baby Towel with Hood for Girls, Boys, Soft (Uria)",
+            "precio": 21.96,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CQTFZZ8S",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "KeaBabies Hooded Baby Towel for Newborn, Baby Bath Towels (Duck, 35x35)",
+            "precio": 17.06,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CV7V5KK7",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Burt's Bees Baby Infant Hooded Towels, Unisex Bath Essentials, 2-Pack",
+            "precio": 29.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DPLMKYWP",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "little_sleepies_pack2": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DZ32C2D8",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DZ31BPBS",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BCN4JR3L",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0D4GJHJMB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Newborn Pajamas, Viscose from Bamboo Baby Pajamas, Boys & Girls Preemie & Newborn Sleepers, 2-Way Zipper PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FSBW7GVQ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Ruffle Zippy, Pajamas, Viscose from Bamboo Baby Pajamas, Girls Sleepers, 2-Way Zipper",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FSB1S9DG",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Ruffle Zippy, Pajamas, Viscose from Bamboo Baby Pajamas, Girls Sleepers, 2-Way Zipper",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FSBSPBM3",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Little Sleepies Newborn Pajamas, Viscose from Bamboo Baby Pajamas, Boys & Girls Preemie Sleepers, 2-Way Crescent Zipper PJs",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FS9JKPY7",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "posh_peanut_swaddle": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Vintage Pink Rose",
+            "precio": 30.4,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B082XHRQSM",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Pixie",
+            "precio": 19.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DZYT1LKX",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Dusk Rose",
+            "precio": 30.4,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07MHXPXGL",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Lacey",
+            "precio": 19.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09CK7T6B5",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Boy Swaddle Blanket & Beanie, Percy",
+            "precio": 24.2,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DZP4KPFY",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Boy Swaddle Blanket & Beanie, Enzo",
+            "precio": 27.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08QYVS6LT",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Andina",
+            "precio": 22.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DZSYFF7W",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Erin",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08SQ5TNWP",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "posh_peanut_enterizo": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+            "precio": 27.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DDRJ4P87",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+            "precio": 32.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08SP2N6L3",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+            "precio": 32.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09CKJJ9S8",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Footie Pajamas",
             "precio": 40.0,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B08X8QR537",
+            "url": "https://www.amazon.com/dp/B083L477WS",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+            "precio": 32.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09CKN543W",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Boy Sleeper Pajamas",
+            "precio": 22.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DL6SK7FB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Boy Sleeper Pajamas",
+            "precio": 24.2,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DL6ZGCB6",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Posh Peanut Baby Girl Sleeper One Piece",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DL74Z197",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "hanna_pijama": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H84ZC77D",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H859QZDK",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson Family Matching Holiday Pajama Sets",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0HDG1X513",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H84WY2L5",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Kids Organic Cotton Long John Pajama Set",
+            "precio": 39.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H84ZPTT1",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H85LTBZ9",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H85JD3SB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hanna Andersson HannaJams Kids Organic Cotton Long John Pajama Set",
+            "precio": 39.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0H85GBC4D",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "halo_sleepsack": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO SleepSack, 100% Cotton Wearable Blanket, Swaddle Transition Sleeping Bag, TOG 0.5",
+            "precio": 34.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DDZ1DNFZ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO SuperSoft Bamboo Wearable Blanket 1.5 TOG – Buttery Soft, Plush Baby Sleep Sack for Newborns, Infants & Toddlers, Hip-Healthy Design, Machine Washable, 0 – 6 Months, Small, Calm Sage",
+            "precio": 44.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CPP32K95",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO Sleepsack Supersoft Wearable Blanket, Viscose Made from Bamboo, Sleeping Bag for Babies, 1.5 TOG, 6 – 12 Months, Medium, Calm Sage",
+            "precio": 44.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CPNHC9R2",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO Easy Transition SleepSack, Baby Sleep Sack Wearable Blanket, 100% Cotton, Soft & Breathable, 1.0 TOG, Helps Transition from Swaddle for Infants, Heather Grey, Small",
+            "precio": 39.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07KL2CGTL",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO SleepSack SuperSoft Wearable Blanket, Viscose Made From Bamboo, Sleeping Bag for Babies, 1.5 TOG, 12 – 18 Months, Large, Calm Sage",
+            "precio": 44.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CPP3ZK82",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO Sleepsack Plush Dot Velboa Wearable Blanket, TOG 1.5",
+            "precio": 34.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B002L7Y30I",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO Easy Transition Sleepsack Wearable Blanket, TOG 1.5, Heather Pink, Small",
+            "precio": 39.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07KL7MMTR",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "HALO SleepSack, 100% Cotton Wearable Blanket, Swaddle Transition Sleeping Bag, TOG 0.5",
+            "precio": 34.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CCBKVDGX",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "aden_anais_muselina": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Essentials Cotton Muslin Swaddle, Breathable Baby Blanket, Ideal for Boys, Girls, Newborns, Babies & Infants, Receiving Blanket, Soft and Lightweight Wrap, 4 Pack, Sage Woodland",
+            "precio": 39.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DVCGX73C",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Essentials Baby Muslin Swaddle Blankets, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Country Floral",
+            "precio": 39.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0CNKWGYXK",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Cotton Muslin Swaddles 4 Pack",
+            "precio": 59.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B086Z5RHNX",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Dapper",
+            "precio": 33.96,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B074G5GY68",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Essentials Swaddle Blanket, Muslin Blankets for Girls & Boys, Baby Receiving Swaddles, Newborn Gifts, Infant Shower Items, Toddler Gift, Wearable Swaddling Set, 4 Pack, Damsel",
+            "precio": 39.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0B1VY91G6",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Flower's Bloom",
+            "precio": 24.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BX7LF3CM",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Boutique Organic Swaddle Blanket 4-Pack – 100% Organic Cotton Muslin, Large, Soft, Breathable Receiving Blankets for Infants – Lightweight Multi-Use Baby Swaddles, Animal Kingdom",
+            "precio": 59.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09VYJ38GB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Boutique Organic Swaddle Blanket 4-Pack – 100% Organic Cotton Muslin, Large, Soft, Breathable Receiving Blankets for Infants – Lightweight Multi-Use Baby Swaddles, Mother Earth",
+            "precio": 59.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B095SYW37F",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "skip_hop_mochila": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Sage",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BSKZFV8Z",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Adjustable Tumbler Holder, 9 Pockets, Insulated Packing Cubes, Luggage Sleeve, Fits 14\" Laptop, Forma Next Oat",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3C255FC",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+            "precio": 63.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0731TBBWF",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad Adjustable Pocket for 30 oz Tumblers 9 Total Pockets Insulated Packing Cubes Luggage Sleeve & Stroller Straps Fits a 14” Laptop Forma Next Black",
+            "precio": 79.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3CTTPNB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Navy",
+            "precio": 70.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08FD9CLK8",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Easy-Access Wipes & Zippered Side Pockets, Luggage Sleeve & Stroller Straps, Fits a 15” Laptop, Luna, Sage",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3CY198K",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Mainframe Large Capacity Wide Open Structure with Changing Pad & Stroller Attachement, Black with Gold Trim",
+            "precio": 50.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B078G9TH7N",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Mauve Mist",
+            "precio": 71.38,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09V7H7K92",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "skip_hop_forma": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+            "precio": 63.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0731TBBWF",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Sage",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BSKZFV8Z",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad Adjustable Pocket for 30 oz Tumblers 9 Total Pockets Insulated Packing Cubes Luggage Sleeve & Stroller Straps Fits a 14” Laptop Forma Next Black",
+            "precio": 79.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3CTTPNB",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Navy",
+            "precio": 70.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08FD9CLK8",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Mauve Mist",
+            "precio": 71.38,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09V7H7K92",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Adjustable Tumbler Holder, 9 Pockets, Insulated Packing Cubes, Luggage Sleeve, Fits 14\" Laptop, Forma Next Oat",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3C255FC",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack: Mainframe Large Capacity Wide Open Structure with Changing Pad & Stroller Attachement, Black with Gold Trim",
+            "precio": 50.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B078G9TH7N",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Easy-Access Wipes & Zippered Side Pockets, Luggage Sleeve & Stroller Straps, Fits a 15” Laptop, Luna, Sage",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0G3CY198K",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "solly_fular": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Basil",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DBN1CQ76",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Ballet",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FLT8YNB1",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Spelt",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DBMTQJY4",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Sage Chequer",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FLTDYGF2",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Carrier 8-25 Lbs, Natural + Grey Stripe",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09KNW7N9S",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Coastal",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DBNPTXD2",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Momcozy Newborn Carrier WeeSnug- Lightweight and Cozy Comfort for 7-25 lbs",
+            "precio": 59.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0F5WXJJQD",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Boba Bliss Pre-Wrapped Baby Wrap Carrier, Newborn Sling, Gray",
+            "precio": 69.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BWSMDNSM",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "hatch_rest2": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Putty)",
+            "precio": 79.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0F7C6XJ3P",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Momcozy Smart Baby Sound Machine with Night Light, White Noise Machine",
+            "precio": 39.97,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B099RSXLGH",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Mint)",
+            "precio": 79.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FL4HPWHY",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hatch Baby & Hatch Go | Home & Travel Sound Machines (Putty)",
+            "precio": 109.98,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FMLKS5G5",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Greige)",
+            "precio": 79.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FL4HDKH7",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Dreamegg Sound Machine Baby, White Noise Machine Baby With Night Light",
+            "precio": 39.59,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DHKRCZWZ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Momcozy Smart Baby White Noise Sound Machine with App Control & Night Light",
+            "precio": 39.97,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0D5CY5P9K",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Peach)",
+            "precio": 79.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0FL4F9LJK",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "freshly_picked_zapatos": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "BirdRock Baby Bow and Knot Moccasins - Genuine Leather Baby Girl Shoes",
+            "precio": 30.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0BT8QDKG6",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Bebila Double Bow Fringe Baby Moccasins - Soft Sole Baby Shoes Girls Toddler Crib Flats",
+            "precio": 9.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07Z8XKGJY",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "BirdRock Baby Sherpa Moccasins - Cozy, Genuine Leather Winter Shoes for Boys and Girls",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0B9TX1L8Y",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Mejale Baby Infant Toddler Shoes Slip-on Soft Sole Leather Moccasins Pre-Walkers",
+            "precio": 15.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B017LMQ418",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "BirdRock Baby Fringeless Moccasins - Genuine Leather Boys and Girls Shoes for Newborns, Infants, Babies, Toddlers",
+            "precio": 29.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B09FQDT8M6",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "BirdRock Baby Mary Jane Moccasins - Genuine Leather Soft Sole Baby Girl Shoes for Newborns, Infants, Babies, and Toddlers",
+            "precio": 29.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07PHJTYLY",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Baby Girls & Boys Soft Sole First Walker Crib Shoes Moccasins",
+            "precio": 15.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08KXR8PC2",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "OWLOWLA Baby Moccasins Soft Sole Leather Baby Shoes Infant Toddler Pre-Walker Shoes Baby Boy Girl",
+            "precio": 15.99,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0DL5M8SFD",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "carters_pants4": {
+        "fecha": "2026-11-15",
+        "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
+            "precio": 17.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0744PN2W1",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
+            "precio": 17.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08XW6YY79",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
+            "precio": 17.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B01M7XR0II",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's unisex-baby 4-pack Fleece Pants",
+            "precio": 17.68,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0797GK16K",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's Baby Girls 4-Pack Fleece PantsCasual Pants",
+            "precio": 17.76,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0875QW9LD",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's unisex-baby 4-pack Fleece Pants",
+            "precio": 17.69,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B0875LZT2F",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's Baby Girls' 4-Pack Pant",
+            "precio": 17.5,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B08XWCCJYZ",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Amazon",
+            "titulo": "Simple Joys by Carter's unisex-baby 4-pack Fleece Pants",
+            "precio": 17.86,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B07NGZJRLG",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -2780,12 +5069,12 @@
   },
   "brand_site": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -2801,7 +5090,7 @@
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -2817,7 +5106,7 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Little Sleepies (sitio oficial)",
@@ -2833,7 +5122,7 @@
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Posh Peanut (sitio oficial)",
@@ -2849,7 +5138,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Solly Baby (sitio oficial)",
@@ -2865,7 +5154,7 @@
         ]
       },
       "freshly_picked_zapatos": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Freshly Picked (sitio oficial)",
@@ -2884,19 +5173,19 @@
   },
   "mercadolibre": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 0
     },
     "productos": {}
   },
   "falabella": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -2933,17 +5222,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Chicle",
-            "precio": 40.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158358125/pijama-conjunto-set-short-y-top-baby-rib-chicle",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Fernanda Galvao"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Baby Doll rojo Talla ML 34b a 36b DeAlcoba",
             "precio": 220.0,
             "moneda": "PEN",
@@ -2966,10 +5244,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Flores",
+            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Chicle",
             "precio": 40.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158313609/pijama-conjunto-set-short-y-top-baby-rib-flores",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158358125/pijama-conjunto-set-short-y-top-baby-rib-chicle",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -2977,10 +5255,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Melange Color",
+            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Flores",
             "precio": 40.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158358152/pijama-conjunto-set-short-y-top-baby-rib-melange-color",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158313609/pijama-conjunto-set-short-y-top-baby-rib-flores",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -2999,14 +5277,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO PIJAMA PARA MUJER JARDIN DE ENSUEÑO ALGODON BABY RIB 2 PIEZAS",
-            "precio": 36.9,
+            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Melange Color",
+            "precio": 40.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159749573/pijama-para-mujer-jardin-de-ensueno-algodon-baby-rib-2-piezas",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158358152/pijama-conjunto-set-short-y-top-baby-rib-melange-color",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Kaylanis"
+            "nota": "vende Fernanda Galvao"
           },
           {
             "tienda": "Falabella",
@@ -3025,6 +5303,17 @@
             "precio": 36.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159748974/pijama-para-mujer-brisa-floral-algodon-baby-rib-2-piezas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kaylanis"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO PIJAMA PARA MUJER JARDIN DE ENSUEÑO ALGODON BABY RIB 2 PIEZAS",
+            "precio": 36.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159749573/pijama-para-mujer-jardin-de-ensueno-algodon-baby-rib-2-piezas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3054,10 +5343,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Baby Doll  Fino Satin Color Fucsia SIN Copa Talla S M De Alcoba",
-            "precio": 210.0,
+            "titulo": "GENERICO Pijama Baby Doll Siempre Lista arriba y abajo Talla S a M Dealcoba",
+            "precio": 100.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/130683805/Baby-Doll-Fino-Satin-Color-Fucsia-SIN-Copa-Talla-S-M-De-Alcoba",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/145600605/pijama-baby-doll-siempre-lista-arriba-y-abajo-talla-s-a-m-dealcoba",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3065,10 +5354,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Baby Doll Siempre Lista arriba y abajo Talla S a M Dealcoba",
-            "precio": 100.0,
+            "titulo": "GENERICO Baby Doll  Fino Satin Color Fucsia SIN Copa Talla S M De Alcoba",
+            "precio": 210.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/145600605/pijama-baby-doll-siempre-lista-arriba-y-abajo-talla-s-a-m-dealcoba",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/130683805/Baby-Doll-Fino-Satin-Color-Fucsia-SIN-Copa-Talla-S-M-De-Alcoba",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3098,10 +5387,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saquito de Dormir Baby Baloo Verano Truth",
-            "precio": 89.0,
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Grey",
+            "precio": 119.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/151402581/saquito-de-dormir-baby-baloo-verano-truth",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135325759/Saquito-de-Dormir-Baby-Baloo-Invierno-Grey",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3109,10 +5398,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Grey",
-            "precio": 109.0,
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Verano Recycling",
+            "precio": 89.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135328122/Saquito-de-Dormir-Baby-Baloo-Invierno-Grey",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151413470/saquito-de-dormir-baby-baloo-verano-recycling",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3121,7 +5410,7 @@
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -3180,28 +5469,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "BABY MERINOS Saco de dormir - Oso - Celeste",
-            "precio": 89.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/133504848/Saco-de-dormir-Oso-Celeste",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Baby Merinos Lima"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143522161/saco-de-dormir-de-bebe-de-0-a-6-meses",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
@@ -3213,14 +5480,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY PINK",
-            "precio": 169.0,
+            "titulo": "BABY MERINOS Saco de dormir - Oso - Celeste",
+            "precio": 89.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149742381/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-PINK",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/133504848/Saco-de-dormir-Oso-Celeste",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Wawa Pima"
+            "nota": "vende Baby Merinos Lima"
           },
           {
             "tienda": "Falabella",
@@ -3235,10 +5502,21 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY PINK",
+            "precio": 169.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/149742381/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-PINK",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Wawa Pima"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143520936/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143522161/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3260,7 +5538,18 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143520906/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143520936/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3279,25 +5568,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
+            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
+            "precio": 110.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/127066714/Bolsa-de-Dormir-para-Ninos-y-Ninas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "WAWA PIMA SACO DE DORMIR BEBE CARNERITO INVIERNO BUNNY SKYBLUE WINTER",
-            "precio": 129.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154567595/saco-de-dormir-bebe-carnerito-invierno-bunny-skyblue-winter",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Wawa Pima"
+            "nota": "vende Habibi Store"
           },
           {
             "tienda": "Falabella",
@@ -3312,21 +5590,32 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
-            "precio": 110.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/127066714/Bolsa-de-Dormir-para-Ninos-y-Ninas",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Habibi Store"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Nuevo saco de dormir de bebé",
             "precio": 140.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/157589721/nuevo-saco-de-dormir-de-bebe",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143520906/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521402/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3346,7 +5635,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -3358,6 +5647,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Bros Toys"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "ARMA TU LOOK VESTIDO SUMMER LARGO DE ALGODON BABY RIB",
+            "precio": 114.99,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142710174/VESTIDO-SUMMER-LARGO-DE-ALGODON-BABY-RIB-ARMA-TU-LOOK",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Arma Tu Look"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "ARMA TU LOOK VESTIDO DAMARIS ALGODÓN BABY RIB CASUAL MANGA CORTA CON OLANES",
+            "precio": 105.99,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142892287/VESTIDO-DAMARIS-ALGODON-BABY-RIB-CASUAL-MANGA-CORTA-CON-OLANES",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Arma Tu Look"
           },
           {
             "tienda": "Falabella",
@@ -3405,6 +5716,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO Muñeca Baby Loveli Bebe Realista Enterizo Rosado 40 cm Dice Frases",
+            "precio": 119.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159721655/muneca-baby-loveli-bebe-realista-enterizo-rosado-40-cm-dice-frases",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bravil"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Muñeca Baby Loveli Bebe Realista Enterizo Coral 40 cm Dice Frases",
             "precio": 119.9,
             "moneda": "PEN",
@@ -3424,22 +5746,11 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Grupo Roa"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Muñeca Baby Loveli Bebe Realista Enterizo Rosado 40 cm Dice Frases",
-            "precio": 119.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159721655/muneca-baby-loveli-bebe-realista-enterizo-rosado-40-cm-dice-frases",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bravil"
           }
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -3598,7 +5909,7 @@
           {
             "tienda": "Falabella",
             "titulo": "BURTS BEES Toalla Con Capucha Baby 29x29 Pulgadas",
-            "precio": 189.0,
+            "precio": 219.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159514951/toalla-con-capucha-burts-bees-baby-29x29-pulgadas",
             "envio_gratis": false,
@@ -3620,7 +5931,7 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -3690,36 +6001,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE Interruptor Flotador Giant RFSN9 230V 13A 1HP 15ft",
-            "precio": 449.0,
+            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Beige",
+            "precio": 469.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158544775/interruptor-flotador-little-giant-rfsn9-230v-13a-1hp-15ft",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135961756/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Beige",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Set de TBall para Niaaos Tikes con Bate y 2 Pelotas",
-            "precio": 219.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155637537/set-de-tball-para-niaaos-little-tikes-con-bate-y-2-pelotas",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Aromatizante Auto Trees Vent Wrap New Car 4 Unidades",
-            "precio": 99.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158521334/aromatizante-auto-little-trees-vent-wrap-new-car-4-unidades",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
+            "nota": "vende Mamá Juaquina"
           },
           {
             "tienda": "Falabella",
@@ -3727,6 +6016,17 @@
             "precio": 169.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/158774278/kit-madera-little-jupiter-bigfoot1-camion-7-in-pintura",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE Interruptor Flotador Giant RFSN9 230V 13A 1HP 15ft",
+            "precio": 449.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158544775/interruptor-flotador-little-giant-rfsn9-230v-13a-1hp-15ft",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3767,17 +6067,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Beige",
-            "precio": 469.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135961756/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Beige",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mamá Juaquina"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "LITTLE Juguetes de Playa FUN TOYS F129 19 Piezas",
             "precio": 199.0,
             "moneda": "PEN",
@@ -3800,14 +6089,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Proyector De Cuentos Little Tikes 3 Historias 1 Personaje",
-            "precio": 339.0,
+            "titulo": "LITTLE  TIKES Balancin Dino Little Tikes",
+            "precio": 129.5,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159453849/proyector-de-cuentos-little-tikes-3-historias-1-personaje",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154724947/balancin-dino-little-tikes",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Vyse Global Pe"
+            "nota": "vende Crecer Jugando"
           },
           {
             "tienda": "Falabella",
@@ -3822,14 +6111,25 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Balancin Dino Little Tikes",
-            "precio": 129.5,
+            "titulo": "LITTLE  TIKES Mesa Picnic Little tikes",
+            "precio": 599.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154724947/balancin-dino-little-tikes",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154886941/mesa-picnic-little-tikes",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Crecer Jugando"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE PEOPLE HUNTR X",
+            "precio": 119.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155167971/little-people-huntr-x",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tottus"
           },
           {
             "tienda": "Falabella",
@@ -3841,12 +6141,34 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Crecer Jugando"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE  TIKES Resbaladera Tropical fucsia LIttle tikes",
+            "precio": 990.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/144858375/Resbaladera-Tropical-fucsia-LIttle-tikes",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Crecer Jugando"
           }
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
+          {
+            "tienda": "Falabella",
+            "titulo": "MANTA Swaddle SwaddleMe algodaan 3 piezas SM",
+            "precio": 239.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155638897/manta-swaddle-swaddleme-algodaan-3-piezas-sm",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
           {
             "tienda": "Falabella",
             "titulo": "HALO Swaddle SleepSack Algodón Talla S",
@@ -3893,10 +6215,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle Baby Modern Moments Suave Respirable",
-            "precio": 219.0,
+            "titulo": "MANTA SwaddleMe Monogram Algodan SM 3 Unidades Rainbow",
+            "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155624834/manta-swaddle-baby-modern-moments-suave-respirable",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155619723/manta-swaddleme-monogram-algodan-sm-3-unidades-rainbow",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3915,10 +6237,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle Bebaa Parents Choice 47x47 cm Azul 3 Unidades",
-            "precio": 179.0,
+            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
+            "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155638775/manta-swaddle-bebaa-parents-choice-47x47-cm-azul-3-unidades",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -3948,25 +6270,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
-            "precio": 229.0,
+            "titulo": "GENERICO Swaddle AQOKKA Algodan Ajustable 3 Unidades con Gorros Moao",
+            "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155617613/swaddle-aqokka-algodan-ajustable-3-unidades-con-gorros-moao",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
-            "precio": 99.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mi Ciguena"
           },
           {
             "tienda": "Falabella",
@@ -3981,50 +6292,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Swaddle AQOKKA Algodan Ajustable 3 Unidades con Gorros Moao",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155617613/swaddle-aqokka-algodan-ajustable-3-unidades-con-gorros-moao",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "INGENUITY SwaddleMe Swaddle Beba S Elefante Algodan",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155623096/swaddleme-ingenuity-swaddle-beba-s-elefante-algodan",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "MANTA Swaddle Beba Modern Moments Gerber Slate Grey Goose",
-            "precio": 209.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155623007/manta-swaddle-beba-modern-moments-gerber-slate-grey-goose",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex",
-            "precio": 249.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Swaddle Baby Baloo Media Estación Bears 0-3 meses",
             "precio": 99.0,
             "moneda": "PEN",
@@ -4036,21 +6303,21 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
+            "precio": 99.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mi Ciguena"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "MANTA Envolvente mermaker Tortilla para Bebe",
             "precio": 129.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159507150/manta-envolvente-mermaker-tortilla-para-bebe",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "INGENUITY Set Swaddle SwaddleMe Comfort Pack 03M 3 Piezas",
-            "precio": 189.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155622469/set-swaddle-ingenuity-swaddleme-comfort-pack-03m-3-piezas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4066,11 +6333,55 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Kyrios Importaciones"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Swaddle Baby Baloo Media Estación Rose 0-3 meses",
+            "precio": 99.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157273047/swaddle-baby-baloo-media-estacion-rose-0-3-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Swaddle Baby Baloo Media Estación Frozen 0-3 meses",
+            "precio": 99.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157273949/swaddle-baby-baloo-media-estacion-frozen-0-3-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NO LOGO Manta Envolvente Para El Susto x2",
+            "precio": 115.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/152842243/manta-envolvente-para-el-susto-x2",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kyrios Sac"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "MANTA Para Bebe Tortilla Lhedon Franela 285 GSM",
+            "precio": 169.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159718040/manta-para-bebe-tortilla-lhedon-franela-285-gsm",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
           }
         ]
       },
       "posh_peanut_enterizo": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -4107,6 +6418,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Red Shirt",
+            "precio": 119.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158413764/figura-de-coleccionable-peanuts-funfun-charlie-brown-red-shirt",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Family"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "PEANUTS Figura De Colección ReAction Pack x2 - Spike & Snoopy Super7",
             "precio": 149.9,
             "moneda": "PEN",
@@ -4122,17 +6444,6 @@
             "precio": 119.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/158413766/figura-de-coleccionable-peanuts-funfun-charlie-brown-yellow-shirt",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Baby Family"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Red Shirt",
-            "precio": 119.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158413764/figura-de-coleccionable-peanuts-funfun-charlie-brown-red-shirt",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4272,6 +6583,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO JUEGO DE DADOS YAHTZEE PEANUTS",
+            "precio": 175.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159962276/juego-de-dados-yahtzee-peanuts",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Compra Facil Usa Pe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "EXIT Polera Peanuts Beige",
             "precio": 69.99,
             "moneda": "PEN",
@@ -4280,22 +6602,11 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Exit Tienda Oficial"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "SNOOPY POLO HOMBRE PEANUTS NAVIDEÑO",
-            "precio": 59.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159449895/polo-hombre-peanuts-navideno",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Prestige Tech"
           }
         ]
       },
       "kickee_pijama": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -4453,14 +6764,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "ANTAR PANTALON BRISA PANTS",
-            "precio": 85.0,
+            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
+            "precio": 749.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/145041100/PANTALON-BRISA-PANTS",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158265395/pantalon-de-caballero-de-lino-kl",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Antar"
+            "nota": "vende Karl Lagerfeld Oficial"
           },
           {
             "tienda": "Falabella",
@@ -4475,14 +6786,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
-            "precio": 749.9,
+            "titulo": "ANTAR PANTALON BRISA PANTS",
+            "precio": 85.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158265395/pantalon-de-caballero-de-lino-kl",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/145041100/PANTALON-BRISA-PANTS",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Karl Lagerfeld Oficial"
+            "nota": "vende Antar"
           },
           {
             "tienda": "Falabella",
@@ -4520,19 +6831,8 @@
         ]
       },
       "hanna_pijama": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
-          {
-            "tienda": "Falabella",
-            "titulo": "DISNEY Pijama Licencia Corta Frozen Niña",
-            "precio": 39.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/153444654/pijama-licencia-corta-frozen-nina",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tottus"
-          },
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Pijama Niña 2 Piezas",
@@ -4543,6 +6843,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "DISNEY Pijama Licencia Corta Frozen Niña",
+            "precio": 39.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/153444654/pijama-licencia-corta-frozen-nina",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tottus"
           },
           {
             "tienda": "Falabella",
@@ -4557,32 +6868,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
-            "precio": 160.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156686350/pijama-nino-100-algodon-pima-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Hey Loomy Club"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "CARTERS Pijama 4 Piezas Niño",
             "precio": 71.94,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/21407834/pijama-4-piezas-nino-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niña Algodón",
-            "precio": 59.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21524005/pijama-nina-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4598,6 +6887,39 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Hey Loomy Club"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pijama Niña 100% algodón Pima extra suave",
+            "precio": 160.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156685614/pijama-nina-100-algodon-pima-extra-suave",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Hey Loomy Club"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
+            "precio": 160.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156686350/pijama-nino-100-algodon-pima-extra-suave",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Hey Loomy Club"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niña Algodón",
+            "precio": 59.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21524005/pijama-nina-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
           },
           {
             "tienda": "Falabella",
@@ -4623,43 +6945,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Niña 100% algodón Pima extra suave",
-            "precio": 160.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156685614/pijama-nina-100-algodon-pima-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Hey Loomy Club"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
+            "titulo": "CARTERS Pijama Niña 4 Piezas",
             "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407793/pijama-bebe-nino-4-piezas-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niño",
-            "precio": 55.92,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niña 4 Piezas Algodón",
-            "precio": 71.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21410287/pijama-bebe-nina-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407526/pijama-nina-4-piezas-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4678,39 +6967,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama manga larga niña algodón pima",
-            "precio": 79.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154745554/pijama-manga-larga-nina-algodon-pima",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kavera Hogar"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niña 4 Piezas",
-            "precio": 71.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407526/pijama-nina-4-piezas-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Algodón Pima doble Niña",
-            "precio": 59.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/144414503/Pijama-Algodon-Pima-doble-Nina",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Dinibu"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "DISNEY Pijama Store Elsa y Nok Frozen 2",
             "precio": 99.9,
             "moneda": "PEN",
@@ -4722,10 +6978,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niña 2 Piezas",
-            "precio": 79.9,
+            "titulo": "CARTERS Pijama Bebé Niña 4 Piezas Algodón",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21537057/fa26-tg-2pc-dreamplush-pj-girl-mons",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21410287/pijama-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4733,10 +6989,65 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama conjunto 2 piezas niño unisex",
+            "titulo": "GENERICO Pijama manga larga niña algodón pima",
+            "precio": 79.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154745554/pijama-manga-larga-nina-algodon-pima",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kavera Hogar"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niño 2 Piezas",
+            "precio": 79.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21537052/fa26-tb-2pc-dreamplush-pj-dog-app",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
+            "precio": 71.94,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407793/pijama-bebe-nino-4-piezas-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pijama Niña Algodón Llamita Polo Pantalón Inga Pijamas",
+            "precio": 64.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/125105250/Pijama-Nina-Algodon-Llamita-Polo-Pantalon-Inga-Pijamas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Ingapijamas"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niño",
+            "precio": 55.92,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Conjunto 2 Piezas Pijama Unisex Niño",
             "precio": 79.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/146178357/Pijama-conjunto-2-pizas-nino",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/146178361/Pijama-conjunto-2-pizas-nino",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -4745,19 +7056,8 @@
         ]
       },
       "halo_sleepsack": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
-          {
-            "tienda": "Falabella",
-            "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex",
-            "precio": 249.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
           {
             "tienda": "Falabella",
             "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex",
@@ -4805,7 +7105,7 @@
         ]
       },
       "aden_anais_muselina": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -4854,7 +7154,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -4880,17 +7180,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "SKIP HOP Bolso Pañalero Unisex Bebé",
-            "precio": 319.2,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tienda Infanti"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "HORMIGUITA 811-MOCHILA PAÑALERA",
             "precio": 69.9,
             "moneda": "PEN",
@@ -4899,6 +7188,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Hormiguita."
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "SKIP HOP Bolso Pañalero Unisex Bebé",
+            "precio": 319.2,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tienda Infanti"
           },
           {
             "tienda": "Falabella",
@@ -4957,17 +7257,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Mochila Pañalera Multifuncional para Bebe",
-            "precio": 45.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/153965118/mochila-panalera-multifuncional-para-bebe",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Ultra G"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
             "precio": 90.0,
             "moneda": "PEN",
@@ -4976,28 +7265,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Jaemy Import"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "SKIP HOP Mochila Unisex Niño 10L",
-            "precio": 90.3,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tienda Infanti"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
-            "precio": 95.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156337773/mochila-panalera-para-bebe",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Crea Peru"
           },
           {
             "tienda": "Falabella",
@@ -5023,14 +7290,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
-            "precio": 55.0,
+            "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
+            "precio": 95.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/136314189/Panalera-Mochila-Maternidad-Impermeable",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156337773/mochila-panalera-para-bebe",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Linion Market"
+            "nota": "vende Crea Peru"
           },
           {
             "tienda": "Falabella",
@@ -5045,6 +7312,28 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "SKIP HOP Mochila Unisex Niño 10L",
+            "precio": 90.3,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tienda Infanti"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO MOCHILA PAÑALERA  NEGRO CON AZUL",
+            "precio": 119.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142808208/MOCHILA-PANALERA-NEGRO-CON-AZUL",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Casa Smart S.a.c."
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
             "precio": 55.0,
             "moneda": "PEN",
@@ -5053,6 +7342,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Linion Market"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Mochila Pañalera Multifuncional para Bebe",
+            "precio": 45.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/153965118/mochila-panalera-multifuncional-para-bebe",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Ultra G"
           },
           {
             "tienda": "Falabella",
@@ -5070,7 +7370,7 @@
             "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
             "precio": 30.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158388565/mochila-panalera-maternal-con-compartimentos",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158388074/mochila-panalera-maternal-con-compartimentos",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5079,7 +7379,7 @@
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -5106,7 +7406,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -5264,28 +7564,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - VERDE",
-            "precio": 180.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157171852/fular-ergonomico-verde",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nido Bebe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - VERDE",
-            "precio": 180.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157171922/fular-ergonomico-verde",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nido Bebe"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "Baby FULAR ERGONOMICO - ROSADO",
             "precio": 180.0,
             "moneda": "PEN",
@@ -5297,10 +7575,32 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "Baby FULAR ERGONOMICO - VERDE",
+            "precio": 180.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157171852/fular-ergonomico-verde",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nido Bebe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "Baby FULAR ERGONOMICO - BEIGE",
             "precio": 180.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/157172072/fular-ergonomico-beige",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nido Bebe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "Baby FULAR ERGONOMICO - VERDE",
+            "precio": 180.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157171922/fular-ergonomico-verde",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5331,14 +7631,14 @@
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
-            "titulo": "360 Cama Saltarina de 2.44 m",
-            "precio": 299.0,
+            "titulo": "360 Cama Saltarina de 1.40 m Azul",
+            "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/123124632/cama-saltarina-de-2-44-m",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/123125102/cama-saltarina-de-1-40-m-azul",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5346,10 +7646,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Cama Saltarina de 1.40 m Azul",
-            "precio": 199.0,
+            "titulo": "360 Cama Saltarina de 2.44 m",
+            "precio": 299.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/123125102/cama-saltarina-de-1-40-m-azul",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/123124632/cama-saltarina-de-2-44-m",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5533,17 +7833,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Pastillero Travel Transparente",
-            "precio": 7.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/152369785/pastillero-travel-transparente-360",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tottus"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "360 Necesser de Viaje Travel",
             "precio": 19.9,
             "moneda": "PEN",
@@ -5552,11 +7841,22 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Tottus"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "360 Necesser Miami Vibes",
+            "precio": 19.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155071650/necesser-miami-vibes-360",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tottus"
           }
         ]
       },
       "hatch_rest2": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -5728,7 +8028,7 @@
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 179.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158637904/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/149116763/PIJAMA-ALGODON-EXTRA-SUAVE",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5736,32 +8036,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 199.0,
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA DE SEDA NADIA",
+            "precio": 289.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149117638/PIJAMA-ALGODON-EXTRA-SUAVE",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Grupo Houdali"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 229.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/150321109/pijama-algodon-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Grupo Houdali"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 179.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158637622/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156391574/pijama-de-seda-nadia",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5777,11 +8055,33 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Grupo Houdali"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA DE SEDA MISTIC",
+            "precio": 289.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156391026/pijama-de-seda-mistic",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Grupo Houdali"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
+            "precio": 179.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158637622/pijama-algodon-extra-suave",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Grupo Houdali"
           }
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -5862,17 +8162,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
-            "precio": 69.93,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/19012604/body-bebe-nino-nina-pack-x4-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "CARTERS Media Bebé Niño Niña Pack X4",
             "precio": 24.9,
             "moneda": "PEN",
@@ -5887,7 +8176,29 @@
             "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
             "precio": 69.93,
             "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/19012604/body-bebe-nino-nina-pack-x4-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
+            "precio": 69.93,
+            "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/19012595/body-bebe-nino-nina-pack-x4-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Conjunto Bebé Niña 4 Piezas Algodón",
+            "precio": 49.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/20993629/conjunto-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5917,10 +8228,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Conjunto Bebé Niña 4 Piezas Algodón",
-            "precio": 49.9,
+            "titulo": "CARTERS Body Pack X4 Bebé Niño",
+            "precio": 49.95,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/20993635/conjunto-bebe-nina-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21369658/w25-i-b-4pk-bs-neutral-bear",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5931,7 +8242,7 @@
             "titulo": "CARTERS Conjunto Bebé Niña 4 Piezas Algodón",
             "precio": 49.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/20993629/conjunto-bebe-nina-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/20993635/conjunto-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5961,10 +8272,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
-            "precio": 71.94,
+            "titulo": "CARTERS Pantalón Bebé Niño Pack X2 Algodón",
+            "precio": 48.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21410412/pijama-bebe-nino-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21500896/pantalon-bebe-nino-pack-x2-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5972,10 +8283,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niña Pack X4",
-            "precio": 49.95,
+            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21366111/body-pack-x4-bebe-nina",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21410412/pijama-bebe-nino-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -5991,17 +8302,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pantalón Bebé Niño Pack X2 Algodón",
-            "precio": 48.93,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21500896/pantalon-bebe-nino-pack-x2-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
           }
         ]
       }
@@ -6009,12 +8309,12 @@
   },
   "oechsle": {
     "uso": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6239,7 +8539,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6277,7 +8577,7 @@
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6403,7 +8703,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6606,7 +8906,7 @@
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6831,7 +9131,7 @@
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6913,7 +9213,7 @@
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -6932,6 +9232,17 @@
             "precio": 120.0,
             "moneda": "PEN",
             "url": "https://www.oechsle.pe/polos-basicos-top-basico-rib-pack-x4-1001602602/p",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Oechsle",
+            "titulo": "BLAUHOUSE Babitas para Bebé Algodón Reverso Felpa Pack x4",
+            "precio": 49.9,
+            "moneda": "PEN",
+            "url": "https://www.oechsle.pe/babitas-para-bebe-algodon-reverso-felpa-pack-x4-1000881609/p",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,

@@ -1,9 +1,162 @@
 {
-  "fecha": "2026-11-14",
-  "generado": "2026-11-14T17:44:48+00:00",
+  "fecha": "2026-11-15",
+  "generado": "2026-11-15T18:36:31+00:00",
   "tipo_cambio": 3.404,
   "tipo_cambio_fuente": "SUNAT",
   "productos": [
+    {
+      "id": "kickee_pijama",
+      "marca": "Kickee Pants",
+      "nombre": "Pijama de bambú",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Whatnot",
+          "precio_usd": 5.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12090543485927851859,headlineOfferDocid:12090543485927851859,imageDocid:10962529852736941447,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "kickee pants footie",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Baby Riddle",
+          "precio_usd": 22.4,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:3079072774986403409,productid:1059742382792462935,headlineOfferDocid:3313706978173920532,imageDocid:18432097343431750313,rds:PC_2182834143688924557|PROD_PC_2182834143688924557,gpcid:2182834143688924557,mid:576462912638136588,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kickee Pants Baby Footie",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "30% OFF"
+        },
+        {
+          "tienda": "6pm",
+          "precio_usd": 34.85,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:9320622062186008838,productid:2074825404972081644,headlineOfferDocid:17813654006791830976,imageDocid:6138885378123290653,rds:PC_12576180346493688390|PROD_PC_12576180346493688390,gpcid:12576180346493688390,mid:576462916610243194,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Baby Kickee Pants Print Footie with 2 Way Zipper",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "15% OFF"
+        },
+        {
+          "tienda": "Ellington & French",
+          "precio_usd": 35.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:1715873740027542463,productid:7427298434722604800,headlineOfferDocid:3117057868576957085,imageDocid:12384463103320304981,gpcid:4376699285720467465,mid:576462914533537552,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Infant Boy's Kickee Pants Print Footie with Zipper",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Elizabeth & Company",
+          "precio_usd": 36.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12573601461470493084,headlineOfferDocid:12573601461470493084,imageDocid:14975414847763953352,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kickee Pants Sport Stripe Zipper Footie",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "kickeepants",
+          "precio_usd": 41.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:17754742644519508939,productid:15588676436659290640,headlineOfferDocid:4082495684264996782,imageDocid:13266894404978809582,rds:PC_2733692185724599910|PROD_PC_2733692185724599910,gpcid:11722701262065643695,mid:576462916921443204,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kickee Pants Boy's Bamboo Footie with 2-Way Zipper - Blue Moon Newborn",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "The Spotted Goose",
+          "precio_usd": 43.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:1118983085690648606,headlineOfferDocid:1118983085690648606,imageDocid:15389664157388859148,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "KICKEE PANTS Solid Footie With 2 Way Zipper",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Kids on King",
+          "precio_usd": 45.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:16921516538890673631,headlineOfferDocid:16921516538890673631,imageDocid:6332338907852145495,rds:PC_16862125772170702394|PROD_PC_16862125772170702394,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kickee Pants Camping Footie 12-18",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Kickee Pants",
+      "ofertas_lima": [],
+      "precio_usa_usd": 5.0,
+      "tienda_ganadora": "Whatnot",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12090543485927851859,headlineOfferDocid:12090543485927851859,imageDocid:10962529852736941447,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "kickee pants footie",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 270,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 21,
+      "venta_objetivo_pen": 248,
+      "margen_pen": 227,
+      "margen_pct": 91.4,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
+      "id": "hanna_pijama",
+      "marca": "Hanna Andersson",
+      "nombre": "Pijama de algodón orgánico",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "hannaandersson",
+          "precio_usd": 14.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "62% OFF"
+        },
+        {
+          "tienda": "Hanna Andersson",
+          "precio_usd": 27.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:14615291331552229690,productid:7695315979662446661,headlineOfferDocid:12956842566954392656,imageDocid:9339955066268541026,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:6876805254951591620,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Hanna Andersson Cars HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Boys'",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "40% OFF"
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 35.0,
+          "url": "https://www.amazon.com/dp/B0H84ZC77D",
+          "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Hanna Andersson pijama",
+      "ofertas_lima": [],
+      "precio_usa_usd": 14.99,
+      "tienda_ganadora": "hannaandersson",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "62% OFF",
+      "precio_lima_ref_pen": 310,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 64,
+      "venta_objetivo_pen": 285,
+      "margen_pen": 221,
+      "margen_pct": 77.6,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
     {
       "id": "posh_peanut_swaddle",
       "marca": "Posh Peanut",
@@ -16,8 +169,17 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:8428785281161645941,productid:4356505341110798981,headlineOfferDocid:3269773644117246017,imageDocid:5178522268468742526,rds:PC_10553648379058725997|PROD_PC_10553648379058725997,gpcid:11061018701446724871,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Kina Infant Swaddle & Headwrap Set",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": "60% OFF"
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 19.99,
+          "url": "https://www.amazon.com/dp/B0DZYT1LKX",
+          "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Pixie",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
         },
         {
           "tienda": "eBay",
@@ -25,7 +187,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=productid:2345776436663802854,headlineOfferDocid:2345776436663802854,imageDocid:2533282193146699344,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Bamboo Swaddle And Beanie Set Posh Peanut NB Baby Girl Vacation Travel Print",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -34,7 +196,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:13755716663386619733,productid:14243243862170864660,headlineOfferDocid:3457333633565999978,imageDocid:15543793030810629742,gpcid:10376339821266784124,mid:576462575905366116,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Infant Joan Swaddle And Headwrap Set",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -43,7 +205,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:14465418265905103912,productid:3076927001314445858,headlineOfferDocid:7043984488337176136,imageDocid:18298754673612388623,gpcid:14207645896186672153,mid:576462897655222200,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Santa Medley Infant Swaddle & Beanie Set",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -61,7 +223,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:13569100338401605126,productid:16310886973436686344,headlineOfferDocid:12317537835637861757,imageDocid:8377796614361155299,rds:PC_10553648379058725997|PROD_PC_10553648379058725997,gpcid:10553648379058725997,mid:576462575901408248,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut - Leonora - Infant Swaddle and Headwrap Set",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -70,7 +232,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:5611244839359443199,productid:10333399330902151109,headlineOfferDocid:1924612824731618589,imageDocid:9432389291623664205,gpcid:7606122851567796195,mid:576462914301497059,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Around the World Beanie & Swaddle Set",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -79,7 +241,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:9979829484182674789,productid:11717953495833013011,headlineOfferDocid:9833089452255838150,imageDocid:746775387488743284,gpcid:17403301191176313915,mid:576462566973196662,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Infant Swaddle Beanie Set",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -88,7 +250,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:17596790115803373302,productid:10581942020479968185,headlineOfferDocid:15171997615615717730,imageDocid:7991848347428358428,gpcid:4622315199111507482,mid:576462575950423702,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "MacKenzie-Childs Posh Peanut Wild Rose Check Swaddle Headband Set",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -97,7 +259,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=productid:15138678512732919360,headlineOfferDocid:15138678512732919360,imageDocid:16876725897381168899,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh peanut Swaddle & Beanie Set | BNIB | Sneakers Design - New Vintage & collectibles | Color: White/Blue",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": "28% OFF"
         },
         {
@@ -106,7 +268,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=productid:13760333121206109822,headlineOfferDocid:13760333121206109822,imageDocid:14343619792546713680,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Posh Peanut Other | New In Package Posh Peanut Gamer Infant Swaddle & Beanie Set | Color: Black/Blue | Size: Osbb | Adoctors_Exwife's Closet",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         }
       ],
@@ -118,7 +280,7 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Posh Peanut swaddle&prds=catalogid:8428785281161645941,productid:4356505341110798981,headlineOfferDocid:3269773644117246017,imageDocid:5178522268468742526,rds:PC_10553648379058725997|PROD_PC_10553648379058725997,gpcid:11061018701446724871,pvt:hg&hl=en&gl=us&udm=28",
       "titulo_ganador": "Posh Peanut Kina Infant Swaddle & Headwrap Set",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-14",
       "nota_usa": "60% OFF",
       "precio_lima_ref_pen": 290,
       "tienda_lima_ref": "Referencia manual",
@@ -127,10 +289,10 @@
       "margen_pen": 195,
       "margen_pct": 73.2,
       "estado": "VERDE",
-      "precio_usa_ayer": 38.0,
-      "delta_pct_vs_ayer": -55.8,
+      "precio_usa_ayer": 16.8,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "VERDE",
-      "tienda_ayer": "Posh Peanut (sitio oficial)"
+      "tienda_ayer": "Casp Baby Mommy & Me Boutique"
     },
     {
       "id": "little_sleepies_pack2",
@@ -144,7 +306,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:13840236703482296211,headlineOfferDocid:13840236703482296211,imageDocid:12555575116861179927,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Little Sleepies Green Narwhal Bamboo Pajamas Size 2T - Green / 2T",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -153,7 +315,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=catalogid:3395016733452249216,productid:5001374105198755204,headlineOfferDocid:7022937978843570965,imageDocid:15356099830496321157,rds:PC_13643397900992832765|PROD_PC_13643397900992832765,gpcid:13643397900992832765,mid:576462823156689542,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "little sleepies Construction Two-Piece Pajama Set",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": "41% OFF"
         },
         {
@@ -162,7 +324,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=catalogid:17946122456209029988,productid:12938449393255979282,headlineOfferDocid:771771620813821877,imageDocid:10266153588592644463,rds:PC_5811072200762093032|PROD_PC_5811072200762093032,gpcid:5811072200762093032,mid:576462883531028855,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "little sleepies Mini Builders Shorty Zippy months",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -171,7 +333,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:10446138216920319609,headlineOfferDocid:10446138216920319609,imageDocid:18350891370561780852,rds:PC_6885979506289157317|PROD_PC_6885979506289157317,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Little Sleepies Pajamas | Nwt Little Sleepies Around The World Zippy | Color: Blue | Size: 6-9mb | Eboone11895's Closet",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -180,7 +342,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:519259852166399717,headlineOfferDocid:519259852166399717,imageDocid:16349811125048579503,rds:PC_14631271532748635904|PROD_PC_14631271532748635904,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Little Sleepies Secret Garden Two-Piece Short Sleeve & Shorts Pajama Set, 9/10",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -193,12 +355,21 @@
           "nota": ""
         },
         {
+          "tienda": "Amazon",
+          "precio_usd": 38.0,
+          "url": "https://www.amazon.com/dp/B0DZ32C2D8",
+          "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
           "tienda": "eBay",
           "precio_usd": 38.0,
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=catalogid:102868194003540754,productid:8685546075763763605,headlineOfferDocid:4555965883516005429,imageDocid:10717337512949026989,rds:PC_6885979506289157317|PROD_PC_6885979506289157317,gpcid:1340970602511661246,mid:576462820343972892,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "little sleepies Around The World Zippy",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         },
         {
@@ -207,7 +378,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:18088285546822645311,headlineOfferDocid:18088285546822645311,imageDocid:8080355385389491203,rds:PC_6537256210013774547|PROD_PC_6537256210013774547,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "little sleepies NWT Blue Elephants Bamboo Soft Pajamas Lounge PJ Set Kids 4T - New Kids | Color: Blue | Size: 4T",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-14",
           "nota": ""
         }
       ],
@@ -219,7 +390,7 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:13840236703482296211,headlineOfferDocid:13840236703482296211,imageDocid:12555575116861179927,pvt:a&hl=en&gl=us&udm=28",
       "titulo_ganador": "Little Sleepies Green Narwhal Bamboo Pajamas Size 2T - Green / 2T",
       "envio_gratis": false,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-14",
       "nota_usa": "",
       "precio_lima_ref_pen": 210,
       "tienda_lima_ref": "Referencia manual",
@@ -228,10 +399,46 @@
       "margen_pen": 132,
       "margen_pct": 68.1,
       "estado": "VERDE",
-      "precio_usa_ayer": 36.0,
-      "delta_pct_vs_ayer": -59.7,
-      "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Little Sleepies (sitio oficial)"
+      "precio_usa_ayer": 14.5,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Little Chickadee"
+    },
+    {
+      "id": "posh_peanut_enterizo",
+      "marca": "Posh Peanut",
+      "nombre": "Enterizo de bambú estampado",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 27.5,
+          "url": "https://www.amazon.com/dp/B0DDRJ4P87",
+          "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Posh Peanut",
+      "ofertas_lima": [],
+      "precio_usa_usd": 27.5,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0DDRJ4P87",
+      "titulo_ganador": "Posh Peanut Baby Girl Footie Pajamas",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 290,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 117,
+      "venta_objetivo_pen": 267,
+      "margen_pen": 150,
+      "margen_pct": 56.1,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
     },
     {
       "id": "kyte_pijama_bambu",
@@ -449,6 +656,15 @@
           "nota": ""
         },
         {
+          "tienda": "Amazon",
+          "precio_usd": 34.99,
+          "url": "https://www.amazon.com/dp/B0F6RLB1NV",
+          "titulo": "KYTE BABY Zippered Shortall Romper",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
           "tienda": "Bead Shack Gift Shop",
           "precio_usd": 35.99,
           "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:9274431568912633425,productid:2934445764187619871,headlineOfferDocid:16040391992013293151,imageDocid:11346036757908987827,rds:PC_10665027556030209685|PROD_PC_10665027556030209685,gpcid:9610510313152766109,mid:576462575901815995,pvt:a&hl=en&gl=us&udm=28",
@@ -515,6 +731,49 @@
       "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "VERDE",
       "tienda_ayer": "eBay"
+    },
+    {
+      "id": "aden_anais_muselina",
+      "marca": "Aden",
+      "nombre": "Manta muselina pack x4",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 24.99,
+          "url": "https://www.amazon.com/dp/B0BX7LF3CM",
+          "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Flower's Bloom",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": false,
+      "busqueda_lima": "Aden Anais muselina",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 209.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
+          "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba"
+        }
+      ],
+      "precio_usa_usd": 24.99,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0BX7LF3CM",
+      "titulo_ganador": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Flower's Bloom",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 209,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 106,
+      "venta_objetivo_pen": 192,
+      "margen_pen": 86,
+      "margen_pct": 44.7,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
     },
     {
       "id": "kyte_sleep_bag",
@@ -592,6 +851,15 @@
           "titulo": "Kyte Baby Sleep Bag - Cypress 1.0 Tog",
           "envio_gratis": false,
           "fecha": "2026-11-13",
+          "nota": ""
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 55.99,
+          "url": "https://www.amazon.com/dp/B07PH258LW",
+          "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
+          "envio_gratis": true,
+          "fecha": null,
           "nota": ""
         },
         {
@@ -719,230 +987,21 @@
       "tienda_ayer": "Freshly Picked (sitio oficial)"
     },
     {
-      "id": "solly_fular",
-      "marca": "Solly Baby",
-      "nombre": "Fular elástico",
-      "tc": 3.404,
-      "ranking_tiendas": [
-        {
-          "tienda": "Solly Baby (sitio oficial)",
-          "precio_usd": 74.0,
-          "url": "https://sollybaby.com/products/wrap-driftwood-stripe",
-          "titulo": "Solly Baby Driftwood Stripe Wrap",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Solly Baby fular",
-      "ofertas_lima": [],
-      "precio_usa_usd": 74.0,
-      "tienda_ganadora": "Solly Baby (sitio oficial)",
-      "url_ganadora": "https://sollybaby.com/products/wrap-driftwood-stripe",
-      "titulo_ganador": "Solly Baby Driftwood Stripe Wrap",
-      "envio_gratis": false,
-      "fecha_precio_usa": null,
-      "nota_usa": "",
-      "precio_lima_ref_pen": 490,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 315,
-      "venta_objetivo_pen": 451,
-      "margen_pen": 136,
-      "margen_pct": 30.2,
-      "estado": "AMARILLO",
-      "precio_usa_ayer": 74.0,
-      "delta_pct_vs_ayer": 0.0,
-      "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Solly Baby (sitio oficial)"
-    },
-    {
-      "id": "kyte_toalla",
-      "marca": "Kyte Baby",
-      "nombre": "Toalla con capucha",
-      "tc": 3.404,
-      "ranking_tiendas": [
-        {
-          "tienda": "shopthelittlehen",
-          "precio_usd": 40.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:2692591600699143703,headlineOfferDocid:2692591600699143703,imageDocid:2455984412416856181,rds:PC_9838315019541398863|PROD_PC_9838315019541398863,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Infant Hooded Towel: Oat",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Baby",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=catalogid:6517155885931700424,productid:15957282854686047944,headlineOfferDocid:8401123978777296601,imageDocid:14556554481876550202,rds:PC_6605085547277806129|PROD_PC_6605085547277806129,gpcid:15679732471044040180,mid:576462855027513080,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Hooded Bath Towel in Slate Blue by Kyte Baby",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Lake And Laurel Company",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:12402535273625460016,headlineOfferDocid:12402535273625460016,imageDocid:1716655173806774262,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby- Hooded Bath Towel in Blush",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Milk & Honey Babies",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:5714797509729351992,headlineOfferDocid:5714797509729351992,imageDocid:6886266662163309529,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Hooded Bath Towel in Blush",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Kyte Baby toalla",
-      "ofertas_lima": [],
-      "precio_usa_usd": 40.0,
-      "tienda_ganadora": "shopthelittlehen",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:2692591600699143703,headlineOfferDocid:2692591600699143703,imageDocid:2455984412416856181,rds:PC_9838315019541398863|PROD_PC_9838315019541398863,pvt:hg&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Kyte Baby Infant Hooded Towel: Oat",
-      "envio_gratis": true,
-      "fecha_precio_usa": null,
-      "nota_usa": "",
-      "precio_lima_ref_pen": 250,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 170,
-      "venta_objetivo_pen": 230,
-      "margen_pen": 60,
-      "margen_pct": 26.0,
-      "estado": "AMARILLO",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "posh_peanut_enterizo",
-      "marca": "Posh Peanut",
-      "nombre": "Enterizo de bambú estampado",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Posh Peanut",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 290,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "kickee_pijama",
-      "marca": "Kickee Pants",
-      "nombre": "Pijama de bambú",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Kickee Pants",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 270,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "hanna_pijama",
-      "marca": "Hanna Andersson",
-      "nombre": "Pijama de algodón orgánico",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Hanna Andersson pijama",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 310,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "halo_sleepsack",
-      "marca": "Halo",
-      "nombre": "Saco de dormir SleepSack",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": false,
-      "busqueda_lima": "Halo SleepSack",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
-          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
-          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1",
-          "titulo": "HALO Swaddle SleepSack Algodón Talla S"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 239.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex",
-          "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 249.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex",
-          "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex"
-        }
-      ],
-      "precio_lima_ref_pen": 229,
-      "tienda_lima_ref": "Falabella",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "aden_anais_muselina",
-      "marca": "Aden",
-      "nombre": "Manta muselina pack x4",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": false,
-      "busqueda_lima": "Aden Anais muselina",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 209.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
-          "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba"
-        }
-      ],
-      "precio_lima_ref_pen": 209,
-      "tienda_lima_ref": "Falabella",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
       "id": "skip_hop_mochila",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila",
       "tc": 3.404,
-      "ranking_tiendas": [],
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 45.0,
+          "url": "https://www.amazon.com/dp/B0G3CY198K",
+          "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Easy-Access Wipes & Zippered Side Pockets, Luggage Sleeve & Stroller Straps, Fits a 15” Laptop, Luna, Sage",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
       "lima_estimado": false,
       "busqueda_lima": "Skip Hop pañalera mochila",
       "ofertas_lima": [
@@ -983,19 +1042,257 @@
           "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
         }
       ],
+      "precio_usa_usd": 45.0,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0G3CY198K",
+      "titulo_ganador": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Easy-Access Wipes & Zippered Side Pockets, Luggage Sleeve & Stroller Straps, Fits a 15” Laptop, Luna, Sage",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
       "precio_lima_ref_pen": 319,
       "tienda_lima_ref": "Falabella",
-      "estado": "SIN DATOS",
-      "falta": "USA",
+      "costo_lima_pen": 191,
+      "venta_objetivo_pen": 294,
+      "margen_pen": 102,
+      "margen_pct": 34.8,
+      "estado": "AMARILLO",
       "estado_ayer": "SIN DATOS",
       "tienda_ayer": null
+    },
+    {
+      "id": "solly_fular",
+      "marca": "Solly Baby",
+      "nombre": "Fular elástico",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 74.0,
+          "url": "https://www.amazon.com/dp/B0DBN1CQ76",
+          "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Basil",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Solly Baby (sitio oficial)",
+          "precio_usd": 74.0,
+          "url": "https://sollybaby.com/products/wrap-driftwood-stripe",
+          "titulo": "Solly Baby Driftwood Stripe Wrap",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Solly Baby fular",
+      "ofertas_lima": [],
+      "precio_usa_usd": 74.0,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0DBN1CQ76",
+      "titulo_ganador": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Basil",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 490,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 315,
+      "venta_objetivo_pen": 451,
+      "margen_pen": 136,
+      "margen_pct": 30.2,
+      "estado": "AMARILLO",
+      "precio_usa_ayer": 74.0,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "AMARILLO",
+      "tienda_ayer": "Solly Baby (sitio oficial)"
+    },
+    {
+      "id": "halo_sleepsack",
+      "marca": "Halo",
+      "nombre": "Saco de dormir SleepSack",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 34.95,
+          "url": "https://www.amazon.com/dp/B0DDZ1DNFZ",
+          "titulo": "HALO SleepSack, 100% Cotton Wearable Blanket, Swaddle Transition Sleeping Bag, TOG 0.5",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": false,
+      "busqueda_lima": "Halo SleepSack",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 229.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 229.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 229.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1",
+          "titulo": "HALO Swaddle SleepSack Algodón Talla S"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 239.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex",
+          "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex"
+        }
+      ],
+      "precio_usa_usd": 34.95,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0DDZ1DNFZ",
+      "titulo_ganador": "HALO SleepSack, 100% Cotton Wearable Blanket, Swaddle Transition Sleeping Bag, TOG 0.5",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 229,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 149,
+      "venta_objetivo_pen": 211,
+      "margen_pen": 62,
+      "margen_pct": 29.4,
+      "estado": "AMARILLO",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
+      "id": "hatch_rest2",
+      "marca": "Hatch",
+      "nombre": "Luz de sueño Rest 2nd Gen",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 79.99,
+          "url": "https://www.amazon.com/dp/B0F7C6XJ3P",
+          "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Putty)",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Hatch Rest",
+      "ofertas_lima": [],
+      "precio_usa_usd": 79.99,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0F7C6XJ3P",
+      "titulo_ganador": "Hatch Baby Sound Machine & Night Light Routine Builder (Putty)",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 520,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 340,
+      "venta_objetivo_pen": 478,
+      "margen_pen": 138,
+      "margen_pct": 28.9,
+      "estado": "AMARILLO",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
+      "id": "kyte_toalla",
+      "marca": "Kyte Baby",
+      "nombre": "Toalla con capucha",
+      "tc": 3.404,
+      "ranking_tiendas": [
+        {
+          "tienda": "shopthelittlehen",
+          "precio_usd": 40.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:2692591600699143703,headlineOfferDocid:2692591600699143703,imageDocid:2455984412416856181,rds:PC_9838315019541398863|PROD_PC_9838315019541398863,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Infant Hooded Towel: Oat",
+          "envio_gratis": true,
+          "fecha": "2026-11-14",
+          "nota": ""
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 41.99,
+          "url": "https://www.amazon.com/dp/B0DLH67Z1D",
+          "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Blush",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Kyte Baby",
+          "precio_usd": 45.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=catalogid:6517155885931700424,productid:15957282854686047944,headlineOfferDocid:8401123978777296601,imageDocid:14556554481876550202,rds:PC_6605085547277806129|PROD_PC_6605085547277806129,gpcid:15679732471044040180,mid:576462855027513080,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Bamboo Hooded Bath Towel in Slate Blue by Kyte Baby",
+          "envio_gratis": true,
+          "fecha": "2026-11-14",
+          "nota": ""
+        },
+        {
+          "tienda": "Lake And Laurel Company",
+          "precio_usd": 45.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:12402535273625460016,headlineOfferDocid:12402535273625460016,imageDocid:1716655173806774262,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby- Hooded Bath Towel in Blush",
+          "envio_gratis": true,
+          "fecha": "2026-11-14",
+          "nota": ""
+        },
+        {
+          "tienda": "Milk & Honey Babies",
+          "precio_usd": 45.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:5714797509729351992,headlineOfferDocid:5714797509729351992,imageDocid:6886266662163309529,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Hooded Bath Towel in Blush",
+          "envio_gratis": false,
+          "fecha": "2026-11-14",
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Kyte Baby toalla",
+      "ofertas_lima": [],
+      "precio_usa_usd": 40.0,
+      "tienda_ganadora": "shopthelittlehen",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kyte Baby hooded bath towel&prds=productid:2692591600699143703,headlineOfferDocid:2692591600699143703,imageDocid:2455984412416856181,rds:PC_9838315019541398863|PROD_PC_9838315019541398863,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Kyte Baby Infant Hooded Towel: Oat",
+      "envio_gratis": true,
+      "fecha_precio_usa": "2026-11-14",
+      "nota_usa": "",
+      "precio_lima_ref_pen": 250,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 170,
+      "venta_objetivo_pen": 230,
+      "margen_pen": 60,
+      "margen_pct": 26.0,
+      "estado": "AMARILLO",
+      "precio_usa_ayer": 40.0,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "AMARILLO",
+      "tienda_ayer": "shopthelittlehen"
     },
     {
       "id": "skip_hop_forma",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila Forma",
       "tc": 3.404,
-      "ranking_tiendas": [],
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 63.99,
+          "url": "https://www.amazon.com/dp/B0731TBBWF",
+          "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
       "lima_estimado": false,
       "busqueda_lima": "Skip Hop Forma",
       "ofertas_lima": [
@@ -1018,42 +1315,20 @@
           "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
         }
       ],
+      "precio_usa_usd": 63.99,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0731TBBWF",
+      "titulo_ganador": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
       "precio_lima_ref_pen": 319,
       "tienda_lima_ref": "Falabella",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "ergobaby_omni360",
-      "marca": "Ergobaby",
-      "nombre": "Portabebé Omni 360",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Ergobaby Omni 360",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 1250,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "hatch_rest2",
-      "marca": "Hatch",
-      "nombre": "Luz de sueño Rest 2nd Gen",
-      "tc": 3.404,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Hatch Rest",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 520,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
+      "costo_lima_pen": 272,
+      "venta_objetivo_pen": 294,
+      "margen_pen": 21,
+      "margen_pct": 7.3,
+      "estado": "ROJO",
       "estado_ayer": "SIN DATOS",
       "tienda_ayer": null
     },
@@ -1062,7 +1337,17 @@
       "marca": "Carter's",
       "nombre": "Pack pantalones x4 (control)",
       "tc": 3.404,
-      "ranking_tiendas": [],
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 17.5,
+          "url": "https://www.amazon.com/dp/B0744PN2W1",
+          "titulo": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
       "lima_estimado": false,
       "busqueda_lima": "Carters pantalon pack x4 bebe",
       "ofertas_lima": [
@@ -1103,8 +1388,34 @@
           "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
         }
       ],
+      "precio_usa_usd": 17.5,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0744PN2W1",
+      "titulo_ganador": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
       "precio_lima_ref_pen": 75,
       "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 74,
+      "venta_objetivo_pen": 69,
+      "margen_pen": -6,
+      "margen_pct": -8.1,
+      "estado": "ROJO",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
+      "id": "ergobaby_omni360",
+      "marca": "Ergobaby",
+      "nombre": "Portabebé Omni 360",
+      "tc": 3.404,
+      "ranking_tiendas": [],
+      "lima_estimado": true,
+      "busqueda_lima": "Ergobaby Omni 360",
+      "ofertas_lima": [],
+      "precio_lima_ref_pen": 1250,
+      "tienda_lima_ref": "Referencia manual",
       "estado": "SIN DATOS",
       "falta": "USA",
       "estado_ayer": "SIN DATOS",
@@ -1118,29 +1429,14 @@
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
     },
     {
-      "fuente": "amazon",
-      "producto": "kyte_sleep_bag",
-      "error": "HTTP 503/captcha tras 3 intentos"
-    },
-    {
       "fuente": "mercadolibre",
       "producto": "kyte_sleep_bag",
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
     },
     {
-      "fuente": "amazon",
-      "producto": "kyte_enterizo",
-      "error": "HTTP 503/captcha tras 3 intentos"
-    },
-    {
       "fuente": "mercadolibre",
       "producto": "kyte_enterizo",
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
-    },
-    {
-      "fuente": "amazon",
-      "producto": "kyte_toalla",
-      "error": "HTTP 503/captcha 3 veces seguidas; Amazon se omite el resto de la corrida"
     },
     {
       "fuente": "mercadolibre",
@@ -1161,6 +1457,11 @@
       "fuente": "mercadolibre",
       "producto": "posh_peanut_enterizo",
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
+    },
+    {
+      "fuente": "amazon",
+      "producto": "kickee_pijama",
+      "error": "HTTP 503/captcha tras 3 intentos"
     },
     {
       "fuente": "mercadolibre",
@@ -1196,6 +1497,11 @@
       "fuente": "mercadolibre",
       "producto": "solly_fular",
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
+    },
+    {
+      "fuente": "amazon",
+      "producto": "ergobaby_omni360",
+      "error": "HTTP 503/captcha tras 3 intentos"
     },
     {
       "fuente": "mercadolibre",
