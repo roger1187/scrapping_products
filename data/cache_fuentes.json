@@ -1,7 +1,7 @@
 {
   "google_shopping": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 3
     },
     "productos": {
@@ -4749,12 +4749,874 @@
             "nota": ""
           }
         ]
+      },
+      "skip_hop_forma": {
+        "fecha": "2026-11-17",
+        "ofertas": [
+          {
+            "tienda": "Target",
+            "titulo": "Skip Hop Diaper Backpack Forma",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2558621613968142633,productid:3535597300402177073,headlineOfferDocid:15308528460968715497,imageDocid:4223688882207297810,rds:PC_10807934512089617995|PROD_PC_10807934512089617995,gpcid:10807934512089617995,mid:576462891238342035,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Nordstrom",
+            "titulo": "Skip Hop Forma Next Backpack Diaper Bag",
+            "precio": 79.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:1224303788913350102,productid:15892254326165393662,headlineOfferDocid:4944681623961422022,imageDocid:609143204922514279,rds:PC_14270724394297965420|PROD_PC_14270724394297965420,gpcid:14270724394297965420,mid:576462875869158752,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babylist",
+            "titulo": "Skip Hop Forma Diaper Backpack",
+            "precio": 78.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:17657868882503530164,productid:6858503904195651488,headlineOfferDocid:13573721548313816082,imageDocid:10764229459036094893,gpcid:3413581552893011820,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Rebel",
+            "titulo": "Skip Hop Mainframe Wide Open Diaper Backpack",
+            "precio": 35.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:7129028730820711809,productid:6595309891101924229,headlineOfferDocid:1667361038990863936,imageDocid:11564414420816719906,rds:PC_6330768007991328686|PROD_PC_6330768007991328686,gpcid:15332054845689967458,mid:576462855200805700,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "refurbished",
+            "fecha": null,
+            "nota": "29% OFF"
+          },
+          {
+            "tienda": "Mumzworld",
+            "titulo": "Skip Hop - Next Forma Diaper Backpack with Stroll & Tote Ultimate Stroller Organizer - Oat",
+            "precio": 141.32,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:16859797134451446622,headlineOfferDocid:16859797134451446622,imageDocid:8576402069457874800,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "21% OFF"
+          },
+          {
+            "tienda": "Walmart",
+            "titulo": "Skip Hop Luna Backpack Diaper Bag",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:460405846405685864,productid:2573938535065713768,headlineOfferDocid:10798595829634654664,imageDocid:3868259800933106247,rds:PC_2823822332976598210|PROD_PC_2823822332976598210,gpcid:2823822332976598210,mid:576462551038242116,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mumzworld",
+            "titulo": "Skip Hop - Next Forma Diaper Backpack with Stroll & Tote Ultimate Stroller Organizer - Black",
+            "precio": 141.32,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:2359221093806597282,headlineOfferDocid:2359221093806597282,imageDocid:17004038441585167373,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "21% OFF"
+          },
+          {
+            "tienda": "Skip Hop",
+            "titulo": "Skip Hop 6 Piece Suite Diaper Backpack Set",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:8342144131660432089,productid:5878233651977620586,headlineOfferDocid:13353556388519316879,imageDocid:7229583019682779694,rds:PC_10696153664158155|PROD_PC_10696153664158155,gpcid:10696153664158155,mid:576462576179588647,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Caterkids Hawaii",
+            "titulo": "Skip Hop Diaper Backpack",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:5473411506194346096,headlineOfferDocid:5473411506194346096,imageDocid:12747468729078678193,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Albee Baby",
+            "titulo": "Skip Hop Duo Diaper Backpack",
+            "precio": 65.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:6770457675907030330,productid:7829848465683920584,headlineOfferDocid:773206695207329235,imageDocid:447455453699078646,rds:PC_9676303224451657633|PROD_PC_9676303224451657633,gpcid:9676303224451657633,mid:576462826539482775,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Macrobaby",
+            "titulo": "Skip Hop Flex Diaper Bag Backpack",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:7093046828997008692,productid:1788239416162722984,headlineOfferDocid:17819549450096352389,imageDocid:5680172673106376387,rds:PC_4716341792827384280|PROD_PC_4716341792827384280,gpcid:2890815296443376077,mid:576462887636234829,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "mynavyexchange",
+            "titulo": "Skip Hop Diaper Bag",
+            "precio": 60.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:12615122982733741178,headlineOfferDocid:12615122982733741178,imageDocid:5787697543215410982,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "rivonakids",
+            "titulo": "Forma Diaper Backpack",
+            "precio": 79.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:5551080696115820119,headlineOfferDocid:5551080696115820119,imageDocid:8082443886211297509,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Albee Baby",
+            "titulo": "Skip Hop Evermore 6-in-1 Diaper Backpack Set",
+            "precio": 150.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:7046923363739046978,productid:8271882589946535337,headlineOfferDocid:16537269391121960063,imageDocid:1783709773481431999,rds:PC_18215988302781140775|PROD_PC_18215988302781140775,gpcid:18215988302781140775,mid:576462814111438174,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mumzworld",
+            "titulo": "Skip Hop - Luna Diaper Backpack",
+            "precio": 63.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:7298004695661755114,headlineOfferDocid:7298004695661755114,imageDocid:8511648734047070427,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Albee Baby",
+            "titulo": "Skip Hop Highline Convertible Diaper Backpack",
+            "precio": 200.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:13417841379291554093,productid:12733617909625615945,headlineOfferDocid:11326995033254509843,imageDocid:9429847869349942172,rds:PC_9076698165491923517|PROD_PC_9076698165491923517,gpcid:9076698165491923517,mid:576462788811720052,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Kaya",
+            "titulo": "Skip Hop Riverside Ultra Light Diaper Backpack",
+            "precio": 85.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2417050519933152058,productid:17302160916851613867,headlineOfferDocid:12655412244698410401,imageDocid:2824750930534595972,gpcid:560983326846871844,mid:576462801693205262,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Kaya",
+            "titulo": "Skip Hop Baby Duo Signature Diaper Bag",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:14759631745580312134,productid:9593045033641897896,headlineOfferDocid:1930555461507496706,imageDocid:17679775095395900518,rds:PC_17460539971399531434|PROD_PC_17460539971399531434,gpcid:4630501000255826044,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Sears",
+            "titulo": "Skip Hop Deco Saffiano Diaper Backpack",
+            "precio": 211.23,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:14507226218277734922,productid:4221390652539074575,headlineOfferDocid:16209950398942133788,imageDocid:8514383524643860195,rds:PC_13140732011293088146|PROD_PC_13140732011293088146,gpcid:13140732011293088146,mid:576462606053198773,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "14% OFF"
+          }
+        ]
+      },
+      "solly_fular": {
+        "fecha": "2026-11-17",
+        "ofertas": [
+          {
+            "tienda": "Babylist",
+            "titulo": "Solly Baby Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:12402361502478469557,productid:6106134902354059718,headlineOfferDocid:5781288548347983041,imageDocid:5025154996981904821,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:17445348394396279810,mid:576462866778339717,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Solly Baby",
+            "titulo": "Solly Baby Cream Houndstooth Wrap",
+            "precio": 88.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:15842150549064365127,productid:9935347966406859237,headlineOfferDocid:1026950866197530391,imageDocid:4919982265837154995,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:17398750795115586116,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "west elm",
+            "titulo": "West Elm Solly Baby Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:14899566191183619799,productid:624038731542886696,headlineOfferDocid:11159243983323471012,imageDocid:8568482616312448833,gpcid:16190759108630757299,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Solly Baby",
+            "titulo": "Solly Baby Stormy Houndstooth Wrap",
+            "precio": 88.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:11468380572488295248,productid:15179790713192946874,headlineOfferDocid:5192239772769710718,imageDocid:15106504753867587961,rds:PC_1337932805220161267|PROD_PC_1337932805220161267,gpcid:1337932805220161267,mid:576462913295388293,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Pump Station & Nurtury",
+            "titulo": "Solly Baby Wrap, Spelt",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:796919330376380225,headlineOfferDocid:796919330376380225,imageDocid:7898316513884860144,rds:PC_14035337227004738373|PROD_PC_14035337227004738373,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "City Sprouts",
+            "titulo": "The Wrap Ditsy",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:15445113097058404981,productid:2554561992567653310,headlineOfferDocid:8325161839385578403,imageDocid:8666163308182337226,rds:PC_9917567581394394887|PROD_PC_9917567581394394887,gpcid:9917567581394394887,mid:576462914129279818,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Cottontails Cloth Diaper Service",
+            "titulo": "Solly Baby Stretchy Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:7714297938139747031,headlineOfferDocid:7714297938139747031,imageDocid:16980076138926938443,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "kith + kissui",
+            "titulo": "Ballet Solly Wrap",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:7890339032368233292,headlineOfferDocid:7890339032368233292,imageDocid:1578405425613447103,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babylist",
+            "titulo": "Solly Baby Wrap Carrier in Ballet",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:3039692193592628447,headlineOfferDocid:3039692193592628447,imageDocid:14849711309633040289,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Caterkids Hawaii",
+            "titulo": "Solly Baby Wrap, Stripes",
+            "precio": 38.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:13387209643824519435,headlineOfferDocid:13387209643824519435,imageDocid:14868938493898473274,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Solly Baby",
+            "titulo": "Ballet Baby Wrap Carrier | Newborn Ready | Pink | TENCEL Modal | Lightweight | Solly Baby",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:7091249062645253390,productid:841934696739035807,headlineOfferDocid:16955974029480267644,imageDocid:14861054687113445947,rds:PC_9929688567439947187|PROD_PC_9929688567439947187,gpcid:9929688567439947187,mid:576462826533478245,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Solly Baby",
+            "titulo": "Solly Baby Sage Chequer Baby Wrap + Soft Carrier Bundle",
+            "precio": 184.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:8257319700884666172,productid:16956008726410764159,headlineOfferDocid:5544113558775044946,imageDocid:1770079459518537908,gpcid:10553538278393500295,mid:576462916262454722,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "NYT Wirecutter Store",
+            "titulo": "Solly Baby Wrap Driftwood Stripe",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:14177923319984234782,headlineOfferDocid:14177923319984234782,imageDocid:8830536167508744937,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babylist",
+            "titulo": "Solly Baby Wrap Carrier Newborn to Toddler 8-25 Lbs. Buttery-Soft & Lightweight Fabric",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:18141784575702413560,productid:4554112162518161784,headlineOfferDocid:17888508379690727085,imageDocid:13690697232001424226,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:16079334197084312690,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babinski's Baby",
+            "titulo": "Solly Baby Wrap Carrier for Newborn to Toddler 8-25 Lbs",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:13406884585572485771,productid:14460521899088359908,headlineOfferDocid:12394036282646072757,imageDocid:4027223921715422438,rds:PC_4376705583525298816|PROD_PC_4376705583525298816,gpcid:15058304194726791882,mid:576462917140896822,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "AH Baby + co",
+            "titulo": "SOLLY BABY X QUINCY MAE The Wrap Ditsy",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:4441051359323193640,headlineOfferDocid:4441051359323193640,imageDocid:1365193481798081599,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Solly Baby",
+            "titulo": "Solly Baby Chequer Soft Buckle Carrier",
+            "precio": 110.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:16904935876797086989,productid:6535640234102842760,headlineOfferDocid:7951036893080439997,imageDocid:13144313684918724591,rds:PC_15138390645339509416|PROD_PC_15138390645339509416,gpcid:15138390645339509416,mid:576462916192634099,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Chicke baby & kids",
+            "titulo": "Solly Baby Driftwood Stripe Wrap",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:8999449233240837879,productid:6085790673053516868,headlineOfferDocid:2195500070190662652,imageDocid:15882703639854250013,gpcid:2631982605974197072,mid:576462502942176344,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "The Kangaroo Pouch",
+            "titulo": "Solly Baby Mist Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:17091597981271832815,productid:14364063337828728470,headlineOfferDocid:2217749879912786575,imageDocid:12151348429519858224,gpcid:11262716289801887936,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "kith + kissui",
+            "titulo": "Buttercup Solly Wrap",
+            "precio": 85.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:53475885860406105,headlineOfferDocid:53475885860406105,imageDocid:3081588290448345716,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Scheels",
+            "titulo": "Quincy Mae X Solly Baby Ditsy Wrap",
+            "precio": 62.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:3607423156228844810,productid:16339108037289556846,headlineOfferDocid:676062688875052503,imageDocid:11365630212287442934,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:16839012193562999428,mid:576462576254177251,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "25% OFF"
+          },
+          {
+            "tienda": "west elm",
+            "titulo": "West Elm Solly Baby Soft Buckle Carrier",
+            "precio": 184.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:9132607278767788681,productid:8196164679195743540,headlineOfferDocid:18054839870395515517,imageDocid:9966170578847900552,gpcid:2235881968461812022,mid:576462914127067077,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "At Home Store Fairfield",
+            "titulo": "SOLLY BABY WRAP MARENGO",
+            "precio": 69.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:8791419097315072466,productid:16861315464602227923,headlineOfferDocid:595927795063314160,imageDocid:14761773976382678413,rds:PC_15496104607267404397|PROD_PC_15496104607267404397,gpcid:18340223888490008552,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Baby Bliss",
+            "titulo": "Solly Baby Wrap | Spelt",
+            "precio": 89.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:2198623380169671520,headlineOfferDocid:2198623380169671520,imageDocid:3015414675653582702,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babinski's Baby",
+            "titulo": "Solly Baby Wrap BLUETOILE",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:5314071659751746258,headlineOfferDocid:5314071659751746258,imageDocid:3835949185441792357,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Suite Child",
+            "titulo": "Solly Baby Wrap Ballet",
+            "precio": 74.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:4857614742029255222,headlineOfferDocid:4857614742029255222,imageDocid:13729202507544681058,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "AH Baby + co",
+            "titulo": "SOLLY BABY X QUINCY MAE The Wrap Airplanes",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:11382111161418574990,headlineOfferDocid:11382111161418574990,imageDocid:4372401272505426934,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Chicke baby & kids",
+            "titulo": "Solly Baby Wrap - Ballet",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:9494625028842915043,headlineOfferDocid:9494625028842915043,imageDocid:1046337030141573490,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Pacifier Kids",
+            "titulo": "The Wrap - Cottage Rose by Solly Baby",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:7255982356983039398,headlineOfferDocid:7255982356983039398,imageDocid:9934991467447644831,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Dearly",
+            "titulo": "Solly Baby Wrap - Ballet | Lightweight Baby Carrier Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:13484080692602628765,headlineOfferDocid:13484080692602628765,imageDocid:9186149534965262271,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "LIV & Company",
+            "titulo": "Solly Baby - Ballet Pink Baby Carrier Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:1153929232931100752,headlineOfferDocid:1153929232931100752,imageDocid:2582353784384925612,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Scheels",
+            "titulo": "Boys,Girls Solly Baby x Quincy Mae Wrap Carrier Airplanes",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:18185341221730626088,headlineOfferDocid:18185341221730626088,imageDocid:7647825964381178046,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "GoodBuy Gear",
+            "titulo": "Solly Baby Wrap, Orion, Open Box Baby Gear",
+            "precio": 53.19,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:11493765810124439984,headlineOfferDocid:11493765810124439984,imageDocid:1304463815252694095,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "refurbished",
+            "fecha": null,
+            "nota": "22% OFF"
+          },
+          {
+            "tienda": "Drool and Co",
+            "titulo": "Solly Baby Wrap from Solly Baby | Color: Driftwood Stripe",
+            "precio": 90.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:17770693301640575453,headlineOfferDocid:17770693301640575453,imageDocid:8685570281795751708,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Bumps 'n Bundles",
+            "titulo": "Solly Baby Black Pinstripe Wrap",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:13244903587229393499,productid:3025102452089959316,headlineOfferDocid:4058249153478519849,imageDocid:12793031593315968273,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:11170522788565744029,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Gratitude Collaborative",
+            "titulo": "Solly Baby Wrap - Jenni Kayne + Solly Baby",
+            "precio": 65.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:18384682809050087684,headlineOfferDocid:18384682809050087684,imageDocid:2015100068283594753,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Nesting House",
+            "titulo": "Solly Baby Wrap grey and white stripe / like new",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:18131170690089081695,headlineOfferDocid:18131170690089081695,imageDocid:15777614697975340977,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Pacifier Kids",
+            "titulo": "The Wrap - Black by Solly Baby",
+            "precio": 74.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:5949256960840186473,headlineOfferDocid:5949256960840186473,imageDocid:220334423571791432,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Pi Baby Boutique",
+            "titulo": "Blush Floret Wrap by Solly Baby",
+            "precio": 84.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:15703556700011335045,headlineOfferDocid:15703556700011335045,imageDocid:15866803126138493781,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Beanstalk",
+            "titulo": "Solly Baby Grey Wrap Carrier",
+            "precio": 32.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:6818788825763791037,headlineOfferDocid:6818788825763791037,imageDocid:3724021064214986721,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "ergobaby_omni360": {
+        "fecha": "2026-11-17",
+        "ofertas": [
+          {
+            "tienda": "Target",
+            "titulo": "ERGOBABY BABY CARRIER OMNI 360",
+            "precio": 179.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:13231287973264501328,productid:6352231182984544372,headlineOfferDocid:11312627403651067549,imageDocid:4825251030382340977,rds:PC_1816973516789692448|PROD_PC_1816973516789692448,gpcid:9208193182686308850,mid:576462917079747374,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babi Pur",
+            "titulo": "Ergobaby Omni Classic Mesh Baby Carrier",
+            "precio": 209.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:14517929862432427341,productid:2452545818175677834,headlineOfferDocid:976392954744078020,imageDocid:10913574243135058682,rds:PC_896049459319275479|PROD_PC_896049459319275479,gpcid:8468135062641307541,mid:576462576106811871,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Target",
+            "titulo": "Ergobaby Omni Classic All Carry Positions Breathable Standard Baby Carrier for Newborn to Toddler",
+            "precio": 179.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:3302506109564926134,productid:4067049896476418900,headlineOfferDocid:196082352228839581,imageDocid:16079330262285355636,rds:PC_15500227652695033439|PROD_PC_15500227652695033439,gpcid:9722031590617531827,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Wiitlwoods",
+            "titulo": "Ergobaby Omni 360 All-Position Baby Carrier for Newborn to Toddler with Lumbar Support (7-45 Pounds), Pure Black, 1 Count (Pack of 1)",
+            "precio": 75.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:8095114302750745408,headlineOfferDocid:8095114302750745408,imageDocid:8200956015886009486,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Caterkids Hawaii",
+            "titulo": "Ergobaby Omni 360 Carrier, Grey Diamond",
+            "precio": 90.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:26024036425259616,headlineOfferDocid:26024036425259616,imageDocid:15901447735965625774,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Nesting House",
+            "titulo": "Ergo Omni 360 pure black / very good",
+            "precio": 50.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:1469167551427861781,headlineOfferDocid:1469167551427861781,imageDocid:17693979808191522863,rds:PC_1816973516789692448|PROD_PC_1816973516789692448,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Caterkids Hawaii",
+            "titulo": "Ergobaby Omni 360 Cool Air Carrier, Green",
+            "precio": 90.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:2540136317399451051,headlineOfferDocid:2540136317399451051,imageDocid:1129252171800376279,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Ergobaby",
+            "titulo": "Ergobaby Upsie Sling Carrier",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:6568065798892658147,productid:6526024645725441287,headlineOfferDocid:2356716974994432139,imageDocid:530518449569006793,rds:PC_2447657384405141526|PROD_PC_2447657384405141526,gpcid:2447657384405141526,mid:576462866687519908,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Babi Pur",
+            "titulo": "Ergobaby Omni Dream Baby Carrier",
+            "precio": 178.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:13190785893385626130,productid:15325090513439290981,headlineOfferDocid:10576449867523979427,imageDocid:12852782261069560865,rds:PC_14287868913922861617|PROD_PC_14287868913922861617,gpcid:14287868913922861617,mid:576462775816656463,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "14% OFF"
+          },
+          {
+            "tienda": "ANB Baby",
+            "titulo": "Ergobaby Baby Carrier Omni 360 Cool Air Mesh",
+            "precio": 180.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:2954370139680832422,productid:10358795508348171095,headlineOfferDocid:2291063125850056907,imageDocid:9711406071492399287,rds:PC_1816973516789692448|PROD_PC_1816973516789692448,gpcid:16036147784044059176,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Tadpole",
+            "titulo": "Ergobaby Omni Deluxe Baby Carrier",
+            "precio": 220.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:3241847182767714246,productid:5082629315209960695,headlineOfferDocid:10844292419673864738,imageDocid:11999004739357434805,rds:PC_4723778456265157743|PROD_PC_4723778456265157743,gpcid:4723778456265157743,mid:576462567158046507,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Beanstalk",
+            "titulo": "Ergobaby Cool Air Grey Omni 360 All-Position Baby Carrier",
+            "precio": 74.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:5276564352249818592,headlineOfferDocid:5276564352249818592,imageDocid:3254571056701528740,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Lullabye Shop",
+            "titulo": "Ergobaby Omni 360 All-in-One Baby Carrier",
+            "precio": 179.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:14762353636553902099,productid:7842163230546994910,headlineOfferDocid:11863749288450517292,imageDocid:1878271938982273315,rds:PC_3653934298629912119|PROD_PC_3653934298629912119,gpcid:6027092649893360317,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "adeptadvisor",
+            "titulo": "Ergobaby 360 All-Position Baby Carrier",
+            "precio": 56.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:5779209538363271643,headlineOfferDocid:5779209538363271643,imageDocid:15775758108585741952,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "aquaventurewhitetip",
+            "titulo": "エルゴベビー 抱っこひも オムニ360 OMNI 360 オムニブリーズ",
+            "precio": 91.15,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:5526486212989147776,headlineOfferDocid:5526486212989147776,imageDocid:11297097104517956380,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "connecttelemedicina.com.br",
+            "titulo": "Excellent condition Ergobaby OMNI 360 Baby Carrier Olive Green",
+            "precio": 36.29,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:7171564307050908365,headlineOfferDocid:7171564307050908365,imageDocid:1888784217615205064,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mommy Gear",
+            "titulo": "Ergobaby Performance Baby Carrier",
+            "precio": 169.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:16528062076309204589,productid:13572010964967749963,headlineOfferDocid:16618258902899751188,imageDocid:7775467283142105452,rds:PC_8113655239903251062|PROD_PC_8113655239903251062,gpcid:8113655239903251062,mid:576462563297769372,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "5% OFF"
+          },
+          {
+            "tienda": "LittleLove-Resale",
+            "titulo": "Ergo Baby Omni 360 Carrier - Blue Harry Potter (wear) - Used",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:13068980713284798394,headlineOfferDocid:13068980713284798394,imageDocid:13146245455748833377,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
       }
     }
   },
   "amazon": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 0
     },
     "productos": {
@@ -6250,12 +7112,12 @@
   },
   "brand_site": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -6271,7 +7133,7 @@
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -6287,7 +7149,7 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Little Sleepies (sitio oficial)",
@@ -6303,7 +7165,7 @@
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Posh Peanut (sitio oficial)",
@@ -6319,7 +7181,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Solly Baby (sitio oficial)",
@@ -6335,12 +7197,12 @@
         ]
       },
       "freshly_picked_zapatos": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Freshly Picked (sitio oficial)",
             "titulo": "Freshly Picked Zion Baby Moccasins | Handmade Leather Moccasins For Babies",
-            "precio": 59.0,
+            "precio": 65.0,
             "moneda": "USD",
             "url": "https://freshlypicked.com/products/zion",
             "envio_gratis": false,
@@ -6354,19 +7216,19 @@
   },
   "mercadolibre": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 0
     },
     "productos": {}
   },
   "falabella": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -6392,17 +7254,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib",
-            "precio": 40.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158313584/pijama-conjunto-set-short-y-top-baby-rib",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Fernanda Galvao"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Baby Doll rojo Talla ML 34b a 36b DeAlcoba",
             "precio": 220.0,
             "moneda": "PEN",
@@ -6411,17 +7262,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Dealcoba"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Flores",
-            "precio": 40.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158313609/pijama-conjunto-set-short-y-top-baby-rib-flores",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Fernanda Galvao"
           },
           {
             "tienda": "Falabella",
@@ -6458,14 +7298,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO PIJAMA PARA MUJER ALAS DE LAVANDA ALGODON BABY RIB 2 PIEZAS",
-            "precio": 48.9,
+            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Melange Color",
+            "precio": 40.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159748885/pijama-para-mujer-alas-de-lavanda-algodon-baby-rib-2-piezas",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158358152/pijama-conjunto-set-short-y-top-baby-rib-melange-color",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Kaylanis"
+            "nota": "vende Fernanda Galvao"
           },
           {
             "tienda": "Falabella",
@@ -6480,19 +7320,8 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Melange Color",
-            "precio": 40.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158358152/pijama-conjunto-set-short-y-top-baby-rib-melange-color",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Fernanda Galvao"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO PIJAMA PARA MUJER BRISA FLORAL ALGODON BABY RIB 2 PIEZAS",
-            "precio": 49.9,
+            "precio": 38.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159748974/pijama-para-mujer-brisa-floral-algodon-baby-rib-2-piezas",
             "envio_gratis": false,
@@ -6502,8 +7331,19 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO PIJAMA PARA MUJER ALAS DE LAVANDA ALGODON BABY RIB 2 PIEZAS",
+            "precio": 37.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159748885/pijama-para-mujer-alas-de-lavanda-algodon-baby-rib-2-piezas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kaylanis"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO PIJAMA PARA MIJER SUEÑO DE MARIPOSA ALGODON BABY RIB 2 PIEZAS",
-            "precio": 50.0,
+            "precio": 38.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159751106/pijama-para-mijer-sueno-de-mariposa-algodon-baby-rib-2-piezas",
             "envio_gratis": false,
@@ -6587,11 +7427,33 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Sand",
+            "precio": 109.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135326422/Saquito-de-Dormir-Baby-Baloo-Invierno-Sand",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Bluey",
+            "precio": 109.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135328209/Saquito-de-Dormir-Baby-Baloo-Invierno-Bluey",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Baloo"
           }
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -6639,43 +7501,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY BLUE",
-            "precio": 169.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149735968/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-BLUE",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Wawa Pima"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "YAMP Conjunto Bebé Niña Algodón",
-            "precio": 35.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/883760593/conjunto-bebe-nina-algodon-yamp",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/143521564/saco-de-dormir-de-bebe-de-0-a-6-meses",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143522161/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -6705,6 +7534,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY BLUE",
+            "precio": 169.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/149735968/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-BLUE",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Wawa Pima"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
@@ -6719,22 +7559,11 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149015525/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143522161/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño",
-            "precio": 69.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21537235/fa26-ib-sleep-bags-grey-elephant-pr",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
           },
           {
             "tienda": "Falabella",
@@ -6749,36 +7578,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
-            "precio": 110.0,
+            "titulo": "YAMP Conjunto Bebé Niña Algodón",
+            "precio": 35.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/127066716/Bolsa-de-Dormir-para-Ninos-y-Ninas",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/883760593/conjunto-bebe-nina-algodon-yamp",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Habibi Store"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "WAWA PIMA SACO DE DORMIR BEBE CARNERITO INVIERNO BUNNY SKYBLUE WINTER",
-            "precio": 129.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154567595/saco-de-dormir-bebe-carnerito-invierno-bunny-skyblue-winter",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Wawa Pima"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bebyshop"
+            "nota": ""
           },
           {
             "tienda": "Falabella",
@@ -6790,6 +7597,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Habibi Store"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
+            "precio": 110.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/127066716/Bolsa-de-Dormir-para-Ninos-y-Ninas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Habibi Store"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/149015525/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
           },
           {
             "tienda": "Falabella",
@@ -6807,6 +7636,39 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "WAWA PIMA SACO DE DORMIR BEBE CARNERITO INVIERNO BUNNY SKYBLUE WINTER",
+            "precio": 129.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154567595/saco-de-dormir-bebe-carnerito-invierno-bunny-skyblue-winter",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Wawa Pima"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "WAWA PIMA SACO DE DORMIR SIN MANGA CON PIE BABY BEIGE CARNERITO",
+            "precio": 199.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155786711/saco-de-dormir-sin-manga-con-pie-baby-beige-carnerito",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Wawa Pima"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/143520906/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
@@ -6816,7 +7678,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -6828,28 +7690,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Bros Toys"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "ARMA TU LOOK VESTIDO SUMMER LARGO DE ALGODON BABY RIB",
-            "precio": 114.99,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/142710174/VESTIDO-SUMMER-LARGO-DE-ALGODON-BABY-RIB-ARMA-TU-LOOK",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Arma Tu Look"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "ARMA TU LOOK VESTIDO DAMARIS ALGODÓN BABY RIB CASUAL MANGA CORTA CON OLANES",
-            "precio": 105.99,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/142892287/VESTIDO-DAMARIS-ALGODON-BABY-RIB-CASUAL-MANGA-CORTA-CON-OLANES",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Arma Tu Look"
           },
           {
             "tienda": "Falabella",
@@ -6931,7 +7771,7 @@
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -6957,28 +7797,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "BEBE Panos Burts Bees 100 Algodon Organico 9x9",
-            "precio": 119.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159581643/panos-bebe-burts-bees-100-algodon-organico-9x9",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "BEBE Panos de Bano Lion Bear Algodon Organico 10x10in",
-            "precio": 159.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159293247/panos-de-bano-bebe-lion-bear-algodon-organico-10x10in",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "BABY MERINOS Toalla - Osita - Melon S2164",
             "precio": 59.0,
             "moneda": "PEN",
@@ -6990,17 +7808,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "Baby Kits Tina Bañera Plegable JELLY SPA Con Termómetro Rosado 2025",
-            "precio": 149.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/123829825/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Jatariy Perú"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "SOFT BABY LUXURY COTTON TOALLA SOFT RECIEN NACIDO CORONA GRIS PUNTOS BLANCO",
             "precio": 129.0,
             "moneda": "PEN",
@@ -7009,6 +7816,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Soft Peru"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "Baby Kits Tina Bañera Plegable JELLY SPA Con Termómetro Rosado 2025",
+            "precio": 149.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/123829825/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Jatariy Perú"
           },
           {
             "tienda": "Falabella",
@@ -7112,7 +7930,7 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7135,17 +7953,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Crecer Jugando"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "UNBRANDED COMPANY Polo Manga Larga Algodón Hombre Unbranded",
-            "precio": 109.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/20762901/polo-manga-larga-algodon-hombre-unbranded",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
           },
           {
             "tienda": "Falabella",
@@ -7175,17 +7982,6 @@
             "precio": 179.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159250748/almohada-infantil-keababies-my-little-dreamy-13x18",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Interruptor Flotador Giant RFSN9 230V 13A 1HP 15ft",
-            "precio": 449.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158544775/interruptor-flotador-little-giant-rfsn9-230v-13a-1hp-15ft",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7226,6 +8022,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Pink",
+            "precio": 469.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135961774/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Pink",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mamá Juaquina"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Beige",
             "precio": 469.0,
             "moneda": "PEN",
@@ -7237,6 +8044,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "LITTLE Interruptor Flotador Giant RFSN9 230V 13A 1HP 15ft",
+            "precio": 449.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158544775/interruptor-flotador-little-giant-rfsn9-230v-13a-1hp-15ft",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "LITTLE Juguetes de Playa FUN TOYS F129 19 Piezas",
             "precio": 199.0,
             "moneda": "PEN",
@@ -7245,17 +8063,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Pink",
-            "precio": 469.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135961774/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Pink",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mamá Juaquina"
           },
           {
             "tienda": "Falabella",
@@ -7278,17 +8085,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Mesa Picnic Little tikes",
-            "precio": 599.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154886941/mesa-picnic-little-tikes",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Crecer Jugando"
           },
           {
             "tienda": "Falabella",
@@ -7325,10 +8121,32 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Mi cortadora de cesped Little Tikes®",
-            "precio": 119.0,
+            "titulo": "LITTLE  TIKES Mesa Picnic Little tikes",
+            "precio": 599.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154886491/mi-cortadora-de-cesped-little-tikes",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154886941/mesa-picnic-little-tikes",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Crecer Jugando"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE  TIKES Resbaladera Tropical fucsia LIttle tikes",
+            "precio": 990.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/144858375/Resbaladera-Tropical-fucsia-LIttle-tikes",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Crecer Jugando"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE  TIKES Carrito Cozy Coupe Little tikes",
+            "precio": 499.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155440572/carrito-cozy-coupe-dino-little-tikes",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7337,19 +8155,8 @@
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
-          {
-            "tienda": "Falabella",
-            "titulo": "MANTA Swaddle SwaddleMe algodaan 3 piezas SM",
-            "precio": 239.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155638897/manta-swaddle-swaddleme-algodaan-3-piezas-sm",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
           {
             "tienda": "Falabella",
             "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
@@ -7396,6 +8203,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO Mantas envolventes para bebé algodón pima 0- 3 meses | Swaddle pack 2 unds Niño",
+            "precio": 102.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159283159/mantas-envolventes-para-bebe-algodon-pima-0-3-meses-swaddle-pack-2-unds-nino",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mi Ciguena"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Manta envolvente para bebé algodón pima 0-3 meses Swaddle Rayas rosa",
             "precio": 69.0,
             "moneda": "PEN",
@@ -7418,36 +8236,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Mantas envolventes para bebé algodón pima 0- 3 meses | Swaddle pack 2 unds Niño",
-            "precio": 102.0,
+            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
+            "precio": 99.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159283159/mantas-envolventes-para-bebe-algodon-pima-0-3-meses-swaddle-pack-2-unds-nino",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Mi Ciguena"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "INGENUITY SwaddleMe Swaddle Beba S Elefante Algodan",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155623096/swaddleme-ingenuity-swaddle-beba-s-elefante-algodan",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Swaddle AQOKKA Algodan Ajustable 3 Unidades con Gorros Moao",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155617613/swaddle-aqokka-algodan-ajustable-3-unidades-con-gorros-moao",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
           },
           {
             "tienda": "Falabella",
@@ -7455,17 +8251,6 @@
             "precio": 102.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159282773/mantas-envolventes-para-bebe-algodon-pima-0-3-meses-swaddle-pack-2-unds-nina",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mi Ciguena"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
-            "precio": 99.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7484,14 +8269,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "INGENUITY Set Swaddle SwaddleMe Comfort Pack 03M 3 Piezas",
-            "precio": 189.0,
+            "titulo": "NO LOGO JUEGO DE TRES ENVOLVENTES PARA BEBES",
+            "precio": 199.99,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155622469/set-swaddle-ingenuity-swaddleme-comfort-pack-03m-3-piezas",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156624689/juego-de-tres-envolventes-para-bebes",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Vyse Global Pe"
+            "nota": "vende Kyrios Importaciones"
           },
           {
             "tienda": "Falabella",
@@ -7503,17 +8288,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Baby Baloo"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "NO LOGO JUEGO DE TRES ENVOLVENTES PARA BEBES",
-            "precio": 199.99,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156624689/juego-de-tres-envolventes-para-bebes",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kyrios Importaciones"
           },
           {
             "tienda": "Falabella",
@@ -7558,11 +8332,55 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Acaneli"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "MARCA Manta Envolvente Para Niño 0-6 Bebé X1",
+            "precio": 99.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/144922948/Manta-Envolvente-Para-Nino-0-6-Bebe-X1",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Importaciones Kyrios"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CERDITA Manta para Bebé Plush Hipoalergénica Doble Cara con Osito Rosado 100x130 cm",
+            "precio": 39.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159898870/manta-para-bebe-plush-hipoalergenica-doble-cara-con-osito-rosado-100x130-cm",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Acaneli"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "BEBE Saco De Dormir Para Burts Bees Baby Algodon Organico",
+            "precio": 199.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159681678/saco-de-dormir-para-bebe-burts-bees-baby-algodon-organico",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "EUBEBE Manta muselina para bebé modelo osito durazno",
+            "precio": 65.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/138707463/Manta-muselina-para-bebe-Eubebe-modelo-osito-durazno",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Eubebe"
           }
         ]
       },
       "posh_peanut_enterizo": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7610,10 +8428,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Yellow Shirt",
-            "precio": 119.9,
+            "titulo": "PEANUTS Figura De Colección ReAction Pack x2 - Spike & Snoopy Super7",
+            "precio": 149.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158413766/figura-de-coleccionable-peanuts-funfun-charlie-brown-yellow-shirt",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158413762/figura-de-coleccion-reaction-peanuts-pack-x2-spike-snoopy-super7",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7621,10 +8439,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "PEANUTS Figura De Colección ReAction Pack x2 - Spike & Snoopy Super7",
-            "precio": 149.9,
+            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Yellow Shirt",
+            "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158413762/figura-de-coleccion-reaction-peanuts-pack-x2-spike-snoopy-super7",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158413766/figura-de-coleccionable-peanuts-funfun-charlie-brown-yellow-shirt",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7742,17 +8560,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "ATKINSONS Perfume Posh On The Green Unisex 97 ml EDP",
-            "precio": 462.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156386559/posh-on-the-green-by-atkinsons-for-unisex-97-ml-edp-spray",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Swishpop Perfumes Pe"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "SNOOPY Pantuflas Peluche Mujer Peanuts Marron",
             "precio": 72.0,
             "moneda": "PEN",
@@ -7775,10 +8582,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "SNOOPY POLO UNISEX PEANUTS NAVIDEÑO",
+            "titulo": "SNOOPY POLO MUJER PEANUTS NAVIDEÑO",
             "precio": 59.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159449877/polo-unisex-peanuts-navideno",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159449885/polo-mujer-peanuts-navideno",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Prestige Tech"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "SNOOPY POLO HOMBRE PEANUTS NAVIDEÑO",
+            "precio": 59.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159449895/polo-hombre-peanuts-navideno",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7787,7 +8605,7 @@
         ]
       },
       "kickee_pijama": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7912,17 +8730,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pantalón Jeans Cadena Mujer Denim",
-            "precio": 79.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/117184941/pantalon-jeans-cadena-mujer-denim",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bencus Jeans"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Flare pant niña Waffler",
             "precio": 29.9,
             "moneda": "PEN",
@@ -7931,6 +8738,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Dinibu"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pantalón Jeans Cadena Mujer Denim",
+            "precio": 79.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/117184941/pantalon-jeans-cadena-mujer-denim",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bencus Jeans"
           },
           {
             "tienda": "Falabella",
@@ -7953,6 +8771,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Antar"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
+            "precio": 749.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158265395/pantalon-de-caballero-de-lino-kl",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Karl Lagerfeld Oficial"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
+            "precio": 749.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158264853/pantalon-de-caballero-de-lino-kl",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Karl Lagerfeld Oficial"
           },
           {
             "tienda": "Falabella",
@@ -7986,33 +8826,11 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Chase Funko Peru"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "O'NEAL Pantalon de Moto para Ruta y Viajes ONeal Apocalypse Negro",
-            "precio": 699.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/151641307/pantalon-de-moto-para-ruta-y-viajes-oneal-apocalypse-negro",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Cross Helmet Sac"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "DESIRE Parachute Pants Mujer",
-            "precio": 99.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/128659712/Parachute-Pants-Mujer-Desire",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Desire"
           }
         ]
       },
       "hanna_pijama": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8049,17 +8867,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama 4 Piezas Niño",
-            "precio": 71.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407834/pijama-4-piezas-nino-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
             "precio": 160.0,
             "moneda": "PEN",
@@ -8071,21 +8878,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niño",
-            "precio": 35.94,
+            "titulo": "CARTERS Pijama 4 Piezas Niño",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407461/pijama-nino-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niña Algodón",
-            "precio": 35.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407457/pijama-bebe-nina-algodon-carters-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407834/pijama-4-piezas-nino-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8104,17 +8900,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niña Algodón",
-            "precio": 59.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21524005/pijama-nina-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
             "precio": 160.0,
             "moneda": "PEN",
@@ -8126,32 +8911,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama manga larga niña algodón pima",
-            "precio": 79.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154745554/pijama-manga-larga-nina-algodon-pima",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kavera Hogar"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
-            "precio": 71.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407793/pijama-bebe-nino-4-piezas-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "CARTERS Pijama Niño",
-            "precio": 55.92,
+            "precio": 35.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407461/pijama-nino-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8159,10 +8922,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "YAMP Pijama Bebé Niña Pack X2 Algodón",
-            "precio": 41.94,
+            "titulo": "CARTERS Pijama Niña Algodón",
+            "precio": 59.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/883760341/pijama-bebe-nina-algodon-yamp",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21524005/pijama-nina-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Bebé Niña Algodón",
+            "precio": 35.94,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407457/pijama-bebe-nina-algodon-carters-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8192,10 +8966,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niño 2 Piezas",
+            "titulo": "GENERICO Pijama manga larga niña algodón pima",
             "precio": 79.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21537052/fa26-tb-2pc-dreamplush-pj-dog-app",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154745554/pijama-manga-larga-nina-algodon-pima",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kavera Hogar"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niño",
+            "precio": 55.92,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8214,37 +8999,81 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama conjunto 2 piezas niño unisex",
-            "precio": 79.0,
+            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/146178357/Pijama-conjunto-2-pizas-nino",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407793/pijama-bebe-nino-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Starshop.pe"
+            "nota": ""
           },
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Pijama Niño 2 Piezas",
             "precio": 79.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21537370/fa26-tb-2pc-dreamplush-pj-boy-monst",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21537052/fa26-tb-2pc-dreamplush-pj-dog-app",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niña 2 Piezas",
+            "precio": 79.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21537057/fa26-tg-2pc-dreamplush-pj-girl-mons",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "YAMP Pijama Bebé Niña Pack X2 Algodón",
+            "precio": 34.95,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/883760567/pijama-bebe-nina-algodon-yamp",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Conjunto 2 Piezas Pijama Unisex Niño",
+            "precio": 79.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/146178361/Pijama-conjunto-2-pizas-nino",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Starshop.pe"
           }
         ]
       },
       "halo_sleepsack": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
-            "precio": 229.0,
+            "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex",
+            "precio": 239.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "MANTA Swaddle HALO Sleepsack Ajustable 3 Posiciones",
+            "precio": 249.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/160136831/manta-swaddle-halo-sleepsack-ajustable-3-posiciones",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8260,11 +9089,33 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
+            "precio": 229.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "HALO Swaddle SleepSack Algodón Talla S",
+            "precio": 229.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
           }
         ]
       },
       "aden_anais_muselina": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8290,6 +9141,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba",
+            "precio": 209.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "THE BABY SPOT Set de 2 Babitas / Babero clásico- Night Sky Reverie - Aden + Anais",
             "precio": 89.0,
             "moneda": "PEN",
@@ -8302,7 +9164,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8372,17 +9234,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
-            "precio": 55.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/136314216/Panalera-Mochila-Maternidad-Impermeable",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Linion Market"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
             "precio": 105.0,
             "moneda": "PEN",
@@ -8391,6 +9242,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Cute Express"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
+            "precio": 30.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158388203/mochila-panalera-maternal-con-compartimentos",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Imaray"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
+            "precio": 55.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/136314216/Panalera-Mochila-Maternidad-Impermeable",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Linion Market"
           },
           {
             "tienda": "Falabella",
@@ -8416,14 +9289,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
-            "precio": 30.0,
+            "titulo": "GENERICO MOCHILA PAÑALERA MULTIUSO PREMIUM",
+            "precio": 130.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158388203/mochila-panalera-maternal-con-compartimentos",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156688391/mochila-panalera-multiuso-premium",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Imaray"
+            "nota": "vende Bebyshop"
           },
           {
             "tienda": "Falabella",
@@ -8435,6 +9308,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Crea Peru"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
+            "precio": 30.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158387924/mochila-panalera-maternal-con-compartimentos",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Imaray"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "SKIP HOP Mochila Unisex Niño 10L",
+            "precio": 90.3,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tienda Infanti"
           },
           {
             "tienda": "Falabella",
@@ -8452,33 +9347,11 @@
             "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
             "precio": 55.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/136314189/Panalera-Mochila-Maternidad-Impermeable",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/124223189/Panalera-Mochila-Maternidad-Impermeable",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Linion Market"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "SKIP HOP Mochila Unisex Niño 10L",
-            "precio": 90.3,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tienda Infanti"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA  NEGRO CON AZUL",
-            "precio": 119.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/142808208/MOCHILA-PANALERA-NEGRO-CON-AZUL",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Casa Smart S.a.c."
           },
           {
             "tienda": "Falabella",
@@ -8493,14 +9366,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
-            "precio": 30.0,
+            "titulo": "GENERICO MOCHILA PAÑALERA  NEGRO CON AZUL",
+            "precio": 119.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158387924/mochila-panalera-maternal-con-compartimentos",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142808208/MOCHILA-PANALERA-NEGRO-CON-AZUL",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Imaray"
+            "nota": "vende Casa Smart S.a.c."
           },
           {
             "tienda": "Falabella",
@@ -8512,22 +9385,11 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Imaray"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
-            "precio": 55.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/124223189/Panalera-Mochila-Maternidad-Impermeable",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Linion Market"
           }
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8554,7 +9416,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8668,17 +9530,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "Baby Canguro Portabebé Ergonómico Love 4 en 1 con Asiento de Cadera – Azul Marino",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154587956/canguro-portabebe-ergonomico-baby-love-4-en-1-con-asiento-de-cadera-azul-marino",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Baby Store"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "BABY BASICS Canguro Ergonómico Ballena 3 en 1 - Verde",
             "precio": 95.0,
             "moneda": "PEN",
@@ -8701,32 +9552,21 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "Baby Canguro Portabebé Ergonómico Love 4 en 1 con Asiento de Cadera – Azul Marino",
+            "precio": 199.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154587956/canguro-portabebe-ergonomico-baby-love-4-en-1-con-asiento-de-cadera-azul-marino",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Store"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "Baby FULAR ERGONOMICO - CELESTE",
             "precio": 180.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/157171357/fular-ergonomico-celeste",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nido Bebe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - ROSADO",
-            "precio": 180.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157171844/fular-ergonomico-rosado",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nido Bebe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - BEIGE",
-            "precio": 180.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157172072/fular-ergonomico-beige",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8756,6 +9596,28 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "Baby FULAR ERGONOMICO - BEIGE",
+            "precio": 180.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157172072/fular-ergonomico-beige",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nido Bebe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "Baby FULAR ERGONOMICO - ROSADO",
+            "precio": 180.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157171844/fular-ergonomico-rosado",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nido Bebe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "Baby FULAR ERGONOMICO - AZUL OSCURO",
             "precio": 180.0,
             "moneda": "PEN",
@@ -8767,26 +9629,26 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "Baby Portabebe Acolchado Princesa Rosa",
-            "precio": 224.0,
+            "titulo": "Baby Kits Portabebé Canguro 1 Unidad",
+            "precio": 79.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154033435/portabebe-acolchado-princesa-rosa",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151099187/portabebe-con-tul-azul",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Mi Mundo Feliz"
+            "nota": "vende Baby Kits"
           }
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
-            "titulo": "360 Cama Saltarina de 2.44 m",
-            "precio": 299.0,
+            "titulo": "360 Cama Saltarina de 1.40 m Azul",
+            "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/123124632/cama-saltarina-de-2-44-m",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/123125102/cama-saltarina-de-1-40-m-azul",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8794,10 +9656,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Cama Saltarina de 1.40 m Azul",
-            "precio": 199.0,
+            "titulo": "360 Cama Saltarina de 2.44 m",
+            "precio": 299.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/123125102/cama-saltarina-de-1-40-m-azul",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/123124632/cama-saltarina-de-2-44-m",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8970,10 +9832,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Necesser de Viaje Travel",
-            "precio": 19.9,
+            "titulo": "360 Pastillero Travel Transparente",
+            "precio": 7.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/152370193/necesser-de-viaje-travel-360",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/152369785/pastillero-travel-transparente-360",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8981,10 +9843,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Pastillero Travel Transparente",
-            "precio": 7.9,
+            "titulo": "360 Necesser de Viaje Travel",
+            "precio": 19.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/152369785/pastillero-travel-transparente-360",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/152370193/necesser-de-viaje-travel-360",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9004,7 +9866,7 @@
         ]
       },
       "hatch_rest2": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9041,10 +9903,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MICA Sofá Reclinable Rest 2 Cuerpos con Posa Vasos",
-            "precio": 1199.0,
+            "titulo": "MICA Sofá Reclinable Rest 3 Cuerpos Con Posa Vasos",
+            "precio": 1499.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/prod11200254/sofa-reclinable-rest-2-cuerpos-con-posa-vasos",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/prod13650109/sofa-reclinable-rest-3-cuerpos-con-posa-vasos",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9052,10 +9914,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MICA Sofá Reclinable Rest 3 Cuerpos Con Posa Vasos",
-            "precio": 1499.0,
+            "titulo": "MICA Sofá Reclinable Rest 2 Cuerpos con Posa Vasos",
+            "precio": 1199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/prod13650109/sofa-reclinable-rest-3-cuerpos-con-posa-vasos",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/prod11200254/sofa-reclinable-rest-2-cuerpos-con-posa-vasos",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9174,31 +10036,9 @@
           {
             "tienda": "Falabella",
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 179.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149116763/PIJAMA-ALGODON-EXTRA-SUAVE",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Grupo Houdali"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 199.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/158645795/pijama-algodon-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Grupo Houdali"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158645858/pijama-algodon-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9218,9 +10058,31 @@
           {
             "tienda": "Falabella",
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
+            "precio": 149.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/150322273/pijama-algodon-extra-suave",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Grupo Houdali"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
+            "precio": 179.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158637904/pijama-algodon-extra-suave",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Grupo Houdali"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149117638/PIJAMA-ALGODON-EXTRA-SUAVE",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158637580/pijama-algodon-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9229,12 +10091,12 @@
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón",
-            "precio": 74.95,
+            "precio": 59.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
@@ -9245,7 +10107,7 @@
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón",
-            "precio": 74.9,
+            "precio": 59.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
@@ -9256,7 +10118,7 @@
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón",
-            "precio": 74.95,
+            "precio": 59.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters",
             "envio_gratis": false,
@@ -9277,10 +10139,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón",
+            "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón",
             "precio": 104.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9288,10 +10150,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón",
+            "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón",
             "precio": 104.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9311,20 +10173,9 @@
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Media Bebé Niño Niña Pack X4",
-            "precio": 24.9,
+            "precio": 19.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20995495/medias-bebe-nino-nina-pack-x4-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
-            "precio": 69.93,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/19012595/body-bebe-nino-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9343,10 +10194,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niña Pack X4",
-            "precio": 49.95,
+            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
+            "precio": 69.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21370986/w25-i-n-4pk-bs-stripe-snack-print",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/19012595/body-bebe-nino-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9365,10 +10216,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Body Pack X4 Bebé Niño",
+            "titulo": "CARTERS Body Bebé Niña Pack X4",
             "precio": 49.95,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21369658/w25-i-b-4pk-bs-neutral-bear",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21370986/w25-i-n-4pk-bs-stripe-snack-print",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9377,7 +10228,7 @@
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Conjunto Bebé Niña 4 Piezas Algodón",
-            "precio": 49.9,
+            "precio": 39.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20993629/conjunto-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
@@ -9388,7 +10239,7 @@
           {
             "tienda": "Falabella",
             "titulo": "CARTERS Conjunto Bebé Niña 4 Piezas Algodón",
-            "precio": 49.9,
+            "precio": 39.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/20993635/conjunto-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
@@ -9442,10 +10293,48 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
-            "precio": 71.94,
+            "titulo": "CARTERS Pijama Bebé Niño Pack X2 Algodón",
+            "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21410189/pijama-bebe-nino-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21523799/pijama-bebe-nino-pack-x2-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Body Bebé Niña Pack X4",
+            "precio": 49.95,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21366111/body-pack-x4-bebe-nina",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "freshly_picked_zapatos": {
+        "fecha": "2026-11-17",
+        "ofertas": [
+          {
+            "tienda": "Falabella",
+            "titulo": "DISNEY CLASICOS Llavero Peluche Coleccionable Sorpresa Charm Disney Fresh Picked",
+            "precio": 84.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159113068/llavero-peluche-coleccionable-sorpresa-charm-disney-fresh-picked",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende La Juguetería De Mamá"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "SHEGLAM For The Flush Lip & Cheek Tint - Cherry Picked",
+            "precio": 19.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/80237267/for-the-flush-lct-cherry-pick",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9457,12 +10346,12 @@
   },
   "oechsle": {
     "uso": {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-17",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -9687,7 +10576,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -9725,7 +10614,7 @@
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -9851,7 +10740,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10054,7 +10943,7 @@
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10279,7 +11168,7 @@
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10306,6 +11195,17 @@
           {
             "tienda": "Oechsle",
             "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
+            "precio": 34.0,
+            "moneda": "PEN",
+            "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050503/p",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Oechsle",
+            "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
             "precio": 55.0,
             "moneda": "PEN",
             "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001965268/p",
@@ -10320,17 +11220,6 @@
             "precio": 1000.0,
             "moneda": "PEN",
             "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050494/p",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Oechsle",
-            "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
-            "precio": 34.0,
-            "moneda": "PEN",
-            "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050503/p",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10361,7 +11250,7 @@
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-17",
         "ofertas": [
           {
             "tienda": "Oechsle",
