@@ -1,14 +1,14 @@
 {
-  "fecha": "2026-11-17",
-  "generado": "2026-11-17T20:33:34+00:00",
-  "tipo_cambio": 3.419,
+  "fecha": "2026-11-18",
+  "generado": "2026-11-18T20:07:28+00:00",
+  "tipo_cambio": 3.415,
   "tipo_cambio_fuente": "SUNAT",
   "productos": [
     {
       "id": "kickee_pijama",
       "marca": "Kickee Pants",
       "nombre": "Pijama de bambú",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Whatnot",
@@ -106,57 +106,10 @@
       "tienda_ayer": "Whatnot"
     },
     {
-      "id": "hanna_pijama",
-      "marca": "Hanna Andersson",
-      "nombre": "Pijama de algodón orgánico",
-      "tc": 3.419,
-      "ranking_tiendas": [
-        {
-          "tienda": "hannaandersson",
-          "precio_usd": 14.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
-          "envio_gratis": false,
-          "fecha": "2026-11-15",
-          "nota": "62% OFF"
-        },
-        {
-          "tienda": "Hanna Andersson",
-          "precio_usd": 27.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:14615291331552229690,productid:7695315979662446661,headlineOfferDocid:12956842566954392656,imageDocid:9339955066268541026,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:6876805254951591620,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Hanna Andersson Cars HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Boys'",
-          "envio_gratis": true,
-          "fecha": "2026-11-15",
-          "nota": "40% OFF"
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Hanna Andersson pijama",
-      "ofertas_lima": [],
-      "precio_usa_usd": 14.99,
-      "tienda_ganadora": "hannaandersson",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
-      "envio_gratis": false,
-      "fecha_precio_usa": "2026-11-15",
-      "nota_usa": "62% OFF",
-      "precio_lima_ref_pen": 310,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 64,
-      "venta_objetivo_pen": 285,
-      "margen_pen": 221,
-      "margen_pct": 77.5,
-      "estado": "VERDE",
-      "precio_usa_ayer": 14.99,
-      "delta_pct_vs_ayer": 0.0,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "hannaandersson"
-    },
-    {
       "id": "aden_anais_muselina",
       "marca": "Aden",
       "nombre": "Manta muselina pack x4",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Poshmark",
@@ -213,6 +166,15 @@
           "nota": ""
         },
         {
+          "tienda": "Amazon",
+          "precio_usd": 33.96,
+          "url": "https://www.amazon.com/dp/B074G5GY68",
+          "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Dapper",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
           "tienda": "Babylist",
           "precio_usd": 34.95,
           "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:2261984568276511849,headlineOfferDocid:2261984568276511849,imageDocid:12810401098311942630,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,pvt:hg&hl=en&gl=us&udm=28",
@@ -258,16 +220,9 @@
           "nota": "10% OFF"
         }
       ],
-      "lima_estimado": false,
+      "lima_estimado": true,
       "busqueda_lima": "Aden Anais muselina",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 209.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
-          "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba"
-        }
-      ],
+      "ofertas_lima": [],
       "precio_usa_usd": 12.0,
       "tienda_ganadora": "Poshmark",
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:16446364043997212707,headlineOfferDocid:16446364043997212707,imageDocid:117908938671245097,rds:PC_10036976364349439571|PROD_PC_10036976364349439571,pvt:hg&hl=en&gl=us&udm=28",
@@ -275,12 +230,12 @@
       "envio_gratis": false,
       "fecha_precio_usa": "2026-11-16",
       "nota_usa": "40% OFF",
-      "precio_lima_ref_pen": 209,
-      "tienda_lima_ref": "Falabella",
+      "precio_lima_ref_pen": 310,
+      "tienda_lima_ref": "Referencia manual",
       "costo_lima_pen": 51,
-      "venta_objetivo_pen": 192,
-      "margen_pen": 141,
-      "margen_pct": 73.3,
+      "venta_objetivo_pen": 285,
+      "margen_pen": 234,
+      "margen_pct": 82.0,
       "estado": "VERDE",
       "precio_usa_ayer": 12.0,
       "delta_pct_vs_ayer": 0.0,
@@ -288,10 +243,276 @@
       "tienda_ayer": "Poshmark"
     },
     {
+      "id": "carters_pants4",
+      "marca": "Carter's",
+      "nombre": "Pack pantalones x4 (control)",
+      "tc": 3.415,
+      "ranking_tiendas": [
+        {
+          "tienda": "Depop",
+          "precio_usd": 2.7,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:13465226991775297480,headlineOfferDocid:13465226991775297480,imageDocid:1100298553460055034,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Gray Baby Boy Sweatpants - 3-6 Months",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "10% OFF"
+        },
+        {
+          "tienda": "eBay",
+          "precio_usd": 3.14,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:14462563091035124227,headlineOfferDocid:14462563091035124227,imageDocid:7050529707711975037,rds:PC_11185129493169840398|PROD_PC_11185129493169840398,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Baby Sweatpants Pants 2-pack Gray/blue 6 Months Cotton Knit",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "allsecureindia",
+          "precio_usd": 4.2,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:18148990796357929133,productid:7158814401059786260,headlineOfferDocid:2579532634234460230,imageDocid:1126748175716366667,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,gpcid:16896039271690266055,mid:576462567040487759,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Child of Mine Baby Pants, Four-Pack, Sizes Preemie-12 Months, Infant Boy's, Blue",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Zaffy",
+          "precio_usd": 4.43,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:2909496792938194034,headlineOfferDocid:2909496792938194034,imageDocid:4792860886422680170,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Baby Boys' Knit Pant 224g214",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Poshmark",
+          "precio_usd": 8.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10153188218947427296,productid:18032911482163366786,headlineOfferDocid:16142990909527745890,imageDocid:15985643339985183347,rds:PC_413159316931248634|PROD_PC_413159316931248634,gpcid:413159316931248634,mid:576462877853955128,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Child of Mine Baby ComfySoft Pants 2-Pack",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "27% OFF"
+        },
+        {
+          "tienda": "Walmart",
+          "precio_usd": 9.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:6990192235170907367,productid:6806131674848265207,headlineOfferDocid:1589986597119512327,imageDocid:17795033152371999266,rds:PC_18165804647947220055|PROD_PC_18165804647947220055,gpcid:18165804647947220055,mid:576462898603827903,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Child of Mine by Carter's Baby Pants",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "manjinimariammanfootwearstore.org",
+          "precio_usd": 11.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:11930119831862636651,headlineOfferDocid:11930119831862636651,imageDocid:786518975604296428,rds:PC_17461535313512139077|PROD_PC_17461535313512139077,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Baby Boys' 2-Pack Fleece Pant - Haute couture, Free Shipping Worldwide | manjinimariammanfootwearstore",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Carter's",
+          "precio_usd": 24.5,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:13289385413509727291,productid:5610722888338128902,headlineOfferDocid:16311896955232070860,imageDocid:14948416536730257242,rds:PC_644703965004512988|PROD_PC_644703965004512988,gpcid:6026415172232255332,mid:576462913295297902,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's baby 4-pack pull-on pants 12M Grey/Ivory/Tan",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "50% OFF"
+        },
+        {
+          "tienda": "Baby and Toys",
+          "precio_usd": 26.25,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:18102323397372097396,productid:1128626418788897034,headlineOfferDocid:548563067922754553,imageDocid:10365328417680183676,gpcid:13799421576697562535,mid:576462892327824286,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Simple Joys by Carter's Baby Girls' 4-Pack Fleece Pants",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": false,
+      "busqueda_lima": "Carters pantalon pack x4 bebe",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 104.93,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21501668/pantalon-bebe-nino-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 104.93,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 104.93,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
+        }
+      ],
+      "precio_usa_usd": 2.7,
+      "tienda_ganadora": "Depop",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:13465226991775297480,headlineOfferDocid:13465226991775297480,imageDocid:1100298553460055034,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Carter's Gray Baby Boy Sweatpants - 3-6 Months",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "10% OFF",
+      "precio_lima_ref_pen": 60,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 12,
+      "venta_objetivo_pen": 55,
+      "margen_pen": 44,
+      "margen_pct": 79.1,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
+      "id": "freshly_picked_zapatos",
+      "marca": "Freshly Picked",
+      "nombre": "Zapatos primeros pasos",
+      "tc": 3.415,
+      "ranking_tiendas": [
+        {
+          "tienda": "eBay",
+          "precio_usd": 20.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:4930236764223506926,headlineOfferDocid:4930236764223506926,imageDocid:13411848791652267191,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Freshly Picked Rose Pink Soft Sole Leather Moccasins Newborn Shoes",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Poshmark",
+          "precio_usd": 20.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:17266958976225652846,productid:15342686903012991562,headlineOfferDocid:10201584971410701395,imageDocid:6701018289163366154,gpcid:11941663177436013435,mid:576462915809648945,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Freshly Picked Mini Sole Bow Moccasins Toddler Girl Platinum",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Basically Bows & Bowties",
+          "precio_usd": 29.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:531701681285353024,productid:5967871504748111970,headlineOfferDocid:8681776567964433827,imageDocid:11127173224092285352,gpcid:1861256435028536873,mid:576462326550539334,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Freshly Picked Chrome Honeycomb Soft Sole Moccasins 1",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "50% OFF"
+        },
+        {
+          "tienda": "Albee Baby",
+          "precio_usd": 59.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:3604909445752883976,headlineOfferDocid:3604909445752883976,imageDocid:11048452785394886532,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Freshly Picked Knotted Bow Moccasins, Size 2 - Espresso",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Freshly Picked (sitio oficial)",
+          "precio_usd": 65.0,
+          "url": "https://freshlypicked.com/products/zion",
+          "titulo": "Freshly Picked Zion Baby Moccasins | Handmade Leather Moccasins For Babies",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Freshly Picked",
+      "ofertas_lima": [],
+      "precio_usa_usd": 20.0,
+      "tienda_ganadora": "eBay",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:4930236764223506926,headlineOfferDocid:4930236764223506926,imageDocid:13411848791652267191,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Freshly Picked Rose Pink Soft Sole Leather Moccasins Newborn Shoes",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 420,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 85,
+      "venta_objetivo_pen": 386,
+      "margen_pen": 301,
+      "margen_pct": 77.9,
+      "estado": "VERDE",
+      "precio_usa_ayer": 65.0,
+      "delta_pct_vs_ayer": -69.2,
+      "estado_ayer": "AMARILLO",
+      "tienda_ayer": "Freshly Picked (sitio oficial)"
+    },
+    {
+      "id": "hanna_pijama",
+      "marca": "Hanna Andersson",
+      "nombre": "Pijama de algodón orgánico",
+      "tc": 3.415,
+      "ranking_tiendas": [
+        {
+          "tienda": "hannaandersson",
+          "precio_usd": 14.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
+          "envio_gratis": false,
+          "fecha": "2026-11-15",
+          "nota": "62% OFF"
+        },
+        {
+          "tienda": "Hanna Andersson",
+          "precio_usd": 27.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:14615291331552229690,productid:7695315979662446661,headlineOfferDocid:12956842566954392656,imageDocid:9339955066268541026,rds:PC_2792042842535416870|PROD_PC_2792042842535416870,gpcid:6876805254951591620,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Hanna Andersson Cars HannaJams Sleeper Pajamas in 100% Combed Organic Cotton Baby Boys'",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
+          "nota": "40% OFF"
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Hanna Andersson pijama",
+      "ofertas_lima": [],
+      "precio_usa_usd": 14.99,
+      "tienda_ganadora": "hannaandersson",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:18202048488208785729,productid:7231228657704343538,headlineOfferDocid:8879110585266141369,imageDocid:12670460165137114073,rds:PC_10544719850112032123|PROD_PC_10544719850112032123,gpcid:10544719850112032123,mid:576462916763393747,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Hanna Andersson S'mores HannaJams Sleeper Pajamas in 100% Organic Combed Cotton",
+      "envio_gratis": false,
+      "fecha_precio_usa": "2026-11-15",
+      "nota_usa": "62% OFF",
+      "precio_lima_ref_pen": 310,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 64,
+      "venta_objetivo_pen": 285,
+      "margen_pen": 221,
+      "margen_pct": 77.6,
+      "estado": "VERDE",
+      "precio_usa_ayer": 14.99,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "hannaandersson"
+    },
+    {
       "id": "posh_peanut_swaddle",
       "marca": "Posh Peanut",
       "nombre": "Swaddle de bambú",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Casp Baby Mommy & Me Boutique",
@@ -301,6 +522,15 @@
           "envio_gratis": true,
           "fecha": "2026-11-14",
           "nota": "60% OFF"
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 19.99,
+          "url": "https://www.amazon.com/dp/B0DZYT1LKX",
+          "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Pixie",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
         },
         {
           "tienda": "eBay",
@@ -419,7 +649,7 @@
       "id": "ergobaby_omni360",
       "marca": "Ergobaby",
       "nombre": "Portabebé Omni 360",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Beanstalk",
@@ -427,7 +657,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:5276564352249818592,headlineOfferDocid:5276564352249818592,imageDocid:3254571056701528740,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Cool Air Grey Omni 360 All-Position Baby Carrier",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -436,7 +666,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:8095114302750745408,headlineOfferDocid:8095114302750745408,imageDocid:8200956015886009486,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Omni 360 All-Position Baby Carrier for Newborn to Toddler with Lumbar Support (7-45 Pounds), Pure Black, 1 Count (Pack of 1)",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -445,7 +675,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:26024036425259616,headlineOfferDocid:26024036425259616,imageDocid:15901447735965625774,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Omni 360 Carrier, Grey Diamond",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -454,7 +684,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:13231287973264501328,productid:6352231182984544372,headlineOfferDocid:11312627403651067549,imageDocid:4825251030382340977,rds:PC_1816973516789692448|PROD_PC_1816973516789692448,gpcid:9208193182686308850,mid:576462917079747374,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "ERGOBABY BABY CARRIER OMNI 360",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -463,7 +693,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:14762353636553902099,productid:7842163230546994910,headlineOfferDocid:11863749288450517292,imageDocid:1878271938982273315,rds:PC_3653934298629912119|PROD_PC_3653934298629912119,gpcid:6027092649893360317,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Omni 360 All-in-One Baby Carrier",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -472,7 +702,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:2954370139680832422,productid:10358795508348171095,headlineOfferDocid:2291063125850056907,imageDocid:9711406071492399287,rds:PC_1816973516789692448|PROD_PC_1816973516789692448,gpcid:16036147784044059176,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Baby Carrier Omni 360 Cool Air Mesh",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -481,7 +711,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=catalogid:14517929862432427341,productid:2452545818175677834,headlineOfferDocid:976392954744078020,imageDocid:10913574243135058682,rds:PC_896049459319275479|PROD_PC_896049459319275479,gpcid:8468135062641307541,mid:576462576106811871,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ergobaby Omni Classic Mesh Baby Carrier",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         }
       ],
@@ -493,23 +723,25 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Ergobaby Omni 360 baby carrier&prds=productid:5276564352249818592,headlineOfferDocid:5276564352249818592,imageDocid:3254571056701528740,pvt:hg&hl=en&gl=us&udm=28",
       "titulo_ganador": "Ergobaby Cool Air Grey Omni 360 All-Position Baby Carrier",
       "envio_gratis": false,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-17",
       "nota_usa": "",
       "precio_lima_ref_pen": 1250,
       "tienda_lima_ref": "Referencia manual",
       "costo_lima_pen": 320,
       "venta_objetivo_pen": 1150,
       "margen_pen": 830,
-      "margen_pct": 72.1,
+      "margen_pct": 72.2,
       "estado": "VERDE",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
+      "precio_usa_ayer": 74.95,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Beanstalk"
     },
     {
       "id": "halo_sleepsack",
       "marca": "Halo",
       "nombre": "Saco de dormir SleepSack",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Mercari",
@@ -575,6 +807,15 @@
           "nota": ""
         },
         {
+          "tienda": "Amazon",
+          "precio_usd": 34.95,
+          "url": "https://www.amazon.com/dp/B0DDZ1DNFZ",
+          "titulo": "HALO SleepSack, 100% Cotton Wearable Blanket, Swaddle Transition Sleeping Bag, TOG 0.5",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
+          "nota": ""
+        },
+        {
           "tienda": "Nordstrom",
           "precio_usd": 37.99,
           "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:2356958858164962673,headlineOfferDocid:2356958858164962673,imageDocid:10563139786360348322,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
@@ -608,26 +849,20 @@
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
-          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 229.0,
           "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1",
-          "titulo": "HALO Swaddle SleepSack Algodón Talla S"
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
           "tienda": "Falabella",
-          "precio_pen": 239.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex",
-          "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex"
+          "precio_pen": 249.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex",
+          "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex"
         },
         {
           "tienda": "Falabella",
@@ -659,7 +894,7 @@
       "id": "solly_fular",
       "marca": "Solly Baby",
       "nombre": "Fular elástico",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Beanstalk",
@@ -667,7 +902,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:6818788825763791037,headlineOfferDocid:6818788825763791037,imageDocid:3724021064214986721,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Grey Wrap Carrier",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -676,7 +911,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:13387209643824519435,headlineOfferDocid:13387209643824519435,imageDocid:14868938493898473274,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap, Stripes",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -685,7 +920,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:3607423156228844810,productid:16339108037289556846,headlineOfferDocid:676062688875052503,imageDocid:11365630212287442934,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:16839012193562999428,mid:576462576254177251,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Quincy Mae X Solly Baby Ditsy Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": "25% OFF"
         },
         {
@@ -694,7 +929,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:18384682809050087684,headlineOfferDocid:18384682809050087684,imageDocid:2015100068283594753,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap - Jenni Kayne + Solly Baby",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -703,7 +938,16 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:8791419097315072466,productid:16861315464602227923,headlineOfferDocid:595927795063314160,imageDocid:14761773976382678413,rds:PC_15496104607267404397|PROD_PC_15496104607267404397,gpcid:18340223888490008552,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "SOLLY BABY WRAP MARENGO",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
+          "nota": ""
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 74.0,
+          "url": "https://www.amazon.com/dp/B0DBN1CQ76",
+          "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Basil",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
           "nota": ""
         },
         {
@@ -712,7 +956,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:12402361502478469557,productid:6106134902354059718,headlineOfferDocid:5781288548347983041,imageDocid:5025154996981904821,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:17445348394396279810,mid:576462866778339717,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -721,7 +965,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:7714297938139747031,headlineOfferDocid:7714297938139747031,imageDocid:16980076138926938443,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Stretchy Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -730,7 +974,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:14177923319984234782,headlineOfferDocid:14177923319984234782,imageDocid:8830536167508744937,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap Driftwood Stripe",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -739,7 +983,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:7255982356983039398,headlineOfferDocid:7255982356983039398,imageDocid:9934991467447644831,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "The Wrap - Cottage Rose by Solly Baby",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -748,7 +992,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:13484080692602628765,headlineOfferDocid:13484080692602628765,imageDocid:9186149534965262271,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap - Ballet | Lightweight Baby Carrier Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -757,7 +1001,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:1153929232931100752,headlineOfferDocid:1153929232931100752,imageDocid:2582353784384925612,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby - Ballet Pink Baby Carrier Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -766,7 +1010,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:13244903587229393499,productid:3025102452089959316,headlineOfferDocid:4058249153478519849,imageDocid:12793031593315968273,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,gpcid:11170522788565744029,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Black Pinstripe Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -775,7 +1019,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:7091249062645253390,productid:841934696739035807,headlineOfferDocid:16955974029480267644,imageDocid:14861054687113445947,rds:PC_9929688567439947187|PROD_PC_9929688567439947187,gpcid:9929688567439947187,mid:576462826533478245,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Ballet Baby Wrap Carrier | Newborn Ready | Pink | TENCEL Modal | Lightweight | Solly Baby",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -793,7 +1037,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:14899566191183619799,productid:624038731542886696,headlineOfferDocid:11159243983323471012,imageDocid:8568482616312448833,gpcid:16190759108630757299,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "West Elm Solly Baby Wrap",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -802,7 +1046,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:796919330376380225,headlineOfferDocid:796919330376380225,imageDocid:7898316513884860144,rds:PC_14035337227004738373|PROD_PC_14035337227004738373,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap, Spelt",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -811,7 +1055,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:17091597981271832815,productid:14364063337828728470,headlineOfferDocid:2217749879912786575,imageDocid:12151348429519858224,gpcid:11262716289801887936,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Mist Wrap",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -820,7 +1064,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:4857614742029255222,headlineOfferDocid:4857614742029255222,imageDocid:13729202507544681058,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap Ballet",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -829,7 +1073,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:8999449233240837879,productid:6085790673053516868,headlineOfferDocid:2195500070190662652,imageDocid:15882703639854250013,gpcid:2631982605974197072,mid:576462502942176344,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Driftwood Stripe Wrap",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -838,7 +1082,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=catalogid:13406884585572485771,productid:14460521899088359908,headlineOfferDocid:12394036282646072757,imageDocid:4027223921715422438,rds:PC_4376705583525298816|PROD_PC_4376705583525298816,gpcid:15058304194726791882,mid:576462917140896822,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap Carrier for Newborn to Toddler 8-25 Lbs",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -847,7 +1091,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:15703556700011335045,headlineOfferDocid:15703556700011335045,imageDocid:15866803126138493781,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Blush Floret Wrap by Solly Baby",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -856,7 +1100,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:4441051359323193640,headlineOfferDocid:4441051359323193640,imageDocid:1365193481798081599,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "SOLLY BABY X QUINCY MAE The Wrap Ditsy",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -865,7 +1109,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:2198623380169671520,headlineOfferDocid:2198623380169671520,imageDocid:3015414675653582702,rds:PC_17445348394396279810|PROD_PC_17445348394396279810,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap | Spelt",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -874,7 +1118,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:17770693301640575453,headlineOfferDocid:17770693301640575453,imageDocid:8685570281795751708,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Solly Baby Wrap from Solly Baby | Color: Driftwood Stripe",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         }
       ],
@@ -886,7 +1130,7 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Solly Baby wrap&prds=productid:6818788825763791037,headlineOfferDocid:6818788825763791037,imageDocid:3724021064214986721,pvt:hg&hl=en&gl=us&udm=28",
       "titulo_ganador": "Solly Baby Grey Wrap Carrier",
       "envio_gratis": false,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-17",
       "nota_usa": "",
       "precio_lima_ref_pen": 490,
       "tienda_lima_ref": "Referencia manual",
@@ -895,16 +1139,16 @@
       "margen_pen": 310,
       "margen_pct": 68.8,
       "estado": "VERDE",
-      "precio_usa_ayer": 74.0,
-      "delta_pct_vs_ayer": -55.5,
-      "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Solly Baby (sitio oficial)"
+      "precio_usa_ayer": 32.95,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Beanstalk"
     },
     {
       "id": "little_sleepies_pack2",
       "marca": "Little Sleepies",
       "nombre": "Pijama de bambú",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Little Chickadee",
@@ -954,19 +1198,10 @@
         {
           "tienda": "Little Sleepies (sitio oficial)",
           "precio_usd": 36.0,
-          "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971053926",
+          "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971021158",
           "titulo": "Little Sleepies Forest Crew Zippy",
           "envio_gratis": false,
           "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 38.0,
-          "url": "https://www.amazon.com/dp/B0DZ32C2D8",
-          "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
-          "envio_gratis": true,
-          "fecha": "2026-11-15",
           "nota": ""
         },
         {
@@ -1003,7 +1238,7 @@
       "costo_lima_pen": 62,
       "venta_objetivo_pen": 193,
       "margen_pen": 131,
-      "margen_pct": 67.9,
+      "margen_pct": 68.0,
       "estado": "VERDE",
       "precio_usa_ayer": 14.5,
       "delta_pct_vs_ayer": 0.0,
@@ -1011,10 +1246,46 @@
       "tienda_ayer": "Little Chickadee"
     },
     {
+      "id": "posh_peanut_enterizo",
+      "marca": "Posh Peanut",
+      "nombre": "Enterizo de bambú estampado",
+      "tc": 3.415,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 27.5,
+          "url": "https://www.amazon.com/dp/B0DDRJ4P87",
+          "titulo": "Posh Peanut Baby Girl Footie Pajamas",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Posh Peanut",
+      "ofertas_lima": [],
+      "precio_usa_usd": 27.5,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0DDRJ4P87",
+      "titulo_ganador": "Posh Peanut Baby Girl Footie Pajamas",
+      "envio_gratis": true,
+      "fecha_precio_usa": "2026-11-15",
+      "nota_usa": "",
+      "precio_lima_ref_pen": 290,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 117,
+      "venta_objetivo_pen": 267,
+      "margen_pen": 149,
+      "margen_pct": 56.0,
+      "estado": "VERDE",
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
+    },
+    {
       "id": "kyte_pijama_bambu",
       "marca": "Kyte Baby",
       "nombre": "Pijama con cierre de bambú",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Destination Baby & Kids",
@@ -1059,6 +1330,15 @@
           "titulo": "Kyte Baby Zippered Footie 18-24m / Midnight Party",
           "envio_gratis": false,
           "fecha": "2026-11-13",
+          "nota": ""
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 37.99,
+          "url": "https://www.amazon.com/dp/B082829CK6",
+          "titulo": "KYTE BABY Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
+          "envio_gratis": true,
+          "fecha": "2026-11-16",
           "nota": ""
         },
         {
@@ -1149,7 +1429,7 @@
       "costo_lima_pen": 107,
       "venta_objetivo_pen": 212,
       "margen_pen": 105,
-      "margen_pct": 49.5,
+      "margen_pct": 49.6,
       "estado": "VERDE",
       "precio_usa_ayer": 24.99,
       "delta_pct_vs_ayer": 0.0,
@@ -1160,7 +1440,7 @@
       "id": "kyte_enterizo",
       "marca": "Kyte Baby",
       "nombre": "Enterizo de bambú",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "eBay",
@@ -1214,15 +1494,6 @@
           "titulo": "Kyte BABY Snap Romper in Sage at Nordstrom, Size 3-6M",
           "envio_gratis": true,
           "fecha": "2026-11-13",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 34.99,
-          "url": "https://www.amazon.com/dp/B0F6RLB1NV",
-          "titulo": "KYTE BABY Zippered Shortall Romper",
-          "envio_gratis": true,
-          "fecha": "2026-11-15",
           "nota": ""
         },
         {
@@ -1286,7 +1557,7 @@
       "costo_lima_pen": 124,
       "venta_objetivo_pen": 230,
       "margen_pen": 106,
-      "margen_pct": 46.1,
+      "margen_pct": 46.2,
       "estado": "VERDE",
       "precio_usa_ayer": 29.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1297,7 +1568,7 @@
       "id": "skip_hop_mochila",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Caterkids Hawaii",
@@ -1315,6 +1586,15 @@
           "titulo": "Promotional Skip Hop Diaper Bag Backpack",
           "envio_gratis": false,
           "fecha": "2026-11-16",
+          "nota": ""
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 45.0,
+          "url": "https://www.amazon.com/dp/B0G3CY198K",
+          "titulo": "Skip Hop Diaper Bag Backpack with Portable Changing Pad, Easy-Access Wipes & Zippered Side Pockets, Luggage Sleeve & Stroller Straps, Fits a 15” Laptop, Luna, Sage",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
           "nota": ""
         },
         {
@@ -1430,7 +1710,7 @@
           "tienda": "Falabella",
           "precio_pen": 319.2,
           "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
-          "titulo": "SKIP HOP Bolso Pañalero Unisex Bebé"
+          "titulo": "SKIP HOP Bolso Pañalero Mainframe Black"
         },
         {
           "tienda": "Oechsle",
@@ -1469,7 +1749,7 @@
       "costo_lima_pen": 171,
       "venta_objetivo_pen": 294,
       "margen_pen": 123,
-      "margen_pct": 41.8,
+      "margen_pct": 41.9,
       "estado": "VERDE",
       "precio_usa_ayer": 40.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1480,7 +1760,7 @@
       "id": "kyte_sleep_bag",
       "marca": "Kyte Baby",
       "nombre": "Saco de dormir 1.0 TOG",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "Whatnot",
@@ -1632,8 +1912,8 @@
       "tienda_lima_ref": "Referencia manual",
       "costo_lima_pen": 188,
       "venta_objetivo_pen": 294,
-      "margen_pen": 106,
-      "margen_pct": 36.1,
+      "margen_pen": 107,
+      "margen_pct": 36.2,
       "estado": "VERDE",
       "precio_usa_ayer": 44.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1641,48 +1921,10 @@
       "tienda_ayer": "Whatnot"
     },
     {
-      "id": "freshly_picked_zapatos",
-      "marca": "Freshly Picked",
-      "nombre": "Zapatos primeros pasos",
-      "tc": 3.419,
-      "ranking_tiendas": [
-        {
-          "tienda": "Freshly Picked (sitio oficial)",
-          "precio_usd": 65.0,
-          "url": "https://freshlypicked.com/products/zion",
-          "titulo": "Freshly Picked Zion Baby Moccasins | Handmade Leather Moccasins For Babies",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Freshly Picked",
-      "ofertas_lima": [],
-      "precio_usa_usd": 65.0,
-      "tienda_ganadora": "Freshly Picked (sitio oficial)",
-      "url_ganadora": "https://freshlypicked.com/products/zion",
-      "titulo_ganador": "Freshly Picked Zion Baby Moccasins | Handmade Leather Moccasins For Babies",
-      "envio_gratis": false,
-      "fecha_precio_usa": null,
-      "nota_usa": "",
-      "precio_lima_ref_pen": 420,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 278,
-      "venta_objetivo_pen": 386,
-      "margen_pen": 109,
-      "margen_pct": 28.1,
-      "estado": "AMARILLO",
-      "precio_usa_ayer": 59.0,
-      "delta_pct_vs_ayer": 10.2,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Freshly Picked (sitio oficial)"
-    },
-    {
       "id": "kyte_toalla",
       "marca": "Kyte Baby",
       "nombre": "Toalla con capucha",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
         {
           "tienda": "shopthelittlehen",
@@ -1691,15 +1933,6 @@
           "titulo": "Kyte Baby Infant Hooded Towel: Oat",
           "envio_gratis": true,
           "fecha": "2026-11-14",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 41.99,
-          "url": "https://www.amazon.com/dp/B0DLH67Z1D",
-          "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Blush",
-          "envio_gratis": true,
-          "fecha": "2026-11-15",
           "nota": ""
         },
         {
@@ -1745,7 +1978,7 @@
       "costo_lima_pen": 171,
       "venta_objetivo_pen": 230,
       "margen_pen": 59,
-      "margen_pct": 25.7,
+      "margen_pct": 25.8,
       "estado": "AMARILLO",
       "precio_usa_ayer": 40.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1756,15 +1989,24 @@
       "id": "skip_hop_forma",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila Forma",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 63.99,
+          "url": "https://www.amazon.com/dp/B0731TBBWF",
+          "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+          "envio_gratis": true,
+          "fecha": "2026-11-15",
+          "nota": ""
+        },
         {
           "tienda": "Target",
           "precio_usd": 78.99,
           "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2558621613968142633,productid:3535597300402177073,headlineOfferDocid:15308528460968715497,imageDocid:4223688882207297810,rds:PC_10807934512089617995|PROD_PC_10807934512089617995,gpcid:10807934512089617995,mid:576462891238342035,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Skip Hop Diaper Backpack Forma",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -1773,7 +2015,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:17657868882503530164,productid:6858503904195651488,headlineOfferDocid:13573721548313816082,imageDocid:10764229459036094893,gpcid:3413581552893011820,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Skip Hop Forma Diaper Backpack",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -1782,7 +2024,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:1224303788913350102,productid:15892254326165393662,headlineOfferDocid:4944681623961422022,imageDocid:609143204922514279,rds:PC_14270724394297965420|PROD_PC_14270724394297965420,gpcid:14270724394297965420,mid:576462875869158752,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Skip Hop Forma Next Backpack Diaper Bag",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": ""
         },
         {
@@ -1791,7 +2033,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=productid:16859797134451446622,headlineOfferDocid:16859797134451446622,imageDocid:8576402069457874800,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Skip Hop - Next Forma Diaper Backpack with Stroll & Tote Ultimate Stroller Organizer - Oat",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-17",
           "nota": "21% OFF"
         }
       ],
@@ -1817,103 +2059,36 @@
           "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
         }
       ],
-      "precio_usa_usd": 78.99,
-      "tienda_ganadora": "Target",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2558621613968142633,productid:3535597300402177073,headlineOfferDocid:15308528460968715497,imageDocid:4223688882207297810,rds:PC_10807934512089617995|PROD_PC_10807934512089617995,gpcid:10807934512089617995,mid:576462891238342035,pvt:hg&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Skip Hop Diaper Backpack Forma",
+      "precio_usa_usd": 63.99,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0731TBBWF",
+      "titulo_ganador": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-15",
       "nota_usa": "",
       "precio_lima_ref_pen": 319,
       "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 338,
+      "costo_lima_pen": 273,
       "venta_objetivo_pen": 294,
-      "margen_pen": -44,
-      "margen_pct": -15.0,
+      "margen_pen": 21,
+      "margen_pct": 7.0,
       "estado": "ROJO",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "posh_peanut_enterizo",
-      "marca": "Posh Peanut",
-      "nombre": "Enterizo de bambú estampado",
-      "tc": 3.419,
-      "ranking_tiendas": [],
-      "lima_estimado": true,
-      "busqueda_lima": "Posh Peanut",
-      "ofertas_lima": [],
-      "precio_lima_ref_pen": 290,
-      "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
+      "precio_usa_ayer": 78.99,
+      "delta_pct_vs_ayer": -19.0,
+      "estado_ayer": "ROJO",
+      "tienda_ayer": "Target"
     },
     {
       "id": "hatch_rest2",
       "marca": "Hatch",
       "nombre": "Luz de sueño Rest 2nd Gen",
-      "tc": 3.419,
+      "tc": 3.415,
       "ranking_tiendas": [],
       "lima_estimado": true,
       "busqueda_lima": "Hatch Rest",
       "ofertas_lima": [],
       "precio_lima_ref_pen": 520,
       "tienda_lima_ref": "Referencia manual",
-      "estado": "SIN DATOS",
-      "falta": "USA",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
-      "id": "carters_pants4",
-      "marca": "Carter's",
-      "nombre": "Pack pantalones x4 (control)",
-      "tc": 3.419,
-      "ranking_tiendas": [],
-      "lima_estimado": false,
-      "busqueda_lima": "Carters pantalon pack x4 bebe",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 104.93,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21501668/pantalon-bebe-nino-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 104.93,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 104.93,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
-        }
-      ],
-      "precio_lima_ref_pen": 60,
-      "tienda_lima_ref": "Falabella",
       "estado": "SIN DATOS",
       "falta": "USA",
       "estado_ayer": "SIN DATOS",
@@ -1955,6 +2130,11 @@
       "fuente": "mercadolibre",
       "producto": "posh_peanut_enterizo",
       "error": "HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET"
+    },
+    {
+      "fuente": "amazon",
+      "producto": "kickee_pijama",
+      "error": "HTTP 503/captcha tras 3 intentos"
     },
     {
       "fuente": "mercadolibre",

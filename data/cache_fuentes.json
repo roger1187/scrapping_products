@@ -1,7 +1,7 @@
 {
   "google_shopping": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 3
     },
     "productos": {
@@ -5611,12 +5611,1347 @@
             "nota": ""
           }
         ]
+      },
+      "hatch_rest2": {
+        "fecha": "2026-11-18",
+        "ofertas": [
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Smart Sunrise Alarm Clock Sound Sleep Machine/ First",
+            "precio": 49.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:11076076307739376143,headlineOfferDocid:11076076307739376143,imageDocid:14770522286943121392,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 1 Smart Sunrise Alarm Clock Sound Sleep Machine -",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:4467409954111582093,headlineOfferDocid:4467409954111582093,imageDocid:11114444619726886905,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore03 Smart Sunrise Alarm Clock & Sound Machine",
+            "precio": 44.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:5529899408363598984,headlineOfferDocid:5529899408363598984,imageDocid:10808172049188655930,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Go Portable White Noise Sleep Sound Machine, Mint, Model Go1",
+            "precio": 29.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:12568283540253957933,headlineOfferDocid:12568283540253957933,imageDocid:3207743783443226620,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 1 Sunrise Alarm Clock & Sleep Sound Machine White Noise",
+            "precio": 49.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:9861855651896485529,headlineOfferDocid:9861855651896485529,imageDocid:15884673057591181559,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hatch Sleep",
+            "titulo": "Hatch Sleep Clock Bedside Sleep Tracker",
+            "precio": 249.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=catalogid:140748527063150777,productid:2218567151196706380,headlineOfferDocid:13062675118151184332,imageDocid:13193194257023364683,rds:PC_6769208893401154485|PROD_PC_6769208893401154485,gpcid:6769208893401154485,mid:576462567022179768,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 2 Latte Color Sunrise Alarm Clock Pre-owned In Box",
+            "precio": 149.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:17079373359054017722,headlineOfferDocid:17079373359054017722,imageDocid:8080134531524129067,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Hatch Other | Hatch Restore 3 Sunrise Alarm Clock Sound Machine (Putty) Like New Open Box | Color: Cream | Size: Os | Ladybg01's Closet",
+            "precio": 140.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:1780898323516041113,headlineOfferDocid:1780898323516041113,imageDocid:9124306726168222015,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "17% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 3 White Noise Sleep Sound Machine, Putty, Medium",
+            "precio": 140.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:17335437036631890101,headlineOfferDocid:17335437036631890101,imageDocid:16563643115180697224,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore White/gray White Noise Machine Sunrise Alarm Restore03",
+            "precio": 59.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:16776051743103128029,headlineOfferDocid:16776051743103128029,imageDocid:10573188885751245473,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 1 White Noise Sound Machine Sunrise Alarm Clock Gray",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:1206273957946126286,headlineOfferDocid:1206273957946126286,imageDocid:732902927520925404,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Hatch Smart Light- Rest - Home",
+            "precio": 47.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:10736268587433249766,headlineOfferDocid:10736268587433249766,imageDocid:1937400339576881669,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "6% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Hatch Wall Decor | Hatch Restore 1st Gen Smart Sleep Assist Sunrise Alarm Sound Machine Restore03 | Color: Tan | Size: Os | Pm-11705819's Closet",
+            "precio": 53.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:10809719158793554245,headlineOfferDocid:10809719158793554245,imageDocid:16824422600272564239,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Rest 1st Gen Baby Sound Machine Night Light – No Charger",
+            "precio": 18.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:8449501807891780043,headlineOfferDocid:8449501807891780043,imageDocid:8616456855090230728,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore White Noise Machine Sunrise Alarm Clock, White/Beige",
+            "precio": 25.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:16076513985016636699,headlineOfferDocid:16076513985016636699,imageDocid:10443888416718058474,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Hatch Sound Machine - New Home",
+            "precio": 24.37,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:13872052637056727633,headlineOfferDocid:13872052637056727633,imageDocid:14261284588659123919,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "18% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Model Restore02-all In One Personalized Open Box No Cord",
+            "precio": 59.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:12405922712089878961,headlineOfferDocid:12405922712089878961,imageDocid:13734349288745078639,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "20% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore3 Alarm Clock Sound Machine Xrt45",
+            "precio": 64.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:9214014755903871954,headlineOfferDocid:9214014755903871954,imageDocid:11100852504994149322,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Hatch Sleep",
+            "titulo": "Hatch Sleep Clock Bedside Sleep Tracker",
+            "precio": 249.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=catalogid:140748527063150777,productid:2218567151196706380,headlineOfferDocid:203134748133619763,imageDocid:13193194257023364683,rds:PC_6769208893401154485|PROD_PC_6769208893401154485,gpcid:6769208893401154485,mid:576462567022179768,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 1 Smart Sleep Sound Machine & Sunrise Alarm Clock",
+            "precio": 49.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:7647163403748190572,headlineOfferDocid:7647163403748190572,imageDocid:12867216022894171558,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "PayMore Overland Park",
+            "titulo": "Hatch Restore3 Alarm Clock Sound Machine XRT45",
+            "precio": 64.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:14768819446189013853,headlineOfferDocid:14768819446189013853,imageDocid:15984868345442486704,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Hatch Restore 1 | Color: Gray/White | Size: Os | Lunasluxefinds's Closet",
+            "precio": 103.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:6888534620823188650,headlineOfferDocid:6888534620823188650,imageDocid:16401891589014123303,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "26% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Maquina de sonido, rutina sueno personal, reloj despertador",
+            "precio": 109.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:9707159765510426459,headlineOfferDocid:9707159765510426459,imageDocid:5508338772875027430,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Smart Sunrise Alarm Clock With Sleep Sounds",
+            "precio": 49.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:6086448544036713869,headlineOfferDocid:6086448544036713869,imageDocid:2096906012515731743,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Portable Pink Sound Machine, Nature Sound White Noise Sound",
+            "precio": 19.92,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:12872429078454592720,headlineOfferDocid:12872429078454592720,imageDocid:6199203993768589465,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Hatch Other | Hatch Beige Fabric Restore 2 Alarm Clock | Color: Cream/White | Size: Os | Imogenepatton's Closet",
+            "precio": 160.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:8539881024620517468,headlineOfferDocid:8539881024620517468,imageDocid:13269858014595135900,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "27% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Smart Sunrise Alarm Clock & Sound Machine Open Box",
+            "precio": 69.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:9604419066808712098,headlineOfferDocid:9604419066808712098,imageDocid:2354738648880553923,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 3 Alarm Clock Sound Machine Light With Charger Putty -",
+            "precio": 23.76,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:12233586785993279484,headlineOfferDocid:12233586785993279484,imageDocid:17319849290048871899,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Rest Baby Sound Machine, Night Light 1st Gen - White No Charger",
+            "precio": 18.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:15744130498657794211,headlineOfferDocid:15744130498657794211,imageDocid:11284335925902231011,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Rest Go Portable Sound Machine Restgo1 - Tested Working",
+            "precio": 17.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:18190658767799700801,headlineOfferDocid:18190658767799700801,imageDocid:8335057735376186415,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore 3 Smart Sound Machine Alarm Clock White Restore03",
+            "precio": 69.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:10394428447474574315,headlineOfferDocid:10394428447474574315,imageDocid:14397662952210431827,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore (xrt34) White And Gray White Noise/relax Smart Sunrise",
+            "precio": 49.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:17647125717601720965,headlineOfferDocid:17647125717601720965,imageDocid:14306805813145280825,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Hbrest Multicolor Night Light Sound Machine W/ Speaker, Warm",
+            "precio": 19.49,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:8480562700413183979,headlineOfferDocid:8480562700413183979,imageDocid:4856366926496064105,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "mercari",
+            "titulo": "Hatch Restore Smart Sleep Clock & Sunrise Alarm – White",
+            "precio": 140.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:4554206936101124253,headlineOfferDocid:4554206936101124253,imageDocid:6107949125101687491,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Rest Baby Sound Machine, Night Light 1st Gen - White No Charger",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:4530817443147039695,headlineOfferDocid:4530817443147039695,imageDocid:5268817259715671669,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Go Portable White Noise Machine, White, Small Sleep Sound",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:65671948333949289,headlineOfferDocid:65671948333949289,imageDocid:10233740040451226328,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Hatch Restore Ses Makinesi Gün Doğumu Çalar Saati ve Akıllı Işık",
+            "precio": 200.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=catalogid:2815552783590376114,productid:13857857332592522595,headlineOfferDocid:18432605911434263748,imageDocid:4004908851124559437,gpcid:8834821685544375885,mid:576462568255849181,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "42% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Rest Baby Sound Machine, Night Light 1st Gen Registry Essential",
+            "precio": 29.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:536349298896036918,headlineOfferDocid:536349298896036918,imageDocid:11702863387790112494,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Hatch Restore Smart Sleep Alarm Clock Sound Machine Light Restore03",
+            "precio": 44.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:10690048483886261472,headlineOfferDocid:10690048483886261472,imageDocid:398154958402549577,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Beanstalk",
+            "titulo": "Hatch Baby Light/Sound Machine",
+            "precio": 16.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:4918872777388861866,headlineOfferDocid:4918872777388861866,imageDocid:17424405747200431485,pvt:hg&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "freshly_picked_zapatos": {
+        "fecha": "2026-11-18",
+        "ofertas": [
+          {
+            "tienda": "Mom's Milk Boutique",
+            "titulo": "Freshly Picked | Chelsea Boot ~ Ebony 5",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:9980546036563402883,headlineOfferDocid:9980546036563402883,imageDocid:4247140079433870305,rds:PC_16591629841275087304|PROD_PC_16591629841275087304,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "25% OFF"
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Timp City Baby Shoe",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:16337608959770138516,productid:10355011162754583540,headlineOfferDocid:2793740880476968401,imageDocid:14859557029662066420,rds:PC_16820917293870594584|PROD_PC_16820917293870594584,gpcid:16820917293870594584,mid:576462768429924781,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Toddlers Bixby Cognac Sandals Nwt | Color: Brown | Size: 6bb | Gettye's Closet",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:17440007351773114973,headlineOfferDocid:17440007351773114973,imageDocid:11405343638762334954,rds:PC_1492307815811490196|PROD_PC_1492307815811490196,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Swish City Baby Shoe Soft Sole",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:7324870619920043736,productid:13666498448786040106,headlineOfferDocid:4049289833446739686,imageDocid:11177351254524035264,gpcid:10405572542816086680,mid:576462517860658273,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Baby Size 4 Black Leather Sandals | Color: Black/Brown | Size: 4bb | Uradiamond's Closet",
+            "precio": 14.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:16806542685199990197,headlineOfferDocid:16806542685199990197,imageDocid:16448960432280010502,rds:PC_1492307815811490196|PROD_PC_1492307815811490196,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "70% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Salt Flats Bow Baby Shoe",
+            "precio": 39.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:11738772421760973711,productid:11906978786862662288,headlineOfferDocid:8581765891087651006,imageDocid:9689983567322753407,rds:PC_5503254724000741825|PROD_PC_5503254724000741825,gpcid:5503254724000741825,mid:576462815833821978,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Freshly Picked Newport Clog",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:11165514551201913896,productid:3902124951902297280,headlineOfferDocid:14971480456728774746,imageDocid:3068034362420243096,rds:PC_4777113928571395645|PROD_PC_4777113928571395645,gpcid:4777113928571395645,mid:576462867381971017,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Baby Lightning Shoe",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:9195113702542223670,productid:16148345144257170954,headlineOfferDocid:17507489134508594042,imageDocid:11531136207127846189,gpcid:17169638079704561993,mid:576462567984749659,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Suede Cow Print Moccasin Baby Shoe",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:5524215079137183053,productid:4591341019318368228,headlineOfferDocid:404837743635811817,imageDocid:4599311520853185490,gpcid:5556754965525951788,mid:576462810112271536,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Platinum Moccasin Baby Shoe | Elegant Moccasin Shoes for Toddler Soft Sole / Newborn",
+            "precio": 50.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:11978049640052169669,headlineOfferDocid:11978049640052169669,imageDocid:16566772463004520039,rds:PC_1258178813079668623|PROD_PC_1258178813079668623,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Rose Gold Bow Baby Shoe",
+            "precio": 45.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:17568075602421323302,productid:8210658147552225616,headlineOfferDocid:12676314829403392733,imageDocid:8334469335252785000,rds:PC_8292561609617488132|PROD_PC_8292561609617488132,gpcid:8292561609617488132,mid:576462461298574755,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Freshly Picked Bouquet Knotted Bow Baby Shoe",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:16830445945575868248,productid:3166321059460851667,headlineOfferDocid:7277124693582085993,imageDocid:17906526987659998242,gpcid:1633096550925712008,mid:576462517862442491,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Red Rocks Knotted Bow Baby Shoe",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:12031071184134594390,productid:7293157178596786759,headlineOfferDocid:11691845570774360279,imageDocid:1009828456596180128,rds:PC_3137917376164042034|PROD_PC_3137917376164042034,gpcid:3137917376164042034,mid:576462847522250389,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Rose Pink Soft Sole Leather Moccasins Newborn Shoes",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:4930236764223506926,headlineOfferDocid:4930236764223506926,imageDocid:13411848791652267191,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Freshly Picked - Kids | Color: Brown/Yellow | Size: 1",
+            "precio": 23.75,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:14316821990234226019,headlineOfferDocid:14316821990234226019,imageDocid:7949776243481910327,rds:PC_1709108566587318686|PROD_PC_1709108566587318686,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "5% OFF"
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Freshly Picked - Kids | Color: Green | Size: 1",
+            "precio": 35.77,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:3410917591581845432,headlineOfferDocid:3410917591581845432,imageDocid:1526359020387251543,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "8% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Baby Moccasins Size 0 Off White W/Gold Dots",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:5297423723765242362,headlineOfferDocid:5297423723765242362,imageDocid:3002290063853733867,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Leopard Moccasins NEW",
+            "precio": 35.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:2527757298278646965,headlineOfferDocid:2527757298278646965,imageDocid:17924340749815290647,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "40% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Camo Moccasins | Color: Red | Size: 7bb | Trichel's Closet",
+            "precio": 39.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:14576713819010521818,headlineOfferDocid:14576713819010521818,imageDocid:7503457879257982703,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked \" PINK Moccasins' Girls Newborn 0",
+            "precio": 16.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:4237616900804688468,headlineOfferDocid:4237616900804688468,imageDocid:6167902480870398528,rds:PC_5688167773772763767|PROD_PC_5688167773772763767,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Gold Baby Moccasins 8 Fringe Leather Soft Sole Infant",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:12547834251249253295,headlineOfferDocid:12547834251249253295,imageDocid:18087322785352073008,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Camouflage Moccasins With Bow | Color: Brown/Green | Size: 1 | Santinos8300's Closet",
+            "precio": 33.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:8371255374009469382,headlineOfferDocid:8371255374009469382,imageDocid:4146851780436005714,rds:CID_12182576198378256103|PROD_CID_12182576198378256103,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "32% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Classic Moccasin Baby Shoe Fringed Camouflage 1",
+            "precio": 30.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:9829560362440205833,headlineOfferDocid:9829560362440205833,imageDocid:18077697769566216142,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Pink Gold Polkadot Fringe Leather Baby Moccasins Sz 2",
+            "precio": 9.09,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:15372575939358053087,headlineOfferDocid:15372575939358053087,imageDocid:12893757488420257900,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "30% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Gold Baby Moccasins 6 Fringe Leather Soft Sole Infant",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:923564885146168264,headlineOfferDocid:923564885146168264,imageDocid:3615595332309078080,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Freshly Picked Moccasins Size 4 - Kids | Color: Yellow/Green | Size: 4",
+            "precio": 10.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:13944483281296190961,headlineOfferDocid:13944483281296190961,imageDocid:4057382817901980920,rds:PC_14450854808740720761|PROD_PC_14450854808740720761,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "33% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Sz 3 Genuine Leather Grey Camouflage Moccasins | Color: Gray | Size: 3 Infant | Three_Kids_Mom's Closet",
+            "precio": 29.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:17636321012552627077,headlineOfferDocid:17636321012552627077,imageDocid:10198473985609219178,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Mercari",
+            "titulo": "Freshly Picked Platinum Baby Mocc - New Kids | Color: Gold | Size: 5",
+            "precio": 34.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:12567087230690254931,headlineOfferDocid:12567087230690254931,imageDocid:5805289899691925897,rds:PC_14450854808740720761|PROD_PC_14450854808740720761,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "5% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Moccasins Size 4 | Color: Tan | Size: 4bb | Keenhunsanders's Closet",
+            "precio": 24.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:17006651361234082661,headlineOfferDocid:17006651361234082661,imageDocid:6907673131745494201,rds:PC_1709108566587318686|PROD_PC_1709108566587318686,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked 4 New Baby Moccasins Moccs, Christmas Tree Red Truck, Leather | Color: Gray/Red | Size: 4bb | Hotofusoup's",
+            "precio": 40.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:10225182896016996640,headlineOfferDocid:10225182896016996640,imageDocid:1020174504594671107,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Baby Moccasins Size 3 Nasa Space Shuttle",
+            "precio": 10.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:12770741347774587815,headlineOfferDocid:12770741347774587815,imageDocid:18265045542712683636,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Freshly Picked",
+            "titulo": "Freshly Picked Zion Knotted Bow Baby Shoe",
+            "precio": 50.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:3886713920559770116,productid:13751202576909059055,headlineOfferDocid:18083818191455306178,imageDocid:8612880246348880391,rds:PC_10024815803261344372|PROD_PC_10024815803261344372,gpcid:18120908508153923223,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Basically Bows & Bowties",
+            "titulo": "Freshly Picked Chrome Honeycomb Soft Sole Moccasins 1",
+            "precio": 29.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:531701681285353024,productid:5967871504748111970,headlineOfferDocid:8681776567964433827,imageDocid:11127173224092285352,gpcid:1861256435028536873,mid:576462326550539334,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "50% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Mini Sole Bow Moccasins Toddler Girl Platinum",
+            "precio": 20.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:17266958976225652846,productid:15342686903012991562,headlineOfferDocid:10201584971410701395,imageDocid:6701018289163366154,gpcid:11941663177436013435,mid:576462915809648945,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Albee Baby",
+            "titulo": "Freshly Picked Knotted Bow Moccasins, Size 2 - Espresso",
+            "precio": 59.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:3604909445752883976,headlineOfferDocid:3604909445752883976,imageDocid:11048452785394886532,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Moccasin Size 1 Baby Girl Shoe 4” Silver Sparkle",
+            "precio": 22.45,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:12172839156446151391,headlineOfferDocid:12172839156446151391,imageDocid:9670686145849563701,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Tan Leather Fringe Moccasins - Kids | Color: Tan | Size: 3bb | Soto2189's Closet",
+            "precio": 18.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:8672920314085079434,headlineOfferDocid:8672920314085079434,imageDocid:5071621583595799817,rds:PC_14450854808740720761|PROD_PC_14450854808740720761,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "69% OFF"
+          },
+          {
+            "tienda": "Albee Baby",
+            "titulo": "Freshly Picked Girls' Snake Print Moccasins Baby",
+            "precio": 60.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=catalogid:1652288852834901582,productid:18212635319770150801,headlineOfferDocid:9070892413766402715,imageDocid:6607059492150012195,gpcid:13940814676794012978,mid:576462808331244853,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Freshly Picked Shoes | Freshly Picked Knotted Bow Moccasins Leather Toddler Sz 5 Island Bloom Floral | Color: Blue/Pink | Size: 5bb | Tmwfabfinds's",
+            "precio": 22.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:9489752016440131670,headlineOfferDocid:9489752016440131670,imageDocid:9034590236281075221,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Freshly Picked Leather Moccasins Size: 2",
+            "precio": 28.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Freshly Picked baby moccasins&prds=productid:11465400486445262556,headlineOfferDocid:11465400486445262556,imageDocid:12467827325029283574,rds:PC_7325493656411767074|PROD_PC_7325493656411767074,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          }
+        ]
+      },
+      "carters_pants4": {
+        "fecha": "2026-11-18",
+        "ofertas": [
+          {
+            "tienda": "Walmart",
+            "titulo": "Carter's Child of Mine Baby Pant Set 2-Piece",
+            "precio": 12.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:2460287225934472849,productid:12320286728793427202,headlineOfferDocid:1242692439115044186,imageDocid:8628208171779041531,rds:PC_13682914193846308757|PROD_PC_13682914193846308757,gpcid:13682914193846308757,mid:576462898592030149,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Walmart",
+            "titulo": "Child of Mine by Carter's Baby Pants",
+            "precio": 9.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:6990192235170907367,productid:6806131674848265207,headlineOfferDocid:1589986597119512327,imageDocid:17795033152371999266,rds:PC_18165804647947220055|PROD_PC_18165804647947220055,gpcid:18165804647947220055,mid:576462898603827903,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Gerber Childrenswear",
+            "titulo": "Gerber 4-Pack Baby Boys Fleece Pants",
+            "precio": 18.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:17531817271138425766,productid:5257837591692071630,headlineOfferDocid:4377760761754937547,imageDocid:16269039945592518275,rds:PC_13459966029126679891|PROD_PC_13459966029126679891,gpcid:13459966029126679891,mid:576462769222937168,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Carter's Child of Mine Baby ComfySoft Pants 2-Pack",
+            "precio": 8.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10153188218947427296,productid:18032911482163366786,headlineOfferDocid:16142990909527745890,imageDocid:15985643339985183347,rds:PC_413159316931248634|PROD_PC_413159316931248634,gpcid:413159316931248634,mid:576462877853955128,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "27% OFF"
+          },
+          {
+            "tienda": "Gerber Childrenswear",
+            "titulo": "Onesies Brand Pants 4-Pack Baby Boys",
+            "precio": 15.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10830769817551817103,productid:17081905980015478729,headlineOfferDocid:17290161047970811643,imageDocid:5730491173519679975,rds:PC_3659198355452834317|PROD_PC_3659198355452834317,gpcid:3659198355452834317,mid:576462866574560817,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "46% OFF"
+          },
+          {
+            "tienda": "Gerber Childrenswear",
+            "titulo": "Gerber Fleece Pants 4-Pack Baby Girls",
+            "precio": 18.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:2535538914704640013,productid:17370805975044783697,headlineOfferDocid:1561698786988389826,imageDocid:7616852698574249001,rds:PC_10979177130657301124|PROD_PC_10979177130657301124,gpcid:10979177130657301124,mid:576462761691113167,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "47% OFF"
+          },
+          {
+            "tienda": "Gerber Childrenswear",
+            "titulo": "Onesies Brand 4-Pack Baby Girls Pants",
+            "precio": 15.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10834821214427836980,productid:1079808882258936608,headlineOfferDocid:16422095500055667129,imageDocid:14332335591130336040,rds:PC_17149449173347495181|PROD_PC_17149449173347495181,gpcid:17149449173347495181,mid:576462819858101981,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "46% OFF"
+          },
+          {
+            "tienda": "Baby and Toys",
+            "titulo": "Simple Joys by Carter's Baby Girls' 4-Pack Pants Preemie / Black/Grey Hearts/Pink/White Floral",
+            "precio": 26.25,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:17927661750665210638,headlineOfferDocid:17927661750665210638,imageDocid:5443753259352225006,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "51% OFF"
+          },
+          {
+            "tienda": "Baby and Toys",
+            "titulo": "Simple Joys by Carter's Baby Girls' 4-Pack Fleece Pants",
+            "precio": 26.25,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:18102323397372097396,productid:1128626418788897034,headlineOfferDocid:548563067922754553,imageDocid:10365328417680183676,gpcid:13799421576697562535,mid:576462892327824286,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "allsecureindia",
+            "titulo": "Carter's Child of Mine Baby Pants, Four-Pack, Sizes Preemie-12 Months, Infant Boy's, Blue",
+            "precio": 4.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:18148990796357929133,productid:7158814401059786260,headlineOfferDocid:2579532634234460230,imageDocid:1126748175716366667,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,gpcid:16896039271690266055,mid:576462567040487759,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Walmart",
+            "titulo": "Carter's Child of Mine Baby Pants, Four-Pack, Sizes Preemie-12 Months, Infant Girl's, Pink",
+            "precio": 14.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:14534947299514977954,productid:12068502098776970777,headlineOfferDocid:17361961628207158139,imageDocid:8921826279750774419,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,gpcid:11381550726945265619,mid:576462917245994283,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Carter's",
+            "titulo": "Carter's baby 4-pack pull-on pants 12M Grey/Ivory/Tan",
+            "precio": 24.5,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:13289385413509727291,productid:5610722888338128902,headlineOfferDocid:16311896955232070860,imageDocid:14948416536730257242,rds:PC_644703965004512988|PROD_PC_644703965004512988,gpcid:6026415172232255332,mid:576462913295297902,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "50% OFF"
+          },
+          {
+            "tienda": "Depop",
+            "titulo": "Carter's/Ben Sherman Baby Boy Pants - Navy, Orange, 9-12M Joggers & Jeans",
+            "precio": 16.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:16192229572112954351,headlineOfferDocid:16192229572112954351,imageDocid:12563144359725747483,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Little Baby Basics Pull-on Pants Unisex, 6-9 Months, Gray &",
+            "precio": 8.97,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:6697963059933929180,headlineOfferDocid:6697963059933929180,imageDocid:6527153778604006156,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Newborn Nb Baby Beige Snap Button Classy Jogger Pants",
+            "precio": 10.8,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:18162424689256003724,headlineOfferDocid:18162424689256003724,imageDocid:14155880096115365000,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "10% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Boys Carter's Pants",
+            "precio": 13.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:9530528748668082672,productid:2884618233974683732,headlineOfferDocid:10866761399364100414,imageDocid:2697501934819303952,rds:PC_3145836984742655735|PROD_PC_3145836984742655735,gpcid:9545898687078056098,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter’s Navy Blue Born 6 Month Bottoms Pants",
+            "precio": 10.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:1430741184256788357,headlineOfferDocid:1430741184256788357,imageDocid:7537243948649667788,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Depop",
+            "titulo": "Carter's Gray Baby Boy Sweatpants - 3-6 Months",
+            "precio": 2.7,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:13465226991775297480,headlineOfferDocid:13465226991775297480,imageDocid:1100298553460055034,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "10% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Baby Boys Boy Fleece Joggers",
+            "precio": 7.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:9003455648881238276,productid:12007583555287457877,headlineOfferDocid:12672782171887522500,imageDocid:11911217284257036846,rds:PC_6220766835244000037|PROD_PC_6220766835244000037,gpcid:6220766835244000037,mid:576462840536729276,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Baby Boys Pull-On Thermal Joggers",
+            "precio": 7.2,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10781299451136399029,productid:5867931687116599598,headlineOfferDocid:18429654247226022359,imageDocid:16174480502747695825,rds:PC_7023582365659369496|PROD_PC_7023582365659369496,gpcid:17810749527122200634,mid:576462917243842383,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter’s Just One You Gray Fleece Pants - 6 Months",
+            "precio": 9.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:15185303784882753587,headlineOfferDocid:15185303784882753587,imageDocid:4538535395131132692,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "33% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Carter's Bottoms | Carter’s | Pants 2-Pack 3-6 Month | Color: Gray/Tan | Size: 3-6mb | Threadsbynicole's Closet",
+            "precio": 10.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:4720832333497411730,headlineOfferDocid:4720832333497411730,imageDocid:12462018986820323916,rds:PC_13005331795214934917|PROD_PC_13005331795214934917,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "16% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Baby Boys Carter's 2-Pack Pull-On Pants",
+            "precio": 18.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:1631239097933314505,productid:2377182938861502700,headlineOfferDocid:8761589912989816229,imageDocid:18348827725133253983,rds:PC_14244576507331296764|PROD_PC_14244576507331296764,gpcid:11122177708803701615,mid:576462567543987948,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Baby Boys Carter's Pull-On French Terry Pants",
+            "precio": 7.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:10630826039468875361,productid:985792397436023136,headlineOfferDocid:7508560007712584228,imageDocid:8707270831004006324,rds:PC_14293708628854547590|PROD_PC_14293708628854547590,gpcid:7897079838694968295,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Baby Sweatpants Pants 2-pack Gray/blue 6 Months Cotton Knit",
+            "precio": 3.14,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:14462563091035124227,headlineOfferDocid:14462563091035124227,imageDocid:7050529707711975037,rds:PC_11185129493169840398|PROD_PC_11185129493169840398,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "manjinimariammanfootwearstore.org",
+            "titulo": "Carter's Baby Boys' 2-Pack Fleece Pant - Haute couture, Free Shipping Worldwide | manjinimariammanfootwearstore",
+            "precio": 11.95,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:11930119831862636651,headlineOfferDocid:11930119831862636651,imageDocid:786518975604296428,rds:PC_17461535313512139077|PROD_PC_17461535313512139077,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Zaffy",
+            "titulo": "Carter's Baby Boys' Knit Pant 224g214",
+            "precio": 4.43,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:2909496792938194034,headlineOfferDocid:2909496792938194034,imageDocid:4792860886422680170,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carters Grey Fleece Sweatpants 6months)",
+            "precio": 5.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:18214064730917791687,headlineOfferDocid:18214064730917791687,imageDocid:15171848393227741050,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "À Table",
+            "titulo": "Little Planet By Carter's Baby 2-Pack Terry Pants – Organic Cotton, Soft Brushed Fleece, Easy Pull-On For Infants & Toddlers",
+            "precio": 7.75,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:11825615407250335939,headlineOfferDocid:11825615407250335939,imageDocid:10120888481751985699,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Bebemundo | El Salvador",
+            "titulo": "Carter ́s - Pantalón de felpa francesa | azul 9M",
+            "precio": 13.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:9870010415386158885,headlineOfferDocid:9870010415386158885,imageDocid:12148265835708479738,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Baby Boy Clothes Carter's Newborn Gray Ivory Band Pants",
+            "precio": 7.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:12345179391361895722,headlineOfferDocid:12345179391361895722,imageDocid:4537693704637959143,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Bebemundo | El Salvador",
+            "titulo": "Carter ́s - Pantalón de felpa francesa | azul 6M",
+            "precio": 13.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:8330336017032141818,headlineOfferDocid:8330336017032141818,imageDocid:12148265835708479738,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Baby Boys Carter's Pull-On Knit Denim Pants",
+            "precio": 6.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:12968565334375214061,productid:11898069333552117143,headlineOfferDocid:9296695994945315794,imageDocid:3211443685183296342,rds:PC_3505719541669870800|PROD_PC_3505719541669870800,gpcid:16547632140946691619,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carters Infant Baby Boys 6 Month Pull On Pants With Dinosaur Tail",
+            "precio": 4.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:7475218181001548066,headlineOfferDocid:7475218181001548066,imageDocid:7955177925863690560,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Baby Boys' Marled French Terry Joggers",
+            "precio": 5.99,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:4304968311785645709,productid:9103056355877545013,headlineOfferDocid:4001680357792384946,imageDocid:6558689356127327411,gpcid:9864783939049641229,mid:576462913458554841,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carters 3 Month Fish Pants",
+            "precio": 5.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:15004988045118568579,headlineOfferDocid:15004988045118568579,imageDocid:7698097522009072209,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Baby Boy Carter's Denim Pants",
+            "precio": 6.9,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:15644690176490137333,productid:4564759508712921484,headlineOfferDocid:16465356594962892191,imageDocid:18096140286428834132,gpcid:13016248072561268984,mid:576462759106257606,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Carter's Baby Boys Solid Black Corduroy Cotton Elastic Waist Pull On",
+            "precio": 11.98,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:12847457741774059024,headlineOfferDocid:12847457741774059024,imageDocid:14336227181040119365,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": true,
+            "condicion": "pre-owned",
+            "fecha": null,
+            "nota": "49% OFF"
+          },
+          {
+            "tienda": "Poshmark",
+            "titulo": "Baby Boys Carter's Dinosaur Pull-On Pants",
+            "precio": 10.0,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:8227377332252771424,productid:14852800155525232080,headlineOfferDocid:14858796408080896020,imageDocid:7732509719573334577,gpcid:1844697216408442745,mid:576462587513217747,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "28% OFF"
+          },
+          {
+            "tienda": "eBay",
+            "titulo": "Baby Boy Carter's Pull On French Terry Joggers",
+            "precio": 6.29,
+            "moneda": "USD",
+            "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:4542168793223052877,productid:14994821789982949941,headlineOfferDocid:12664224404990323885,imageDocid:15036063340233072157,rds:PC_2496604226576350981|PROD_PC_2496604226576350981,gpcid:6234317153606972820,mid:576462576250248742,pvt:a&hl=en&gl=us&udm=28",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "10% OFF"
+          }
+        ]
       }
     }
   },
   "amazon": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 0
     },
     "productos": {
@@ -6086,12 +7421,12 @@
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-15",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Amazon",
             "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Vintage Pink Rose",
-            "precio": 30.4,
+            "precio": 38.0,
             "moneda": "USD",
             "url": "https://www.amazon.com/dp/B082XHRQSM",
             "envio_gratis": true,
@@ -6156,10 +7491,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Andina",
-            "precio": 22.99,
+            "titulo": "Konssy Muslin Swaddle Blankets, 100% Cotton Receiving Blankets, 47\"x 47\"",
+            "precio": 18.98,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B0DZSYFF7W",
+            "url": "https://www.amazon.com/dp/B0C6GP7NXF",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -6167,10 +7502,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Erin",
+            "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Andina",
             "precio": 38.0,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B08SQ5TNWP",
+            "url": "https://www.amazon.com/dp/B0DZSYFF7W",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -6458,8 +7793,19 @@
         ]
       },
       "aden_anais_muselina": {
-        "fecha": "2026-11-15",
+        "fecha": "2026-11-18",
         "ofertas": [
+          {
+            "tienda": "Amazon",
+            "titulo": "aden + anais Cotton Muslin Swaddles 4 Pack",
+            "precio": 59.95,
+            "moneda": "USD",
+            "url": "https://www.amazon.com/dp/B086Z5RHNX",
+            "envio_gratis": true,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
           {
             "tienda": "Amazon",
             "titulo": "aden + anais Essentials Cotton Muslin Swaddle, Breathable Baby Blanket, Ideal for Boys, Girls, Newborns, Babies & Infants, Receiving Blanket, Soft and Lightweight Wrap, 4 Pack, Sage Woodland",
@@ -6484,10 +7830,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "aden + anais Cotton Muslin Swaddles 4 Pack",
-            "precio": 59.95,
+            "titulo": "aden + anais Essentials Swaddle Blanket, Muslin Blankets for Girls & Boys, Baby Receiving Swaddles, Newborn Gifts, Infant Shower Items, Wearable Swaddling Set, 4 Pk, Dinotime",
+            "precio": 39.95,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B086Z5RHNX",
+            "url": "https://www.amazon.com/dp/B082YJ8LT3",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -6506,10 +7852,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "aden + anais Essentials Swaddle Blanket, Muslin Blankets for Girls & Boys, Baby Receiving Swaddles, Newborn Gifts, Infant Shower Items, Toddler Gift, Wearable Swaddling Set, 4 Pack, Damsel",
+            "titulo": "aden + anais Essentials Cotton Muslin Swaddle, Breathable Baby Blanket, Ideal for Boys, Girls, Newborns, Babies & Infants, Receiving Blanket, Soft and Lightweight Wrap, 4 Pack, Butterfly Garden",
             "precio": 39.95,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B0B1VY91G6",
+            "url": "https://www.amazon.com/dp/B0DVCFPMNL",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -6517,10 +7863,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Flower's Bloom",
-            "precio": 24.99,
+            "titulo": "Konssy 3-Pack Muslin Baby Swaddle Blankets, 47 x 47 In Receiving Blankets",
+            "precio": 26.98,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B0BX7LF3CM",
+            "url": "https://www.amazon.com/dp/B0BZNNBJTG",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -6528,21 +7874,10 @@
           },
           {
             "tienda": "Amazon",
-            "titulo": "aden + anais Boutique Organic Swaddle Blanket 4-Pack – 100% Organic Cotton Muslin, Large, Soft, Breathable Receiving Blankets for Infants – Lightweight Multi-Use Baby Swaddles, Animal Kingdom",
-            "precio": 59.95,
+            "titulo": "PHF Muslin Swaddle Blankets 47x47 in, 4 Pack Soft Organic Baby Blankets",
+            "precio": 22.79,
             "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B09VYJ38GB",
-            "envio_gratis": true,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Amazon",
-            "titulo": "aden + anais Boutique Organic Swaddle Blanket 4-Pack – 100% Organic Cotton Muslin, Large, Soft, Breathable Receiving Blankets for Infants – Lightweight Multi-Use Baby Swaddles, Mother Earth",
-            "precio": 59.95,
-            "moneda": "USD",
-            "url": "https://www.amazon.com/dp/B095SYW37F",
+            "url": "https://www.amazon.com/dp/B0GD12DRZW",
             "envio_gratis": true,
             "condicion": "new",
             "fecha": null,
@@ -7112,12 +8447,12 @@
   },
   "brand_site": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -7133,7 +8468,7 @@
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Kyte Baby (sitio oficial)",
@@ -7149,14 +8484,14 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Little Sleepies (sitio oficial)",
             "titulo": "Little Sleepies Forest Crew Zippy",
             "precio": 36.0,
             "moneda": "USD",
-            "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971053926",
+            "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971021158",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7165,7 +8500,7 @@
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Posh Peanut (sitio oficial)",
@@ -7181,7 +8516,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Solly Baby (sitio oficial)",
@@ -7197,7 +8532,7 @@
         ]
       },
       "freshly_picked_zapatos": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Freshly Picked (sitio oficial)",
@@ -7216,19 +8551,19 @@
   },
   "mercadolibre": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 0
     },
     "productos": {}
   },
   "falabella": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7240,6 +8575,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Ingapijamas"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Babydoll Negro con Copas y Encaje - The Aura Essentials",
+            "precio": 89.99,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/153552864/babydoll-negro-con-copas-y-encaje-the-aura-essentials",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nue By Body"
           },
           {
             "tienda": "Falabella",
@@ -7287,17 +8633,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Animal Print",
-            "precio": 40.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158316035/pijama-conjunto-set-short-y-top-baby-rib-animal-print",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Fernanda Galvao"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Melange Color",
             "precio": 40.0,
             "moneda": "PEN",
@@ -7313,17 +8648,6 @@
             "precio": 49.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/159749573/pijama-para-mujer-jardin-de-ensueno-algodon-baby-rib-2-piezas",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kaylanis"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO PIJAMA PARA MUJER BRISA FLORAL ALGODON BABY RIB 2 PIEZAS",
-            "precio": 38.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159748974/pijama-para-mujer-brisa-floral-algodon-baby-rib-2-piezas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7350,6 +8674,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Kaylanis"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO PIJAMA PARA MUJER BRISA FLORAL ALGODON BABY RIB 2 PIEZAS",
+            "precio": 38.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159748974/pijama-para-mujer-brisa-floral-algodon-baby-rib-2-piezas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kaylanis"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pijama Conjunto Set Short y Top Baby Rib Animal Print",
+            "precio": 40.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158316035/pijama-conjunto-set-short-y-top-baby-rib-animal-print",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Fernanda Galvao"
           },
           {
             "tienda": "Falabella",
@@ -7386,32 +8732,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Babydoll Negro con Copas y Encaje - The Aura Essentials",
-            "precio": 89.99,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/153552864/babydoll-negro-con-copas-y-encaje-the-aura-essentials",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nue By Body"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Sand",
             "precio": 109.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/135328195/Saquito-de-Dormir-Baby-Baloo-Invierno-Sand",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Baby Baloo"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Grey",
-            "precio": 119.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135325759/Saquito-de-Dormir-Baby-Baloo-Invierno-Grey",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7430,10 +8754,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Sand",
-            "precio": 109.0,
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Verano Hazelnut",
+            "precio": 99.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135326422/Saquito-de-Dormir-Baby-Baloo-Invierno-Sand",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151405896/saquito-de-dormir-baby-baloo-verano-hazelnut",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7441,10 +8765,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Bluey",
-            "precio": 109.0,
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Verano Truth",
+            "precio": 89.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135328209/Saquito-de-Dormir-Baby-Baloo-Invierno-Bluey",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151402581/saquito-de-dormir-baby-baloo-verano-truth",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saquito de Dormir Baby Baloo Invierno Aquamarine",
+            "precio": 119.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135325718/Saquito-de-Dormir-Baby-Baloo-Invierno-Aquamarine",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7453,7 +8788,7 @@
         ]
       },
       "kyte_sleep_bag": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7465,17 +8800,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Wawa Pima"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Bolsa de dormir para bebes de algodón",
-            "precio": 59.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143207493/Bolsa-de-dormir-para-bebes-de-algodon",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende El Closet De Rafa"
           },
           {
             "tienda": "Falabella",
@@ -7501,36 +8825,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
+            "titulo": "GENERICO Bolsa de dormir para bebes de algodón",
+            "precio": 59.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143521564/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143207493/Bolsa-de-dormir-para-bebes-de-algodon",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "BABY MERINOS Saco de dormir - Oso - Celeste",
-            "precio": 89.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/133504848/Saco-de-dormir-Oso-Celeste",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Baby Merinos Lima"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY PINK",
-            "precio": 169.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/149742381/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-PINK",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Wawa Pima"
+            "nota": "vende El Closet De Rafa"
           },
           {
             "tienda": "Falabella",
@@ -7545,14 +8847,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
-            "precio": 90.0,
+            "titulo": "YAMP Conjunto Bebé Niña Algodón",
+            "precio": 35.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143520936/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/883760593/conjunto-bebe-nina-algodon-yamp",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Bebyshop"
+            "nota": ""
           },
           {
             "tienda": "Falabella",
@@ -7567,47 +8869,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Nuevo saco de dormir de bebé",
-            "precio": 140.0,
+            "titulo": "WAWA PIMA SACO DE DORMIR BEBÉ CON PIE BABY PINK",
+            "precio": 169.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157589721/nuevo-saco-de-dormir-de-bebe",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/149742381/SACO-DE-DORMIR-BEBE-CON-PIE-BABY-PINK",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "YAMP Conjunto Bebé Niña Algodón",
-            "precio": 35.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/883760593/conjunto-bebe-nina-algodon-yamp",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
-            "precio": 110.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/127066714/Bolsa-de-Dormir-para-Ninos-y-Ninas",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Habibi Store"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Bolsa de Dormir para Niños y Niñas",
-            "precio": 110.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/127066716/Bolsa-de-Dormir-para-Ninos-y-Ninas",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Habibi Store"
+            "nota": "vende Wawa Pima"
           },
           {
             "tienda": "Falabella",
@@ -7625,7 +8894,7 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143520759/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521564/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7636,7 +8905,7 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143520936/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7655,6 +8924,72 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521214/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143520759/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Bebé Niño",
+            "precio": 69.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21537235/fa26-ib-sleep-bags-grey-elephant-pr",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "BABY MERINOS Saco de dormir - Oso - Celeste",
+            "precio": 89.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/133504848/Saco-de-dormir-Oso-Celeste",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Baby Merinos Lima"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
+            "precio": 90.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143520906/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Nuevo saco de dormir de bebé",
+            "precio": 140.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157589721/nuevo-saco-de-dormir-de-bebe",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Bebyshop"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "WAWA PIMA SACO DE DORMIR SIN MANGA CON PIE BABY BEIGE CARNERITO",
             "precio": 199.0,
             "moneda": "PEN",
@@ -7669,7 +9004,7 @@
             "titulo": "GENERICO Saco de dormir de bebe de 0 a 6 meses",
             "precio": 90.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/143520906/saco-de-dormir-de-bebe-de-0-a-6-meses",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/143521402/saco-de-dormir-de-bebe-de-0-a-6-meses",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -7678,7 +9013,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7693,14 +9028,25 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "TYT SPORTS Bañador Baby YINGFA Enterizo Print Animado",
-            "precio": 199.9,
+            "titulo": "ARMA TU LOOK VESTIDO SUMMER LARGO DE ALGODON BABY RIB",
+            "precio": 114.99,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/119931002/banador-baby-yingfa-enterizo-print-animado",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142710174/VESTIDO-SUMMER-LARGO-DE-ALGODON-BABY-RIB-ARMA-TU-LOOK",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Taytabikes"
+            "nota": "vende Arma Tu Look"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "ARMA TU LOOK VESTIDO DAMARIS ALGODÓN BABY RIB CASUAL MANGA CORTA CON OLANES",
+            "precio": 105.99,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142892287/VESTIDO-DAMARIS-ALGODON-BABY-RIB-CASUAL-MANGA-CORTA-CON-OLANES",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Arma Tu Look"
           },
           {
             "tienda": "Falabella",
@@ -7737,14 +9083,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Set enterizo Bobos punto ingles más gorrita baby niña Talla 2",
-            "precio": 89.0,
+            "titulo": "GENERICO Muñeca Baby Loveli Bebe Realista Enterizo Rosado 40 cm Dice Frases",
+            "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155079506/set-bobos-punto-ingles-mas-gorrita-baby-nina-talla-2",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159721655/muneca-baby-loveli-bebe-realista-enterizo-rosado-40-cm-dice-frases",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Grupo Roa"
+            "nota": "vende Bravil"
           },
           {
             "tienda": "Falabella",
@@ -7759,19 +9105,19 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Muñeca Baby Loveli Bebe Realista Enterizo Rosado 40 cm Dice Frases",
-            "precio": 119.9,
+            "titulo": "GENERICO Set enterizo Bobos punto ingles más gorrita baby niña Talla 2",
+            "precio": 89.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159721655/muneca-baby-loveli-bebe-realista-enterizo-rosado-40-cm-dice-frases",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155079506/set-bobos-punto-ingles-mas-gorrita-baby-nina-talla-2",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Bravil"
+            "nota": "vende Grupo Roa"
           }
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7794,6 +9140,28 @@
             "condicion": "new",
             "fecha": null,
             "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "BEBE Toallitas Momcozy 4 Capas 5 Unidades 10x10 Pulgadas",
+            "precio": 139.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/160232782/toallitas-bebe-momcozy-4-capas-5-unidades-10x10-pulgadas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "BEBE Panos Burts Bees 100 Algodon Organico 9x9",
+            "precio": 119.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159581643/panos-bebe-burts-bees-100-algodon-organico-9x9",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
           },
           {
             "tienda": "Falabella",
@@ -7877,22 +9245,22 @@
             "titulo": "Baby Kits Tina Bañera Plegable JELLY SPA Con Termómetro Rosado 2025",
             "precio": 149.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135907561/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135906766/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Electrodomesticos E.i.r.l"
+            "nota": "vende Dcuros"
           },
           {
             "tienda": "Falabella",
             "titulo": "Baby Kits Tina Bañera Plegable JELLY SPA Con Termómetro Rosado 2025",
             "precio": 149.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135906766/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135907561/Tina-Banera-Plegable-JELLY-SPA-Con-Termometro-Rosado-2024",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Dcuros"
+            "nota": "vende Electrodomesticos E.i.r.l"
           },
           {
             "tienda": "Falabella",
@@ -7930,7 +9298,7 @@
         ]
       },
       "little_sleepies_pack2": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -7978,25 +9346,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE Almohada Infantil KeaBabies My Dreamy 13x18",
-            "precio": 179.0,
+            "titulo": "LITTLE Set Peluche Unicornio Jupiter 3 Piezas 12 Pulgadas",
+            "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159250748/almohada-infantil-keababies-my-little-dreamy-13x18",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/160052954/set-peluche-unicornio-little-jupiter-3-piezas-12-pulgadas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Black",
-            "precio": 469.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/135961738/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Black",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mamá Juaquina"
           },
           {
             "tienda": "Falabella",
@@ -8004,17 +9361,6 @@
             "precio": 169.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/158774278/kit-madera-little-jupiter-bigfoot1-camion-7-in-pintura",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE Set Peluche Unicornio Jupiter 3 Piezas 12 Pulgadas",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/160052954/set-peluche-unicornio-little-jupiter-3-piezas-12-pulgadas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8044,6 +9390,28 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "LITTLE Coche Cuna de Lujo «LONDRES II» Edición Limitada Black",
+            "precio": 469.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/135961738/Coche-Cuna-de-Lujo-%C2%ABLONDRES-II%C2%BB-Edicion-Limitada-Black",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mamá Juaquina"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "LITTLE Set de TBall para Niaaos Tikes con Bate y 2 Pelotas",
+            "precio": 219.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155637537/set-de-tball-para-niaaos-little-tikes-con-bate-y-2-pelotas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "LITTLE Interruptor Flotador Giant RFSN9 230V 13A 1HP 15ft",
             "precio": 449.0,
             "moneda": "PEN",
@@ -8055,10 +9423,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE Juguetes de Playa FUN TOYS F129 19 Piezas",
-            "precio": 199.0,
+            "titulo": "LITTLE Aromatizante Auto Trees Vent Wrap New Car 4 Unidades",
+            "precio": 99.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159667966/juguetes-de-playa-fun-little-toys-f129-19-piezas",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158521334/aromatizante-auto-little-trees-vent-wrap-new-car-4-unidades",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8088,6 +9456,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "LITTLE  TIKES Mesa Picnic Little tikes",
+            "precio": 599.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/154886941/mesa-picnic-little-tikes",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Crecer Jugando"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "LITTLE  TIKES Casa del constructor little tikes",
             "precio": 1550.0,
             "moneda": "PEN",
@@ -8111,7 +9490,7 @@
           {
             "tienda": "Falabella",
             "titulo": "LITTLE  TIKES Baul LOL Little Tikes",
-            "precio": 449.0,
+            "precio": 750.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/144857674/Baul-LOL-Little-Tikes",
             "envio_gratis": false,
@@ -8121,48 +9500,37 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Mesa Picnic Little tikes",
-            "precio": 599.0,
+            "titulo": "LITTLE PEOPLE HUNTR X",
+            "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154886941/mesa-picnic-little-tikes",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155167971/little-people-huntr-x",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Crecer Jugando"
+            "nota": "vende Tottus"
           },
           {
             "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Resbaladera Tropical fucsia LIttle tikes",
-            "precio": 990.0,
+            "titulo": "LITTLE PEOPLE SAJA BOYS",
+            "precio": 189.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/144858375/Resbaladera-Tropical-fucsia-LIttle-tikes",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155167992/little-people-saja-boys",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Crecer Jugando"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "LITTLE  TIKES Carrito Cozy Coupe Little tikes",
-            "precio": 499.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155440572/carrito-cozy-coupe-dino-little-tikes",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Crecer Jugando"
+            "nota": "vende Tottus"
           }
         ]
       },
       "posh_peanut_swaddle": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
-            "precio": 229.0,
+            "titulo": "MANTA Swaddle SwaddleMe algodaan 3 piezas SM",
+            "precio": 239.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155638897/manta-swaddle-swaddleme-algodaan-3-piezas-sm",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8192,25 +9560,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Manta de algodón con Saquito para bebé 0-3 meses | Swaddle Verde Menta",
-            "precio": 69.0,
+            "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
+            "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159875485/manta-de-algodon-con-saquito-para-bebe-0-3-meses-swaddle-verde-menta",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Mi Ciguena"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Mantas envolventes para bebé algodón pima 0- 3 meses | Swaddle pack 2 unds Niño",
-            "precio": 102.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159283159/mantas-envolventes-para-bebe-algodon-pima-0-3-meses-swaddle-pack-2-unds-nino",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Mi Ciguena"
+            "nota": "vende Vyse Global Pe"
           },
           {
             "tienda": "Falabella",
@@ -8218,6 +9575,17 @@
             "precio": 69.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/156449908/saquito-de-dormir-para-bebe-algodon-pima-0-3-meses-swaddle-rayas-rosa",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mi Ciguena"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
+            "precio": 99.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8236,10 +9604,32 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Manta envolvente Bebé 0- 3 meses algodón Pima - Swaddle rayas Celeste",
-            "precio": 99.0,
+            "titulo": "GENERICO Mantas envolventes para bebé algodón pima 0- 3 meses | Swaddle pack 2 unds Niño",
+            "precio": 102.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156451946/saquito-de-dormir-bebe-0-3-meses-pima-swaddle-rayas-celeste",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159283159/mantas-envolventes-para-bebe-algodon-pima-0-3-meses-swaddle-pack-2-unds-nino",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Mi Ciguena"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Swaddle AQOKKA Algodan Ajustable 3 Unidades con Gorros Moao",
+            "precio": 199.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155617613/swaddle-aqokka-algodan-ajustable-3-unidades-con-gorros-moao",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Manta de algodón con Saquito para bebé 0-3 meses | Swaddle Verde Menta",
+            "precio": 69.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159875485/manta-de-algodon-con-saquito-para-bebe-0-3-meses-swaddle-verde-menta",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8266,6 +9656,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Baby Baloo"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NO LOGO Manta Envolvente Para El Susto x1- niña",
+            "precio": 69.99,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/160042947/manta-envolvente-para-el-susto-x1-nina",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kyrios Sac"
           },
           {
             "tienda": "Falabella",
@@ -8302,17 +9703,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "NO LOGO Manta Envolvente Para El Susto x2",
-            "precio": 115.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/152842243/manta-envolvente-para-el-susto-x2",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kyrios Sac"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "MANTA Para Bebe Tortilla Lhedon Franela 285 GSM",
             "precio": 169.0,
             "moneda": "PEN",
@@ -8321,6 +9711,17 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Vyse Global Pe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NO LOGO Manta Envolvente Para El Susto x2",
+            "precio": 115.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/152842243/manta-envolvente-para-el-susto-x2",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Kyrios Sac"
           },
           {
             "tienda": "Falabella",
@@ -8343,44 +9744,11 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Importaciones Kyrios"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CERDITA Manta para Bebé Plush Hipoalergénica Doble Cara con Osito Rosado 100x130 cm",
-            "precio": 39.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159898870/manta-para-bebe-plush-hipoalergenica-doble-cara-con-osito-rosado-100x130-cm",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Acaneli"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "BEBE Saco De Dormir Para Burts Bees Baby Algodon Organico",
-            "precio": 199.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159681678/saco-de-dormir-para-bebe-burts-bees-baby-algodon-organico",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "EUBEBE Manta muselina para bebé modelo osito durazno",
-            "precio": 65.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/138707463/Manta-muselina-para-bebe-Eubebe-modelo-osito-durazno",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Eubebe"
           }
         ]
       },
       "posh_peanut_enterizo": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8406,10 +9774,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "PEANUTS Figura de Acción ReAction - Joe Cool Super7",
+            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Red Shirt",
             "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158413756/figura-de-accion-peanuts-reaction-joe-cool-super7",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158413764/figura-de-coleccionable-peanuts-funfun-charlie-brown-red-shirt",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8417,10 +9785,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "PEANUTS Figura de Coleccionable FunFun - Charlie Brown Red Shirt",
+            "titulo": "PEANUTS Figura de Acción ReAction - Joe Cool Super7",
             "precio": 119.9,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158413764/figura-de-coleccionable-peanuts-funfun-charlie-brown-red-shirt",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158413756/figura-de-accion-peanuts-reaction-joe-cool-super7",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8527,6 +9895,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "SNOOPY Taper SiliconaEscolar Peanuts Lila 700 ML",
+            "precio": 42.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151049046/taper-silicona-peanuts-lila-700-ml",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende La Juguetería De Mamá"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "FUNKO Posh Spice Pop 506 Spice Girls Wannabe",
             "precio": 99.0,
             "moneda": "PEN",
@@ -8549,17 +9928,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "SNOOPY Taper SiliconaEscolar Peanuts Lila 700 ML",
-            "precio": 42.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/151049046/taper-silicona-peanuts-lila-700-ml",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende La Juguetería De Mamá"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "SNOOPY Pantuflas Peluche Mujer Peanuts Marron",
             "precio": 72.0,
             "moneda": "PEN",
@@ -8568,17 +9936,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende La Juguetería De Mamá"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "EXIT Polera Peanuts Beige",
-            "precio": 69.99,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155273557/polera-peanuts-beige-exit",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Exit Tienda Oficial"
           },
           {
             "tienda": "Falabella",
@@ -8601,16 +9958,27 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Prestige Tech"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "SNOOPY POLO UNISEX PEANUTS NAVIDEÑO",
+            "precio": 59.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159449877/polo-unisex-peanuts-navideno",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Prestige Tech"
           }
         ]
       },
       "kickee_pijama": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
             "titulo": "BENETTON Pantuflas Básicas Hombre",
-            "precio": 23.94,
+            "precio": 6.9,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/883068172/pantuflas-basicas-hombre-benetton",
             "envio_gratis": false,
@@ -8708,17 +10076,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pantalones Ciclismo Wosawe Culote 3D Pants",
-            "precio": 139.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/139001758/Pantalones-Ciclismo-Wosawe-Culote-3D-Pants",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Taytabikes"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "KAST PE Organizador Colgador de Pantalones 5 en 1 - Negro",
             "precio": 10.9,
             "moneda": "PEN",
@@ -8730,14 +10087,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Flare pant niña Waffler",
-            "precio": 29.9,
+            "titulo": "Everlast JOGGER PANT POLYCOT FEM EVELAST",
+            "precio": 83.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/132516235/Flare-pant-nina-Waffler",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/139830836/JOGGER-PANT-POLYCOT-FEM-EVELAST",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Dinibu"
+            "nota": "vende Everlast."
           },
           {
             "tienda": "Falabella",
@@ -8763,36 +10120,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "ANTAR PANTALON BRISA PANTS",
-            "precio": 85.0,
+            "titulo": "YONISTERS CLOTHING Pantalón Drill Semipitillo Stretch Negro",
+            "precio": 79.99,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/145041100/PANTALON-BRISA-PANTS",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/126084458/Pantalon-Drill-Semipitillo-Stretch-Yonisters-Clothing-Negro",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Antar"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
-            "precio": 749.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158265395/pantalon-de-caballero-de-lino-kl",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Karl Lagerfeld Oficial"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
-            "precio": 749.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158264853/pantalon-de-caballero-de-lino-kl",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Karl Lagerfeld Oficial"
+            "nota": "vende Yonisters Clothing"
           },
           {
             "tienda": "Falabella",
@@ -8807,14 +10142,36 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "YONISTERS CLOTHING Pantalón Drill Semipitillo Stretch Negro",
-            "precio": 79.99,
+            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
+            "precio": 599.92,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/126084458/Pantalon-Drill-Semipitillo-Stretch-Yonisters-Clothing-Negro",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158264853/pantalon-de-caballero-de-lino-kl",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Yonisters Clothing"
+            "nota": "vende Karl Lagerfeld Oficial"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "KARL LAGERFELD PANTALON LINEN PANTS",
+            "precio": 599.92,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158265395/pantalon-de-caballero-de-lino-kl",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Karl Lagerfeld Oficial"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "ANTAR PANTALON BRISA PANTS",
+            "precio": 85.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/145041100/PANTALON-BRISA-PANTS",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Antar"
           },
           {
             "tienda": "Falabella",
@@ -8826,11 +10183,22 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Chase Funko Peru"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "O'NEAL Pantalon de Moto para Ruta y Viajes ONeal Apocalypse Negro",
+            "precio": 699.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/151641307/pantalon-de-moto-para-ruta-y-viajes-oneal-apocalypse-negro",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Cross Helmet Sac"
           }
         ]
       },
       "hanna_pijama": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -8867,17 +10235,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
-            "precio": 160.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156506544/pijama-nino-100-algodon-pima-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Hey Loomy Club"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "CARTERS Pijama 4 Piezas Niño",
             "precio": 71.94,
             "moneda": "PEN",
@@ -8889,21 +10246,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pijama Niña 100% algodón Pima extra suave",
-            "precio": 160.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156685614/pijama-nina-100-algodon-pima-extra-suave",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Hey Loomy Club"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
             "precio": 160.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156686350/pijama-nino-100-algodon-pima-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156506544/pijama-nino-100-algodon-pima-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -8933,69 +10279,25 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niña Algodón",
-            "precio": 35.94,
+            "titulo": "GENERICO Pijama Niña 100% algodón Pima extra suave",
+            "precio": 160.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407457/pijama-bebe-nina-algodon-carters-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156685614/pijama-nina-100-algodon-pima-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": ""
+            "nota": "vende Hey Loomy Club"
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niña 4 Piezas",
-            "precio": 71.94,
+            "titulo": "GENERICO Pijama Niño 100% algodón Pima extra suave",
+            "precio": 160.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21407526/pijama-nina-4-piezas-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156686350/pijama-nino-100-algodon-pima-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "DISNEY Pijama Store Elsa y Nok Frozen 2",
-            "precio": 99.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/118113960/Pijama-Disney-Store-Elsa-y-Nok-Frozen-2",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende La Juguetería De Mamá"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO Pijama manga larga niña algodón pima",
-            "precio": 79.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/154745554/pijama-manga-larga-nina-algodon-pima",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Kavera Hogar"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niño",
-            "precio": 55.92,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niña 4 Piezas Algodón",
-            "precio": 71.94,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21410287/pijama-bebe-nina-4-piezas-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
+            "nota": "vende Hey Loomy Club"
           },
           {
             "tienda": "Falabella",
@@ -9010,10 +10312,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Niño 2 Piezas",
-            "precio": 79.9,
+            "titulo": "GENERICO Pijama Niña Algodón Llamita Polo Pantalón Inga Pijamas",
+            "precio": 64.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21537052/fa26-tb-2pc-dreamplush-pj-dog-app",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/125105250/Pijama-Nina-Algodon-Llamita-Polo-Pantalon-Inga-Pijamas",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Ingapijamas"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Bebé Niña Algodón",
+            "precio": 35.94,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407457/pijama-bebe-nina-algodon-carters-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9033,9 +10346,9 @@
           {
             "tienda": "Falabella",
             "titulo": "YAMP Pijama Bebé Niña Pack X2 Algodón",
-            "precio": 34.95,
+            "precio": 41.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/883760567/pijama-bebe-nina-algodon-yamp",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/883760341/pijama-bebe-nina-algodon-yamp",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9043,26 +10356,81 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Conjunto 2 Piezas Pijama Unisex Niño",
-            "precio": 79.0,
+            "titulo": "CARTERS Pijama Bebé Niña 4 Piezas Algodón",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/146178361/Pijama-conjunto-2-pizas-nino",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21410287/pijama-bebe-nina-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Starshop.pe"
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "DISNEY Pijama Store Elsa y Nok Frozen 2",
+            "precio": 99.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/118113960/Pijama-Disney-Store-Elsa-y-Nok-Frozen-2",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende La Juguetería De Mamá"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niño",
+            "precio": 55.92,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21369705/pijama-bebe-unisex",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "BANNITAS Pijama Conejita lila",
+            "precio": 75.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/129060994/Pijama-Conejita-lila",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Codper Sac."
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Pijama Niña 4 Piezas",
+            "precio": 71.94,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21407526/pijama-nina-4-piezas-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "RIKURIY Pijama animalitos del bosque de algodón Pima",
+            "precio": 129.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157805887/pijama-animalitos-del-bosque-de-algodon-pima",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Rikury"
           }
         ]
       },
       "halo_sleepsack": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
-            "titulo": "HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex",
-            "precio": 239.0,
+            "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex",
+            "precio": 249.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9084,7 +10452,7 @@
             "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
             "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9095,18 +10463,7 @@
             "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG",
             "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "HALO Swaddle SleepSack Algodón Talla S",
-            "precio": 229.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9115,7 +10472,7 @@
         ]
       },
       "aden_anais_muselina": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9141,17 +10498,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba",
-            "precio": 209.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Vyse Global Pe"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "THE BABY SPOT Set de 2 Babitas / Babero clásico- Night Sky Reverie - Aden + Anais",
             "precio": 89.0,
             "moneda": "PEN",
@@ -9164,7 +10510,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9190,6 +10536,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "SKIP HOP Bolso Pañalero Mainframe Black",
+            "precio": 319.2,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tienda Infanti"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "HORMIGUITA 811-MOCHILA PAÑALERA",
             "precio": 69.9,
             "moneda": "PEN",
@@ -9198,17 +10555,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Hormiguita."
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "SKIP HOP Bolso Pañalero Unisex Bebé",
-            "precio": 319.2,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tienda Infanti"
           },
           {
             "tienda": "Falabella",
@@ -9223,6 +10569,17 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
+            "precio": 105.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/141161153/MOCHILA-PANALERA-PARA-BEBE",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Cute Express"
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "GENERICO Mochila pañalera multifuncional - multicolor",
             "precio": 45.0,
             "moneda": "PEN",
@@ -9234,14 +10591,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
-            "precio": 105.0,
+            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
+            "precio": 55.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/141161153/MOCHILA-PANALERA-PARA-BEBE",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/136314216/Panalera-Mochila-Maternidad-Impermeable",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Cute Express"
+            "nota": "vende Linion Market"
           },
           {
             "tienda": "Falabella",
@@ -9256,14 +10613,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
-            "precio": 55.0,
+            "titulo": "SKIP HOP Mochila Zoo Mariposa",
+            "precio": 90.3,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/136314216/Panalera-Mochila-Maternidad-Impermeable",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Linion Market"
+            "nota": "vende Tienda Infanti"
           },
           {
             "tienda": "Falabella",
@@ -9289,17 +10646,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA MULTIUSO PREMIUM",
-            "precio": 130.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156688391/mochila-panalera-multiuso-premium",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Bebyshop"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "GENERICO MOCHILA PAÑALERA PARA BEBÉ",
             "precio": 95.0,
             "moneda": "PEN",
@@ -9308,28 +10654,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Crea Peru"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
-            "precio": 30.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158387924/mochila-panalera-maternal-con-compartimentos",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Imaray"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "SKIP HOP Mochila Unisex Niño 10L",
-            "precio": 90.3,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/138771993/MOCHILA-ZOO-MARIPOSA",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tienda Infanti"
           },
           {
             "tienda": "Falabella",
@@ -9344,14 +10668,14 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
-            "precio": 55.0,
+            "titulo": "GENERICO MOCHILA PAÑALERA MATERNAL CON COMPARTIMENTOS",
+            "precio": 30.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/124223189/Panalera-Mochila-Maternidad-Impermeable",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158387924/mochila-panalera-maternal-con-compartimentos",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Linion Market"
+            "nota": "vende Imaray"
           },
           {
             "tienda": "Falabella",
@@ -9366,14 +10690,25 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "GENERICO MOCHILA PAÑALERA  NEGRO CON AZUL",
-            "precio": 119.0,
+            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
+            "precio": 55.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/142808208/MOCHILA-PANALERA-NEGRO-CON-AZUL",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/124223189/Panalera-Mochila-Maternidad-Impermeable",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
-            "nota": "vende Casa Smart S.a.c."
+            "nota": "vende Linion Market"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO Pañalera Mochila Maternidad Impermeable",
+            "precio": 55.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/136314189/Panalera-Mochila-Maternidad-Impermeable",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Linion Market"
           },
           {
             "tienda": "Falabella",
@@ -9385,11 +10720,22 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Imaray"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "GENERICO MOCHILA PAÑALERA  NEGRO CON AZUL",
+            "precio": 119.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/142808208/MOCHILA-PANALERA-NEGRO-CON-AZUL",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Casa Smart S.a.c."
           }
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9416,7 +10762,7 @@
         ]
       },
       "solly_fular": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9530,10 +10876,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "BABY BASICS Canguro Ergonómico Ballena 3 en 1 - Verde",
+            "titulo": "BABY BASICS Canguro Ergonómico Ballena 3 en 1 - Rojo",
             "precio": 95.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156718158/canguro-ergonomico-ballena-3-en-1-verde",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156718429/canguro-ergonomico-ballena-3-en-1-rojo",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9541,10 +10887,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "BABY BASICS Canguro Ergonómico Ballena 3 en 1 - Rojo",
+            "titulo": "BABY BASICS Canguro Ergonómico Ballena 3 en 1 - Verde",
             "precio": 95.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/156718429/canguro-ergonomico-ballena-3-en-1-rojo",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/156718158/canguro-ergonomico-ballena-3-en-1-verde",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9560,17 +10906,6 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Baby Store"
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - CELESTE",
-            "precio": 180.0,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157171357/fular-ergonomico-celeste",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Nido Bebe"
           },
           {
             "tienda": "Falabella",
@@ -9596,10 +10931,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "Baby FULAR ERGONOMICO - BEIGE",
+            "titulo": "Baby FULAR ERGONOMICO - CELESTE",
             "precio": 180.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/157172072/fular-ergonomico-beige",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157171357/fular-ergonomico-celeste",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9611,6 +10946,17 @@
             "precio": 180.0,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/157171844/fular-ergonomico-rosado",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Nido Bebe"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "Baby FULAR ERGONOMICO - BEIGE",
+            "precio": 180.0,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/157172072/fular-ergonomico-beige",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9641,7 +10987,7 @@
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9843,17 +11189,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "360 Necesser de Viaje Travel",
-            "precio": 19.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/152370193/necesser-de-viaje-travel-360",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": "vende Tottus"
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "360 Necesser Miami Vibes",
             "precio": 19.9,
             "moneda": "PEN",
@@ -9862,11 +11197,22 @@
             "condicion": "new",
             "fecha": null,
             "nota": "vende Tottus"
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "360 Necesser de Viaje Travel",
+            "precio": 19.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/152370193/necesser-de-viaje-travel-360",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": "vende Tottus"
           }
         ]
       },
       "hatch_rest2": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -9947,17 +11293,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "PRIMAL HATCH Figura Interactiva Tiburón",
-            "precio": 199.9,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/883919175/megalodon",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 149.0,
             "moneda": "PEN",
@@ -9969,10 +11304,21 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
+            "titulo": "PRIMAL HATCH Figura Interactiva Tiburón",
+            "precio": 199.9,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/883919175/megalodon",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "NOOR THE LUXURY OF REST CONJUNTO LINO PARA DAMAS",
             "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/146327395/PIJAMA-ALGODON-EXTRA-SUAVE",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/150160425/CONJUNTO-LINO-PARA-DAMAS",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -9991,10 +11337,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST CONJUNTO LINO PARA DAMAS",
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 229.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/150160425/CONJUNTO-LINO-PARA-DAMAS",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/146327395/PIJAMA-ALGODON-EXTRA-SUAVE",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10038,7 +11384,7 @@
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158645795/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158645858/pijama-algodon-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10049,7 +11395,7 @@
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
             "precio": 199.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158645877/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158637580/pijama-algodon-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10058,9 +11404,9 @@
           {
             "tienda": "Falabella",
             "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 149.0,
+            "precio": 179.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/150322273/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/158637622/pijama-algodon-extra-suave",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10079,10 +11425,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "NOOR THE LUXURY OF REST PIJAMA ALGODON EXTRA SUAVE",
-            "precio": 199.0,
+            "titulo": "NOOR THE LUXURY OF REST PIJAMA DE SEDA DOS PIEZAS",
+            "precio": 259.0,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/158637580/pijama-algodon-extra-suave",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/150196038/pijama-de-seda-dos-piezas",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10091,7 +11437,7 @@
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -10139,17 +11485,6 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón",
-            "precio": 104.93,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
             "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón",
             "precio": 104.93,
             "moneda": "PEN",
@@ -10161,10 +11496,32 @@
           },
           {
             "tienda": "Falabella",
+            "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón",
+            "precio": 104.93,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
             "titulo": "CARTERS Body Bebé Niño Pack X4 Algodón",
             "precio": 49.95,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/21366041/body-pack-x4-bebe-nino-algodon-carters",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
+            "precio": 69.93,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/19012604/body-bebe-nino-nina-pack-x4-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10186,29 +11543,7 @@
             "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
             "precio": 69.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/19012604/body-bebe-nino-nina-pack-x4-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niño Niña Pack X4 Algodón",
-            "precio": 69.93,
-            "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/19012595/body-bebe-nino-nina-pack-x4-algodon-carters",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niño Pack X4",
-            "precio": 49.95,
-            "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21366129/f25-i-b-4pk-bs-horse-print-stripe",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10220,6 +11555,17 @@
             "precio": 49.95,
             "moneda": "PEN",
             "url": "https://www.falabella.com.pe/falabella-pe/product/21370986/w25-i-n-4pk-bs-stripe-snack-print",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Falabella",
+            "titulo": "CARTERS Body Bebé Niño Pack X4",
+            "precio": 49.95,
+            "moneda": "PEN",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21366129/f25-i-b-4pk-bs-horse-print-stripe",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10271,10 +11617,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pantalón Bebé Niño Pack X2 Algodón",
-            "precio": 48.93,
+            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
+            "precio": 71.94,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21500896/pantalon-bebe-nino-pack-x2-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21410412/pijama-bebe-nino-4-piezas-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10282,10 +11628,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Pijama Bebé Niño 4 Piezas Algodón",
-            "precio": 71.94,
+            "titulo": "CARTERS Body Bebé Niña Pack X4",
+            "precio": 49.95,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21410412/pijama-bebe-nino-4-piezas-algodon-carters",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21366111/body-pack-x4-bebe-nina",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10304,10 +11650,10 @@
           },
           {
             "tienda": "Falabella",
-            "titulo": "CARTERS Body Bebé Niña Pack X4",
-            "precio": 49.95,
+            "titulo": "CARTERS Pantalón Bebé Niño Pack X2 Algodón",
+            "precio": 48.93,
             "moneda": "PEN",
-            "url": "https://www.falabella.com.pe/falabella-pe/product/21366111/body-pack-x4-bebe-nina",
+            "url": "https://www.falabella.com.pe/falabella-pe/product/21500896/pantalon-bebe-nino-pack-x2-algodon-carters",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -10316,7 +11662,7 @@
         ]
       },
       "freshly_picked_zapatos": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Falabella",
@@ -10346,12 +11692,12 @@
   },
   "oechsle": {
     "uso": {
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "busquedas": 0
     },
     "productos": {
       "kyte_pijama_bambu": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10576,7 +11922,7 @@
         ]
       },
       "kyte_enterizo": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10614,7 +11960,7 @@
         ]
       },
       "kyte_toalla": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10740,7 +12086,7 @@
         ]
       },
       "skip_hop_mochila": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -10943,7 +12289,7 @@
         ]
       },
       "skip_hop_forma": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -11168,7 +12514,7 @@
         ]
       },
       "ergobaby_omni360": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
@@ -11195,17 +12541,6 @@
           {
             "tienda": "Oechsle",
             "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
-            "precio": 34.0,
-            "moneda": "PEN",
-            "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050503/p",
-            "envio_gratis": false,
-            "condicion": "new",
-            "fecha": null,
-            "nota": ""
-          },
-          {
-            "tienda": "Oechsle",
-            "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
             "precio": 55.0,
             "moneda": "PEN",
             "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001965268/p",
@@ -11220,6 +12555,17 @@
             "precio": 1000.0,
             "moneda": "PEN",
             "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050494/p",
+            "envio_gratis": false,
+            "condicion": "new",
+            "fecha": null,
+            "nota": ""
+          },
+          {
+            "tienda": "Oechsle",
+            "titulo": "GENÉRICO Antena TV Digital HD Omnidireccional 360 con Base Magnética SG-3003",
+            "precio": 34.0,
+            "moneda": "PEN",
+            "url": "https://www.oechsle.pe/antena-tv-digital-hd-omnidireccional-360-con-base-magnetica-sg-3003-1001050503/p",
             "envio_gratis": false,
             "condicion": "new",
             "fecha": null,
@@ -11250,7 +12596,7 @@
         ]
       },
       "carters_pants4": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "ofertas": [
           {
             "tienda": "Oechsle",
