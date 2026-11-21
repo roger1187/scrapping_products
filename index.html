@@ -1,0 +1,1177 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Precios bebé · 2026-11-21</title>
+<style>
+:root {
+  --bg: #f6f5f2; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6a66; --line: #e3e1db;
+  --accent: #1f5fbf; --accent-text: #ffffff;
+  --verde: #1e7d45; --verde-bg: #e3f4ea; --amarillo: #8a5a00; --amarillo-bg: #fdf1d6;
+  --rojo: #b3261e; --rojo-bg: #fbe6e4; --gris: #5f5e5a; --gris-bg: #ecebe7;
+  --baja: #1e7d45; --sube: #b3261e;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141413; --surface: #1f1f1d; --text: #ecebe7; --muted: #a3a29c; --line: #34332f;
+    --accent: #6ea2ff; --accent-text: #0d1a33;
+    --verde: #6fd39a; --verde-bg: #173826; --amarillo: #f2c260; --amarillo-bg: #3a2d0e;
+    --rojo: #ff8a80; --rojo-bg: #43201d; --gris: #b5b4ae; --gris-bg: #2c2b28;
+    --baja: #6fd39a; --sube: #ff8a80;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1200px; margin: 0 auto; padding: 16px; }
+header.top h1 { font-size: 1.3rem; margin: 0 0 4px; }
+.meta { color: var(--muted); font-size: .85rem; }
+.pill { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: .75rem; font-weight: 600;
+  white-space: nowrap; }
+.pill.VERDE { background: var(--verde-bg); color: var(--verde); }
+.pill.AMARILLO { background: var(--amarillo-bg); color: var(--amarillo); }
+.pill.ROJO { background: var(--rojo-bg); color: var(--rojo); }
+.pill.SIN { background: var(--gris-bg); color: var(--gris); }
+.tag { display: inline-block; font-size: .7rem; padding: 1px 6px; border-radius: 4px; background: var(--gris-bg);
+  color: var(--gris); margin-left: 4px; white-space: nowrap; }
+.tag.aviso { background: var(--amarillo-bg); color: var(--amarillo); }
+.btn { display: inline-block; background: var(--accent); color: var(--accent-text); text-decoration: none;
+  padding: 7px 12px; border-radius: 8px; font-weight: 600; font-size: .85rem; white-space: nowrap; }
+.num { font-variant-numeric: tabular-nums; }
+.baja { color: var(--baja); } .sube { color: var(--sube); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+footer { color: var(--muted); font-size: .8rem; margin: 24px 0 8px; }
+
+.controles { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; margin: 8px 0 4px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: none; }
+.chip { border: 1px solid var(--line); background: var(--surface); color: var(--text); border-radius: 999px;
+  padding: 6px 12px; font: inherit; font-size: .85rem; cursor: pointer; white-space: nowrap; }
+.chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+input[type=search] { width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--text); font: inherit; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: .75rem; color: var(--muted); font-weight: 600; text-transform: uppercase;
+  letter-spacing: .03em; padding: 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+td { padding: 9px 8px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+td.r, th.r { text-align: right; }
+td.num { white-space: nowrap; }
+.prod a { color: var(--text); font-weight: 600; text-decoration: none; }
+.prod a:hover { text-decoration: underline; }
+.marca { color: var(--muted); font-size: .8rem; }
+.margen-grande { font-weight: 700; }
+.vacio { text-align: center; color: var(--muted); padding: 30px 0; display: none; }
+tr[hidden] { display: none !important; }
+.ref-btn { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer;
+  text-decoration: underline dotted; text-underline-offset: 3px; font-variant-numeric: tabular-nums; }
+.ref-btn::after { content: " ▾"; font-size: .75em; }
+.ref-btn[aria-expanded="true"]::after { content: " ▴"; }
+tr.detalle > td { background: var(--bg); padding: 12px 14px; }
+.panel h3 { font-size: .85rem; margin: 0 0 8px; }
+.panel ol { margin: 0 0 10px; padding: 0; list-style: none; }
+.panel li { display: grid; grid-template-columns: 1fr auto auto; gap: 4px 10px; align-items: baseline;
+  padding: 7px 0; border-bottom: 1px solid var(--line); }
+.panel li:last-child { border-bottom: 0; }
+.panel .tit { grid-column: 1 / -1; font-size: .78rem; color: var(--muted); overflow-wrap: anywhere; }
+.panel .ref { font-weight: 700; }
+.panel .nota { font-size: .8rem; color: var(--muted); margin: 0 0 8px; }
+.panel .buscar { font-size: .8rem; color: var(--muted); }
+.panel .buscar a { margin-right: 10px; white-space: nowrap; }
+
+/* Móvil: cada fila es una tarjeta */
+@media (max-width: 899px) {
+  table, tbody, tr, td { display: block; }
+  thead { display: none; }
+  tr { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
+    margin-bottom: 10px; display: grid; grid-template-columns: 1fr 1fr; column-gap: 12px; }
+  td { border: 0; padding: 3px 0; }
+  td[data-l]::before { content: attr(data-l); display: block; font-size: .7rem; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .03em; }
+  td.prod { grid-column: 1 / -1; display: flex; justify-content: space-between; gap: 8px; align-items: flex-start;
+    padding-bottom: 8px; }
+  td.col-estado-desk, td.col-marca { display: none; }
+  td.r { text-align: left; }
+  td.comprar { grid-column: 1 / -1; padding-top: 8px; }
+  td.comprar .btn { display: block; text-align: center; }
+  tr.fila.abierta { border-bottom-left-radius: 0; border-bottom-right-radius: 0; margin-bottom: 0; }
+  tr.detalle { display: block; padding: 0; margin: -1px 0 10px; border-top-left-radius: 0; border-top-right-radius: 0;
+    overflow: hidden; }
+  tr.detalle > td { padding: 12px 14px; }
+}
+@media (min-width: 900px) {
+  .prod .pill { display: none; }
+  td.prod { min-width: 170px; }
+  .btn .larga { display: none; }
+  .tabla { overflow-x: auto; }
+  td .tag { display: block; width: fit-content; margin: 3px 0 0; }
+  td.r .tag { margin-left: auto; }
+  td, th { padding-left: 6px; padding-right: 6px; }
+  .marca-mov { display: none; }
+}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <h1>Precios bebé: EE.UU. → Lima</h1>
+  <div class="meta">2026-11-21 · TC S/ 3.453 ·
+    14 verdes de 18</div>
+</header>
+
+<div class="controles">
+  <div class="chips" role="group" aria-label="Filtrar por estado">
+    <button class="chip" data-f="" aria-pressed="true">Todos 18</button>
+    
+    <button class="chip" data-f="VERDE" aria-pressed="false">Verde 14</button>
+    
+    <button class="chip" data-f="AMARILLO" aria-pressed="false">Amarillo 3</button>
+    
+    <button class="chip" data-f="ROJO" aria-pressed="false">Rojo 1</button>
+    
+  </div>
+  <input type="search" id="q" placeholder="Buscar producto, marca o tienda…" aria-label="Buscar">
+</div>
+
+<div class="tabla">
+<table>
+  <thead><tr>
+    <th>Producto</th><th>Marca</th><th class="r">Mejor USA</th><th>Tienda</th><th></th>
+    <th class="r">Costo Lima</th><th class="r">Ref. Lima</th><th class="r">Venta obj.</th>
+    <th class="r">Margen S/</th><th class="r">Margen %</th><th class="r">vs ayer</th><th>Estado</th>
+  </tr></thead>
+  <tbody>
+  
+  
+  <tr class="fila" data-id="posh_peanut_swaddle" data-estado="VERDE" data-texto="swaddle de bambú posh peanut ebay">
+    <td class="prod">
+      <span><a href="producto/posh_peanut_swaddle.html">Swaddle de bambú</a>
+        <span class="marca marca-mov"><br>Posh Peanut</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Posh Peanut</td>
+    <td class="r num" data-l="Mejor USA">
+      $12.00
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-20</span>
+      
+    </td>
+    <td data-l="Tienda">eBay</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Posh Peanut swaddle&amp;prds=productid:11278443973832403406,headlineOfferDocid:11278443973832403406,imageDocid:4647547151361786429,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en eBay</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 52</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-posh_peanut_swaddle" title="Ver todas las referencias de Lima">S/ 290</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 267</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 215</td>
+    <td class="r num margen" data-l="Margen %">80.6 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-posh_peanut_swaddle" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Posh Peanut Swaddle de bambú</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 290</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Posh Peanut swaddle» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Posh%20Peanut%20swaddle" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Posh%20Peanut%20swaddle?_q=Posh%20Peanut%20swaddle&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Posh%20Peanut%20swaddle" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Posh-Peanut-swaddle" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="carters_pants4" data-estado="VERDE" data-texto="pack pantalones x4 (control) carter&#39;s depop">
+    <td class="prod">
+      <span><a href="producto/carters_pants4.html">Pack pantalones x4 (control)</a>
+        <span class="marca marca-mov"><br>Carter&#39;s</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Carter&#39;s</td>
+    <td class="r num" data-l="Mejor USA">
+      $2.70
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-18</span>
+      
+    </td>
+    <td data-l="Tienda">Depop</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Carter&#39;s baby 4-pack pants&amp;prds=productid:13465226991775297480,headlineOfferDocid:13465226991775297480,imageDocid:1100298553460055034,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Depop</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 12</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-carters_pants4" title="Ver todas las referencias de Lima">S/ 60</button>
+      
+      
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 55</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 43</td>
+    <td class="r num margen" data-l="Margen %">78.9 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-carters_pants4" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Carter&#39;s Pack pantalones x4 (control)</h3>
+      
+      <ol>
+        
+        <li>
+          <span>Falabella <span class="tag aviso">referencia</span></span>
+          <span class="num ref">S/ 59.90</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 59.90</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 59.90</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 104.93</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21501668/pantalon-bebe-nino-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Bebé Niño Pack X4 Algodón</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 104.93</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Buzo Bebé Niño Niña Pack X4 Algodón</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 104.93</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">CARTERS Pantalón Bebé Niña Pack X4 Algodón</span>
+        </li>
+        
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ 60 × 0.92 = S/ 55.</p>
+      
+      <div class="buscar">Buscar «Carters pantalon pack x4 bebe» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Carters%20pantalon%20pack%20x4%20bebe" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Carters%20pantalon%20pack%20x4%20bebe?_q=Carters%20pantalon%20pack%20x4%20bebe&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Carters%20pantalon%20pack%20x4%20bebe" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Carters-pantalon-pack-x4-bebe" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="freshly_picked_zapatos" data-estado="VERDE" data-texto="zapatos primeros pasos freshly picked ebay">
+    <td class="prod">
+      <span><a href="producto/freshly_picked_zapatos.html">Zapatos primeros pasos</a>
+        <span class="marca marca-mov"><br>Freshly Picked</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Freshly Picked</td>
+    <td class="r num" data-l="Mejor USA">
+      $20.00
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-18</span>
+      
+    </td>
+    <td data-l="Tienda">eBay</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Freshly Picked baby moccasins&amp;prds=productid:4930236764223506926,headlineOfferDocid:4930236764223506926,imageDocid:13411848791652267191,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en eBay</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 86</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-freshly_picked_zapatos" title="Ver todas las referencias de Lima">S/ 420</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 386</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 300</td>
+    <td class="r num margen" data-l="Margen %">77.7 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-freshly_picked_zapatos" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Freshly Picked Zapatos primeros pasos</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 420</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Freshly Picked» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Freshly%20Picked" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Freshly%20Picked?_q=Freshly%20Picked&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Freshly%20Picked" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Freshly-Picked" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="kickee_pijama" data-estado="VERDE" data-texto="pijama de bambú kickee pants little labels co">
+    <td class="prod">
+      <span><a href="producto/kickee_pijama.html">Pijama de bambú</a>
+        <span class="marca marca-mov"><br>Kickee Pants</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Kickee Pants</td>
+    <td class="r num" data-l="Mejor USA">
+      $15.00
+        
+      
+    </td>
+    <td data-l="Tienda">Little Labels Co <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Kickee Pants footie&amp;prds=catalogid:10655455600389873198,productid:11410387057342418338,headlineOfferDocid:6424200755761688651,imageDocid:9968084585378963413,gpcid:2888090337697723881,mid:576462556127400634,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Little Labels Co</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 65</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-kickee_pijama" title="Ver todas las referencias de Lima">S/ 270</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 248</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 184</td>
+    <td class="r num margen" data-l="Margen %">73.9 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="sube">▲ 200.0 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-kickee_pijama" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Kickee Pants Pijama de bambú</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 270</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Kickee Pants» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Kickee%20Pants" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Kickee%20Pants?_q=Kickee%20Pants&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Kickee%20Pants" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Kickee-Pants" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="aden_anais_muselina" data-estado="VERDE" data-texto="manta muselina pack x4 aden poshmark">
+    <td class="prod">
+      <span><a href="producto/aden_anais_muselina.html">Manta muselina pack x4</a>
+        <span class="marca marca-mov"><br>Aden</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Aden</td>
+    <td class="r num" data-l="Mejor USA">
+      $12.00
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-16</span>
+      
+    </td>
+    <td data-l="Tienda">Poshmark</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=aden + anais muslin swaddle 4 pack&amp;prds=productid:16446364043997212707,headlineOfferDocid:16446364043997212707,imageDocid:117908938671245097,rds:PC_10036976364349439571|PROD_PC_10036976364349439571,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Poshmark</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 52</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-aden_anais_muselina" title="Ver todas las referencias de Lima">S/ 209</button>
+      
+      
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 192</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 140</td>
+    <td class="r num margen" data-l="Margen %">73.1 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-aden_anais_muselina" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Aden Manta muselina pack x4</h3>
+      
+      <ol>
+        
+        <li>
+          <span>Falabella <span class="tag aviso">referencia</span></span>
+          <span class="num ref">S/ 209.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba</span>
+        </li>
+        
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ 209 × 0.92 = S/ 192.</p>
+      
+      <div class="buscar">Buscar «Aden Anais muselina» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Aden%20Anais%20muselina" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Aden%20Anais%20muselina?_q=Aden%20Anais%20muselina&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Aden%20Anais%20muselina" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Aden-Anais-muselina" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="hanna_pijama" data-estado="VERDE" data-texto="pijama de algodón orgánico hanna andersson ebay">
+    <td class="prod">
+      <span><a href="producto/hanna_pijama.html">Pijama de algodón orgánico</a>
+        <span class="marca marca-mov"><br>Hanna Andersson</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Hanna Andersson</td>
+    <td class="r num" data-l="Mejor USA">
+      $18.00
+        
+      
+    </td>
+    <td data-l="Tienda">eBay</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Hanna Andersson organic cotton pajamas baby&amp;prds=productid:16338675127153932960,headlineOfferDocid:16338675127153932960,imageDocid:12011835885534004631,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en eBay</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 78</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-hanna_pijama" title="Ver todas las referencias de Lima">S/ 310</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 285</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 208</td>
+    <td class="r num margen" data-l="Margen %">72.8 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="sube">▲ 20.1 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-hanna_pijama" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Hanna Andersson Pijama de algodón orgánico</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 310</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Hanna Andersson pijama» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Hanna%20Andersson%20pijama" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Hanna%20Andersson%20pijama?_q=Hanna%20Andersson%20pijama&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Hanna%20Andersson%20pijama" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Hanna-Andersson-pijama" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="ergobaby_omni360" data-estado="VERDE" data-texto="portabebé omni 360 ergobaby beanstalk">
+    <td class="prod">
+      <span><a href="producto/ergobaby_omni360.html">Portabebé Omni 360</a>
+        <span class="marca marca-mov"><br>Ergobaby</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Ergobaby</td>
+    <td class="r num" data-l="Mejor USA">
+      $74.95
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-17</span>
+      
+    </td>
+    <td data-l="Tienda">Beanstalk</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Ergobaby Omni 360 baby carrier&amp;prds=productid:5276564352249818592,headlineOfferDocid:5276564352249818592,imageDocid:3254571056701528740,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Beanstalk</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 324</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-ergobaby_omni360" title="Ver todas las referencias de Lima">S/ 1250</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 1150</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 826</td>
+    <td class="r num margen" data-l="Margen %">71.9 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-ergobaby_omni360" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Ergobaby Portabebé Omni 360</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 1250</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Ergobaby Omni 360» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Ergobaby%20Omni%20360" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Ergobaby%20Omni%20360?_q=Ergobaby%20Omni%20360&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Ergobaby%20Omni%20360" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Ergobaby-Omni-360" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="posh_peanut_enterizo" data-estado="VERDE" data-texto="enterizo de bambú estampado posh peanut amazon">
+    <td class="prod">
+      <span><a href="producto/posh_peanut_enterizo.html">Enterizo de bambú estampado</a>
+        <span class="marca marca-mov"><br>Posh Peanut</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Posh Peanut</td>
+    <td class="r num" data-l="Mejor USA">
+      $18.87
+        
+      
+    </td>
+    <td data-l="Tienda">Amazon <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.amazon.com/dp/B0DL751N5H" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Amazon</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 81</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-posh_peanut_enterizo" title="Ver todas las referencias de Lima">S/ 290</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 267</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 185</td>
+    <td class="r num margen" data-l="Margen %">69.5 %</td>
+    <td class="r num" data-l="vs ayer">
+      —
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-posh_peanut_enterizo" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Posh Peanut Enterizo de bambú estampado</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 290</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Posh Peanut» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Posh%20Peanut" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Posh%20Peanut?_q=Posh%20Peanut&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Posh%20Peanut" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Posh-Peanut" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="halo_sleepsack" data-estado="VERDE" data-texto="saco de dormir sleepsack halo mercari">
+    <td class="prod">
+      <span><a href="producto/halo_sleepsack.html">Saco de dormir SleepSack</a>
+        <span class="marca marca-mov"><br>Halo</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Halo</td>
+    <td class="r num" data-l="Mejor USA">
+      $14.25
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-16</span>
+      
+    </td>
+    <td data-l="Tienda">Mercari</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Halo SleepSack wearable blanket&amp;prds=productid:15444923016089720615,headlineOfferDocid:15444923016089720615,imageDocid:524577299885595266,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Mercari</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 62</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-halo_sleepsack" title="Ver todas las referencias de Lima">S/ 219</button>
+      
+      
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 201</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 140</td>
+    <td class="r num margen" data-l="Margen %">69.5 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-halo_sleepsack" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Halo Saco de dormir SleepSack</h3>
+      
+      <ol>
+        
+        <li>
+          <span>Falabella <span class="tag aviso">referencia</span></span>
+          <span class="num ref">S/ 219.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/160136831/manta-swaddle-halo-sleepsack-ajustable-3-posiciones" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">MANTA Swaddle HALO Sleepsack Ajustable 3 Posiciones</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 229.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">MANTA Swaddle HALO SleepSack Algodon 1.5 TOG</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 229.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">MANTA Swaddle HALO SleepSack Algodon 1.5 TOG</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 229.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/155608883/swaddle-halo-sleepsack-algodan-rosado-talla-s-3-en-1" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">HALO Swaddle SleepSack Algodón Talla S</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 239.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/155608328/saco-de-dormir-halo-sleepsack-algodan-mediano-verde-unisex" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">HALO Saco de Dormir SleepSack Algodan Mediano Verde Unisex</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 249.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/155611008/swaddle-halo-sleepsack-microfleece-crema-talla-s-unisex" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">HALO Swaddle SleepSack Microfleece Crema Talla S Unisex</span>
+        </li>
+        
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ 219 × 0.92 = S/ 201.</p>
+      
+      <div class="buscar">Buscar «Halo SleepSack» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Halo%20SleepSack" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Halo%20SleepSack?_q=Halo%20SleepSack&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Halo%20SleepSack" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Halo-SleepSack" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="solly_fular" data-estado="VERDE" data-texto="fular elástico solly baby beanstalk">
+    <td class="prod">
+      <span><a href="producto/solly_fular.html">Fular elástico</a>
+        <span class="marca marca-mov"><br>Solly Baby</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Solly Baby</td>
+    <td class="r num" data-l="Mejor USA">
+      $32.95
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-17</span>
+      
+    </td>
+    <td data-l="Tienda">Beanstalk</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Solly Baby wrap&amp;prds=productid:6818788825763791037,headlineOfferDocid:6818788825763791037,imageDocid:3724021064214986721,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Beanstalk</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 142</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-solly_fular" title="Ver todas las referencias de Lima">S/ 490</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 451</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 309</td>
+    <td class="r num margen" data-l="Margen %">68.5 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-solly_fular" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Solly Baby Fular elástico</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 490</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Solly Baby fular» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Solly%20Baby%20fular" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Solly%20Baby%20fular?_q=Solly%20Baby%20fular&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Solly%20Baby%20fular" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Solly-Baby-fular" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="kyte_enterizo" data-estado="VERDE" data-texto="enterizo de bambú kyte baby destination baby &amp; kids">
+    <td class="prod">
+      <span><a href="producto/kyte_enterizo.html">Enterizo de bambú</a>
+        <span class="marca marca-mov"><br>Kyte Baby</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Kyte Baby</td>
+    <td class="r num" data-l="Mejor USA">
+      $19.99
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-19</span>
+      
+    </td>
+    <td data-l="Tienda">Destination Baby &amp; Kids <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Kyte Baby zippered romper&amp;prds=catalogid:267175752969053139,productid:5959046845891172183,headlineOfferDocid:1413545948633738794,imageDocid:13064128066099759099,gpcid:5968692072556015813,mid:576462915708542033,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Destination Baby &amp; Kids</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 86</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-kyte_enterizo" title="Ver todas las referencias de Lima">S/ 250</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 230</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 144</td>
+    <td class="r num margen" data-l="Margen %">62.5 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-kyte_enterizo" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Kyte Baby Enterizo de bambú</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 250</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Kyte Baby enterizo» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Kyte%20Baby%20enterizo" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Kyte%20Baby%20enterizo?_q=Kyte%20Baby%20enterizo&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Kyte%20Baby%20enterizo" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Kyte-Baby-enterizo" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="little_sleepies_pack2" data-estado="VERDE" data-texto="pijama de bambú little sleepies mercari">
+    <td class="prod">
+      <span><a href="producto/little_sleepies_pack2.html">Pijama de bambú</a>
+        <span class="marca marca-mov"><br>Little Sleepies</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Little Sleepies</td>
+    <td class="r num" data-l="Mejor USA">
+      $18.05
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-20</span>
+      
+    </td>
+    <td data-l="Tienda">Mercari</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Little Sleepies zippy bamboo pajamas&amp;prds=productid:8955167803352198202,headlineOfferDocid:8955167803352198202,imageDocid:1861917078230070196,pvt:a&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Mercari</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 78</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-little_sleepies_pack2" title="Ver todas las referencias de Lima">S/ 210</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 193</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 115</td>
+    <td class="r num margen" data-l="Margen %">59.7 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-little_sleepies_pack2" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Little Sleepies Pijama de bambú</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 210</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Little Sleepies» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Little%20Sleepies" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Little%20Sleepies?_q=Little%20Sleepies&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Little%20Sleepies" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Little-Sleepies" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="skip_hop_mochila" data-estado="VERDE" data-texto="pañalera mochila skip hop caterkids hawaii">
+    <td class="prod">
+      <span><a href="producto/skip_hop_mochila.html">Pañalera mochila</a>
+        <span class="marca marca-mov"><br>Skip Hop</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Skip Hop</td>
+    <td class="r num" data-l="Mejor USA">
+      $40.00
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-16</span>
+      
+    </td>
+    <td data-l="Tienda">Caterkids Hawaii</td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Skip Hop diaper bag backpack&amp;prds=productid:5473411506194346096,headlineOfferDocid:5473411506194346096,imageDocid:12747468729078678193,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Caterkids Hawaii</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 173</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-skip_hop_mochila" title="Ver todas las referencias de Lima">S/ 319</button>
+      
+      
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 294</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 121</td>
+    <td class="r num margen" data-l="Margen %">41.2 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-skip_hop_mochila" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Skip Hop Pañalera mochila</h3>
+      
+      <ol>
+        
+        <li>
+          <span>Falabella <span class="tag aviso">referencia</span></span>
+          <span class="num ref">S/ 319.20</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">SKIP HOP Bolso Pañalero Forma Rosado</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 319.20</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">SKIP HOP Bolso Pañalero Mainframe Black</span>
+        </li>
+        
+        <li>
+          <span>Oechsle</span>
+          <span class="num ">S/ 319.20</span>
+          <span><a href="https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">Bolso Pañalero Skip Hop Forma Mauve Mist</span>
+        </li>
+        
+        <li>
+          <span>Oechsle</span>
+          <span class="num ">S/ 319.20</span>
+          <span><a href="https://www.oechsle.pe/bolso-panalero-skip-hop-mainframe-black-2974513/p" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">Bolso Pañalero Skip Hop Mainframe Black</span>
+        </li>
+        
+        <li>
+          <span>Oechsle</span>
+          <span class="num ">S/ 319.20</span>
+          <span><a href="https://www.oechsle.pe/bolso-panalero-skip-hop-verde-salvia-2974531/p" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">Bolso Pañalero Skip Hop Verde Salvia</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 399.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21090172/bolso-panalero-forma-verde" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">SKIP HOP Bolso Pañalero Forma Verde</span>
+        </li>
+        
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ 319 × 0.92 = S/ 294.</p>
+      
+      <div class="buscar">Buscar «Skip Hop pañalera mochila» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Skip%20Hop%20pa%C3%B1alera%20mochila" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Skip%20Hop%20pa%C3%B1alera%20mochila?_q=Skip%20Hop%20pa%C3%B1alera%20mochila&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Skip%20Hop%20pa%C3%B1alera%20mochila" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Skip-Hop-pa%C3%B1alera-mochila" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="hatch_rest2" data-estado="VERDE" data-texto="luz de sueño rest 2nd gen hatch amazon">
+    <td class="prod">
+      <span><a href="producto/hatch_rest2.html">Luz de sueño Rest 2nd Gen</a>
+        <span class="marca marca-mov"><br>Hatch</span></span>
+      <span class="pill VERDE">VERDE</span>
+    </td>
+    <td class="col-marca marca">Hatch</td>
+    <td class="r num" data-l="Mejor USA">
+      $66.49
+        
+      
+    </td>
+    <td data-l="Tienda">Amazon <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.amazon.com/dp/B0F7C6XJ3P" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Amazon</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 287</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-hatch_rest2" title="Ver todas las referencias de Lima">S/ 520</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 478</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 191</td>
+    <td class="r num margen" data-l="Margen %">40.0 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="baja">▼ 16.9 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill VERDE">VERDE</span></td>
+  </tr>
+  <tr class="detalle" id="lima-hatch_rest2" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Hatch Luz de sueño Rest 2nd Gen</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 520</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Hatch Rest» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Hatch%20Rest" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Hatch%20Rest?_q=Hatch%20Rest&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Hatch%20Rest" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Hatch-Rest" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="kyte_pijama_bambu" data-estado="AMARILLO" data-texto="pijama con cierre de bambú kyte baby amazon">
+    <td class="prod">
+      <span><a href="producto/kyte_pijama_bambu.html">Pijama con cierre de bambú</a>
+        <span class="marca marca-mov"><br>Kyte Baby</span></span>
+      <span class="pill AMARILLO">AMARILLO</span>
+    </td>
+    <td class="col-marca marca">Kyte Baby</td>
+    <td class="r num" data-l="Mejor USA">
+      $32.29
+        
+      
+    </td>
+    <td data-l="Tienda">Amazon <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.amazon.com/dp/B084RQ3735" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Amazon</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 139</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-kyte_pijama_bambu" title="Ver todas las referencias de Lima">S/ 230</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 212</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 72</td>
+    <td class="r num margen" data-l="Margen %">34.1 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="baja">▼ 10.3 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill AMARILLO">AMARILLO</span></td>
+  </tr>
+  <tr class="detalle" id="lima-kyte_pijama_bambu" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Kyte Baby Pijama con cierre de bambú</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 230</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Kyte Baby pijama» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Kyte%20Baby%20pijama" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Kyte%20Baby%20pijama?_q=Kyte%20Baby%20pijama&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Kyte%20Baby%20pijama" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Kyte-Baby-pijama" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="kyte_sleep_bag" data-estado="AMARILLO" data-texto="saco de dormir 1.0 tog kyte baby amazon">
+    <td class="prod">
+      <span><a href="producto/kyte_sleep_bag.html">Saco de dormir 1.0 TOG</a>
+        <span class="marca marca-mov"><br>Kyte Baby</span></span>
+      <span class="pill AMARILLO">AMARILLO</span>
+    </td>
+    <td class="col-marca marca">Kyte Baby</td>
+    <td class="r num" data-l="Mejor USA">
+      $47.59
+        
+      
+    </td>
+    <td data-l="Tienda">Amazon <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.amazon.com/dp/B07PH258LW" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Amazon</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 205</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-kyte_sleep_bag" title="Ver todas las referencias de Lima">S/ 320</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 294</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 89</td>
+    <td class="r num margen" data-l="Margen %">30.2 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="baja">▼ 4.8 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill AMARILLO">AMARILLO</span></td>
+  </tr>
+  <tr class="detalle" id="lima-kyte_sleep_bag" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Kyte Baby Saco de dormir 1.0 TOG</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 320</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Kyte Baby sleep bag» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Kyte%20Baby%20sleep%20bag" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Kyte%20Baby%20sleep%20bag?_q=Kyte%20Baby%20sleep%20bag&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Kyte%20Baby%20sleep%20bag" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Kyte-Baby-sleep-bag" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="kyte_toalla" data-estado="AMARILLO" data-texto="toalla con capucha kyte baby the gingham goose boutique">
+    <td class="prod">
+      <span><a href="producto/kyte_toalla.html">Toalla con capucha</a>
+        <span class="marca marca-mov"><br>Kyte Baby</span></span>
+      <span class="pill AMARILLO">AMARILLO</span>
+    </td>
+    <td class="col-marca marca">Kyte Baby</td>
+    <td class="r num" data-l="Mejor USA">
+      $40.00
+        <span class="tag aviso" title="Precio guardado de un día anterior">del 11-20</span>
+      
+    </td>
+    <td data-l="Tienda">The Gingham Goose Boutique <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.google.com/search?ibp=oshop&amp;q=Kyte Baby hooded bath towel&amp;prds=productid:14936657235232774124,headlineOfferDocid:14936657235232774124,imageDocid:10263354363230549553,rds:PC_9838315019541398863|PROD_PC_9838315019541398863,pvt:hg&amp;hl=en&amp;gl=us&amp;udm=28" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en The Gingham Goose Boutique</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 173</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-kyte_toalla" title="Ver todas las referencias de Lima">S/ 250</button>
+      
+      <span class="tag aviso" title="Sin resultados en tiendas de Lima: se usa precio_lima_manual">referencia estimada</span>
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 230</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 57</td>
+    <td class="r num margen" data-l="Margen %">24.9 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        =
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill AMARILLO">AMARILLO</span></td>
+  </tr>
+  <tr class="detalle" id="lima-kyte_toalla" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Kyte Baby Toalla con capucha</h3>
+      
+      <p class="nota">Ninguna publicación de Lima pasó los filtros (marca y palabras requeridas). Se usa el precio manual
+        de products.yaml: <strong>S/ 250</strong> — revísalo con los links de abajo.</p>
+      
+      <div class="buscar">Buscar «Kyte Baby toalla» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Kyte%20Baby%20toalla" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Kyte%20Baby%20toalla?_q=Kyte%20Baby%20toalla&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Kyte%20Baby%20toalla" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Kyte-Baby-toalla" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  
+  <tr class="fila" data-id="skip_hop_forma" data-estado="ROJO" data-texto="pañalera mochila forma skip hop amazon">
+    <td class="prod">
+      <span><a href="producto/skip_hop_forma.html">Pañalera mochila Forma</a>
+        <span class="marca marca-mov"><br>Skip Hop</span></span>
+      <span class="pill ROJO">ROJO</span>
+    </td>
+    <td class="col-marca marca">Skip Hop</td>
+    <td class="r num" data-l="Mejor USA">
+      $63.99
+        
+      
+    </td>
+    <td data-l="Tienda">Amazon <span class="tag">envío gratis</span></td>
+    <td class="comprar"><a class="btn" href="https://www.amazon.com/dp/B0731TBBWF" target="_blank" rel="noopener noreferrer">Comprar<span class="larga"> en Amazon</span></a></td>
+    <td class="r num" data-l="Costo Lima">S/ 276</td>
+    <td class="r num" data-l="Ref. Lima">
+      <button type="button" class="ref-btn" aria-expanded="false"
+        aria-controls="lima-skip_hop_forma" title="Ver todas las referencias de Lima">S/ 319</button>
+      
+      
+    </td>
+    <td class="r num" data-l="Venta objetivo">S/ 294</td>
+    <td class="r num margen-grande" data-l="Margen S/">S/ 17</td>
+    <td class="r num margen" data-l="Margen %">5.9 %</td>
+    <td class="r num" data-l="vs ayer">
+      
+        <span class="baja">▼ 19.0 %</span>
+        
+      
+    </td>
+    <td class="col-estado-desk"><span class="pill ROJO">ROJO</span></td>
+  </tr>
+  <tr class="detalle" id="lima-skip_hop_forma" hidden>
+    <td colspan="12"><div class="panel">
+      <h3>Referencias en Lima · Skip Hop Pañalera mochila Forma</h3>
+      
+      <ol>
+        
+        <li>
+          <span>Falabella <span class="tag aviso">referencia</span></span>
+          <span class="num ref">S/ 319.20</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">SKIP HOP Bolso Pañalero Forma Rosado</span>
+        </li>
+        
+        <li>
+          <span>Oechsle</span>
+          <span class="num ">S/ 319.20</span>
+          <span><a href="https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">Bolso Pañalero Skip Hop Forma Mauve Mist</span>
+        </li>
+        
+        <li>
+          <span>Falabella</span>
+          <span class="num ">S/ 399.00</span>
+          <span><a href="https://www.falabella.com.pe/falabella-pe/product/21090172/bolso-panalero-forma-verde" target="_blank" rel="noopener noreferrer">Ver</a></span>
+          <span class="tit">SKIP HOP Bolso Pañalero Forma Verde</span>
+        </li>
+        
+      </ol>
+      <p class="nota">Se usa la más barata. Venta objetivo = S/ 319 × 0.92 = S/ 294.</p>
+      
+      <div class="buscar">Buscar «Skip Hop Forma» en:
+        <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=Skip%20Hop%20Forma" target="_blank" rel="noopener noreferrer">Falabella</a><a href="https://www.oechsle.pe/Skip%20Hop%20Forma?_q=Skip%20Hop%20Forma&amp;map=ft" target="_blank" rel="noopener noreferrer">Oechsle</a><a href="https://simple.ripley.com.pe/busqueda?term=Skip%20Hop%20Forma" target="_blank" rel="noopener noreferrer">Ripley</a><a href="https://listado.mercadolibre.com.pe/Skip-Hop-Forma" target="_blank" rel="noopener noreferrer">Mercado Libre</a>
+      </div>
+    </div></td>
+  </tr>
+  
+  </tbody>
+</table>
+</div>
+<p class="vacio" id="vacio">Ningún producto coincide.</p>
+
+
+<details style="margin-top:16px"><summary class="meta">18 consultas fallaron hoy</summary>
+  <ul class="meta"><li>mercadolibre · kyte_pijama_bambu: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · kyte_sleep_bag: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · kyte_enterizo: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · kyte_toalla: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · little_sleepies_pack2: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · posh_peanut_swaddle: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · posh_peanut_enterizo: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · kickee_pijama: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · hanna_pijama: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · halo_sleepsack: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · aden_anais_muselina: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · skip_hop_mochila: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · skip_hop_forma: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · solly_fular: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · ergobaby_omni360: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · hatch_rest2: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · freshly_picked_zapatos: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li><li>mercadolibre · carters_pants4: HTTP 403: la API pide token; configura ML_CLIENT_ID y ML_CLIENT_SECRET</li></ul>
+</details>
+
+
+<footer>Generado 2026-11-21T18:48:27+00:00 · Tipo de cambio 3.453 SUNAT</footer>
+</div>
+
+<script>
+(function () {
+  var filas = Array.prototype.slice.call(document.querySelectorAll("tbody tr.fila"));
+  var chips = document.querySelectorAll(".chip"), q = document.getElementById("q");
+  var estado = "";
+  function aplicar() {
+    var t = q.value.trim().toLowerCase(), visibles = 0;
+    filas.forEach(function (tr) {
+      var ok = (!estado || tr.dataset.estado === estado) && (!t || tr.dataset.texto.indexOf(t) !== -1);
+      tr.style.display = ok ? "" : "none";
+      var det = document.getElementById("lima-" + tr.dataset.id);
+      if (det) det.style.display = ok ? "" : "none";
+      if (ok) visibles++;
+    });
+    document.getElementById("vacio").style.display = visibles ? "none" : "block";
+  }
+  chips.forEach(function (c) {
+    c.addEventListener("click", function () {
+      estado = c.dataset.f;
+      chips.forEach(function (o) { o.setAttribute("aria-pressed", o === c ? "true" : "false"); });
+      aplicar();
+    });
+  });
+  q.addEventListener("input", aplicar);
+  document.querySelectorAll(".ref-btn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var det = document.getElementById(b.getAttribute("aria-controls"));
+      var abrir = det.hidden;
+      det.hidden = !abrir;
+      b.setAttribute("aria-expanded", abrir ? "true" : "false");
+      b.closest("tr").classList.toggle("abierta", abrir);
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
