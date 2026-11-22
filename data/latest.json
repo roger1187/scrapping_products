@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-11-21",
-  "generado": "2026-11-21T18:48:27+00:00",
+  "fecha": "2026-11-22",
+  "generado": "2026-11-22T19:09:51+00:00",
   "tipo_cambio": 3.453,
   "tipo_cambio_fuente": "SUNAT",
   "productos": [
@@ -45,15 +45,6 @@
           "envio_gratis": true,
           "fecha": "2026-11-20",
           "nota": "60% OFF"
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 20.0,
-          "url": "https://www.amazon.com/dp/B09CK7T6B5",
-          "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Lacey",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
         },
         {
           "tienda": "Expressions Boutique NY",
@@ -256,15 +247,6 @@
           "nota": ""
         },
         {
-          "tienda": "Amazon",
-          "precio_usd": 12.44,
-          "url": "https://www.amazon.com/dp/B0744PN2W1",
-          "titulo": "Simple Joys by Carter's Baby 4-Pack Neutral Pant",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
           "tienda": "Carter's",
           "precio_usd": 24.5,
           "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:13289385413509727291,productid:5610722888338128902,headlineOfferDocid:16311896955232070860,imageDocid:14948416536730257242,rds:PC_644703965004512988|PROD_PC_644703965004512988,gpcid:6026415172232255332,mid:576462913295297902,pvt:a&hl=en&gl=us&udm=28",
@@ -313,14 +295,14 @@
         {
           "tienda": "Falabella",
           "precio_pen": 104.93,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Niña Pack X4 Algodón"
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
         },
         {
           "tienda": "Falabella",
           "precio_pen": 104.93,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Niña Pack X4 Algodón"
         }
       ],
       "precio_usa_usd": 2.7,
@@ -419,7 +401,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:10655455600389873198,productid:11410387057342418338,headlineOfferDocid:6424200755761688651,imageDocid:9968084585378963413,gpcid:2888090337697723881,mid:576462556127400634,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Footie",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -428,7 +410,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:1114763429251177870,productid:8843023135629406348,headlineOfferDocid:4558120867896616668,imageDocid:6769903692735820700,rds:PC_11290687332454285529|PROD_PC_11290687332454285529,gpcid:13660465164477407719,mid:576462576403004862,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Girl's Kickee Pants Muffin Ruffle Footie with Zipper",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "58% OFF"
         },
         {
@@ -437,7 +419,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:10355542124254703169,headlineOfferDocid:10355542124254703169,imageDocid:16850887910375034846,rds:PC_14037504057568924342|PROD_PC_14037504057568924342,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Footie With Zipper | Nordic Print",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -446,7 +428,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:17949042584557260251,productid:2285236733794682560,headlineOfferDocid:4244764851642420709,imageDocid:8030289662078908892,rds:PC_10606200872514763091|PROD_PC_10606200872514763091,gpcid:1900594181532466112,mid:576462576505857992,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Baby Kickee Pants Ruffle Footie with 2-Way Zipper",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "49% OFF"
         },
         {
@@ -455,7 +437,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:16928987516682964615,productid:252974356996562,headlineOfferDocid:16560471291534321625,imageDocid:6758204521367703970,rds:PC_12576180346493688390|PROD_PC_12576180346493688390,gpcid:2639056558946490025,mid:576462576354512721,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Baby Kickee Pants Print Footie with Zipper",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "50% OFF"
         },
         {
@@ -464,7 +446,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:7060729055757742353,productid:10374988196108460970,headlineOfferDocid:9306478482100156039,imageDocid:4076243150486272823,gpcid:18376197316691934139,mid:576462859587613049,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Bamboo Footie with Zipper",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "37% OFF"
         },
         {
@@ -473,7 +455,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:14247069966457058751,productid:9054478269358315048,headlineOfferDocid:13444216127381208112,imageDocid:4793676997730310423,rds:PC_10600442217070074636|PROD_PC_10600442217070074636,gpcid:10600442217070074636,mid:576462916609434197,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Footie Print",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "30% OFF"
         },
         {
@@ -482,7 +464,7 @@
           "url": "https://www.amazon.com/dp/B06XWQHS5X",
           "titulo": "KICKEE Pants Little Girls Basic Muffin Ruffle Footie with Snaps",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -491,7 +473,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:2558469680511226153,headlineOfferDocid:2558469680511226153,imageDocid:6352542876988609996,rds:PC_16632058195102892341|PROD_PC_16632058195102892341,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants | Zipper Footie | Agave 9/12M",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "20% OFF"
         },
         {
@@ -500,7 +482,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:15494158157793655200,productid:6574679033662225585,headlineOfferDocid:16353288187103275159,imageDocid:11952382026452498394,gpcid:7689099270792285383,mid:576462916511953485,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Baby KicKee Pants Bamboo Footie with 2-Way Zipper",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "20% OFF"
         },
         {
@@ -509,7 +491,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:10090305609100192157,productid:11738672292587084117,headlineOfferDocid:5560953348412293078,imageDocid:6163318111570505005,gpcid:12282270987278567811,mid:576462567968851813,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Newborn Kickee Pants Print Ruffle Footie",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -518,7 +500,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:12573601461470493084,headlineOfferDocid:12573601461470493084,imageDocid:14975414847763953352,rds:PC_12353096807578509968|PROD_PC_12353096807578509968,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Sport Stripe Zipper Footie",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -527,7 +509,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:4355234369947216721,headlineOfferDocid:4355234369947216721,imageDocid:11415324933441614677,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Natural Cloud Sky Footie",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -536,7 +518,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:1458271706598028058,productid:2179231783719509833,headlineOfferDocid:11849627844644501700,imageDocid:18377343437898388554,rds:PC_4275498321383605932|PROD_PC_4275498321383605932,gpcid:4275498321383605932,mid:576462917057568558,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Kickee Pants Ruffle Footie with Snaps",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -545,7 +527,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=productid:17561681251043681112,headlineOfferDocid:17561681251043681112,imageDocid:6742911675090978565,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "KicKee Pants - Print Footie with 2 Way Zipper in Moonlight Scandinavian Animals 18-24M",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -554,7 +536,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:7348460072355504684,productid:5965089043303109522,headlineOfferDocid:1955812745690538826,imageDocid:18039888471424477233,rds:PC_12576180346493688390|PROD_PC_12576180346493688390,gpcid:2869891412716920018,mid:576462916468146838,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Baby Kickee Pants Print Footie with 2 Way Zipper Jumpsuit",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -563,7 +545,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:14613121463574900232,productid:1199994113931344975,headlineOfferDocid:16047788588561773563,imageDocid:16283658286448524971,rds:PC_4580841628550617620|PROD_PC_4580841628550617620,gpcid:17981856813574796771,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Infant Girl's Kickee Pants Muffin Ruffle Footie with Zipper",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         }
       ],
@@ -575,7 +557,7 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kickee Pants footie&prds=catalogid:10655455600389873198,productid:11410387057342418338,headlineOfferDocid:6424200755761688651,imageDocid:9968084585378963413,gpcid:2888090337697723881,mid:576462556127400634,pvt:a&hl=en&gl=us&udm=28",
       "titulo_ganador": "Kickee Pants Footie",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-21",
       "nota_usa": "",
       "precio_lima_ref_pen": 270,
       "tienda_lima_ref": "Referencia manual",
@@ -584,154 +566,10 @@
       "margen_pen": 184,
       "margen_pct": 73.9,
       "estado": "VERDE",
-      "precio_usa_ayer": 5.0,
-      "delta_pct_vs_ayer": 200.0,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Whatnot"
-    },
-    {
-      "id": "aden_anais_muselina",
-      "marca": "Aden",
-      "nombre": "Manta muselina pack x4",
-      "tc": 3.453,
-      "ranking_tiendas": [
-        {
-          "tienda": "Poshmark",
-          "precio_usd": 12.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:16446364043997212707,headlineOfferDocid:16446364043997212707,imageDocid:117908938671245097,rds:PC_10036976364349439571|PROD_PC_10036976364349439571,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + Anais Other | Aden + Anais Woodland Animals Muslin Swaddle - 44x44 | Color: Cream/Tan | Size: Osbb | Ktz412's Closet",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "40% OFF"
-        },
-        {
-          "tienda": "eBay",
-          "precio_usd": 21.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:10893594073162179206,headlineOfferDocid:10893594073162179206,imageDocid:12623002233464149361,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden & Anais Swaddle Blanket Bundle 43x44",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Mercari",
-          "precio_usd": 21.43,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:104236487700070151,headlineOfferDocid:104236487700070151,imageDocid:9193071889476081282,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "aden & anais Aden And Anais Ideal Baby 3 Muslin Swaddle Blankets BNIP - New Kids | Color: Blue/White/Salmon",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "23% OFF"
-        },
-        {
-          "tienda": "Depop",
-          "precio_usd": 25.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:5956742971437731680,headlineOfferDocid:5956742971437731680,imageDocid:7196057382463854921,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + Anais Disney Essentials Swaddle Wrap 3 Pack 0-3 Months Multicolor",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Kohl's",
-          "precio_usd": 29.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:9337779089495419008,productid:16267424643092564371,headlineOfferDocid:5944233034040637388,imageDocid:10473359527995597266,rds:PC_2754526567559849176|PROD_PC_2754526567559849176,gpcid:8344902833932999890,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden Aden + anais Silky Soft Swaddle",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Little For Now",
-          "precio_usd": 31.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:12062312822604054966,headlineOfferDocid:12062312822604054966,imageDocid:16107165081380292890,rds:PC_14731483452019227406|PROD_PC_14731483452019227406,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + Anais Swaddles Two Pack",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 33.96,
-          "url": "https://www.amazon.com/dp/B074G5GY68",
-          "titulo": "aden + anais Essentials Muslin Swaddle Blankets for Baby Girls and Boys, Newborn Receiving Blanket for Swaddling, 100% Cotton Baby Swaddle Wrap, 4 Pack, Dapper",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Babylist",
-          "precio_usd": 34.95,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:2261984568276511849,headlineOfferDocid:2261984568276511849,imageDocid:12810401098311942630,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + Anais Essentials Wrap Swaddles (3 Pack) in Garden Florals Size 0-3 Months | 100% Cotton",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Walmart",
-          "precio_usd": 34.95,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:11163422278027284504,headlineOfferDocid:11163422278027284504,imageDocid:14330200048880037818,rds:PC_5567429733106165913|PROD_PC_5567429733106165913,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + anais Essentials No Zip Wrap Swaddles, Garden Floral, Pink, Girls, Newborn, 0-3 Months, 3-Pack",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "BabySupermarket",
-          "precio_usd": 35.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:373383220201957171,headlineOfferDocid:373383220201957171,imageDocid:17978799309790062530,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + Anais Easy Swaddle Wraps 3PK Flowers Bloom for 0-6 Months - Soft & Secure Baby Sleep",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "PeppyParents",
-          "precio_usd": 49.95,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:15528935952117473458,productid:186061872210136826,headlineOfferDocid:12395424872215395732,imageDocid:8063366413383789699,rds:PC_13632312283465526892|PROD_PC_13632312283465526892,gpcid:13632312283465526892,mid:576462783972531714,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Aden + anais Classic swaddles, lovely, 4-Pack",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "GoSupps",
-          "precio_usd": 174.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:16936086432172760085,headlineOfferDocid:16936086432172760085,imageDocid:5657474219804170754,rds:PC_12191453168963325522|PROD_PC_12191453168963325522,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "aden + anais Muslin Swaddle Plus Baby Star Baby Star - Elephants",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "10% OFF"
-        }
-      ],
-      "lima_estimado": false,
-      "busqueda_lima": "Aden Anais muselina",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 209.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
-          "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba"
-        }
-      ],
-      "precio_usa_usd": 12.0,
-      "tienda_ganadora": "Poshmark",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:16446364043997212707,headlineOfferDocid:16446364043997212707,imageDocid:117908938671245097,rds:PC_10036976364349439571|PROD_PC_10036976364349439571,pvt:hg&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Aden + Anais Other | Aden + Anais Woodland Animals Muslin Swaddle - 44x44 | Color: Cream/Tan | Size: Osbb | Ktz412's Closet",
-      "envio_gratis": false,
-      "fecha_precio_usa": "2026-11-16",
-      "nota_usa": "40% OFF",
-      "precio_lima_ref_pen": 209,
-      "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 52,
-      "venta_objetivo_pen": 192,
-      "margen_pen": 140,
-      "margen_pct": 73.1,
-      "estado": "VERDE",
-      "precio_usa_ayer": 12.0,
+      "precio_usa_ayer": 15.0,
       "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "VERDE",
-      "tienda_ayer": "Poshmark"
+      "tienda_ayer": "Little Labels Co"
     },
     {
       "id": "hanna_pijama",
@@ -745,7 +583,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=productid:16338675127153932960,headlineOfferDocid:16338675127153932960,imageDocid:12011835885534004631,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Hanna Andersson Baby Gnome Sweet Gnome Holiday Pajamas Sz 6-12 mos 70cm NWT",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -754,7 +592,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:16742675707617124092,productid:14031705887358235994,headlineOfferDocid:4475727967796191391,imageDocid:3325433593488117836,rds:PC_3071582484542347150|PROD_PC_3071582484542347150,gpcid:3071582484542347150,mid:576462885622167290,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Hanna Andersson HannaJams Sleeper Pajamas in 100% Organic Combed Cotton Baby Girls'",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": "50% OFF"
         },
         {
@@ -763,7 +601,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=productid:15498995130834133300,headlineOfferDocid:15498995130834133300,imageDocid:2013358833355260259,rds:PC_4397519375498630722|PROD_PC_4397519375498630722,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Hanna Andersson Pajamas | Nwt Moon And Back By Hanna Andersson Baby Long John Pajama Set | Color: Blue/Red/Tan | Size: 90cm/3y | Yolandava's Closet",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -772,7 +610,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=catalogid:9912841743475654871,productid:3711477810195853135,headlineOfferDocid:13582203554629623074,imageDocid:16694933800660993411,rds:PC_6534638560674454624|PROD_PC_6534638560674454624,gpcid:6534638560674454624,mid:576462575017815913,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "Hanna Andersson Pajamas Toddler Hanna Andersson Pajamas Sleeper",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -781,7 +619,7 @@
           "url": "https://www.amazon.com/dp/B0H84ZC77D",
           "titulo": "Hanna Andersson HannaJams Baby Organic Cotton Long Sleeve Sleeper",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -790,7 +628,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=productid:4410123564796529149,headlineOfferDocid:4410123564796529149,imageDocid:14952319966976445059,rds:PC_8084523185284303509|PROD_PC_8084523185284303509,pvt:a&hl=en&gl=us&udm=28",
           "titulo": "HANNA ANDERSSON - TB - KIDS LONG JOHN PAJAMA SET - COLORFUL CATERPILLAR 5",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         }
       ],
@@ -802,7 +640,7 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Hanna Andersson organic cotton pajamas baby&prds=productid:16338675127153932960,headlineOfferDocid:16338675127153932960,imageDocid:12011835885534004631,pvt:a&hl=en&gl=us&udm=28",
       "titulo_ganador": "Hanna Andersson Baby Gnome Sweet Gnome Holiday Pajamas Sz 6-12 mos 70cm NWT",
       "envio_gratis": false,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-21",
       "nota_usa": "",
       "precio_lima_ref_pen": 310,
       "tienda_lima_ref": "Referencia manual",
@@ -811,10 +649,10 @@
       "margen_pen": 208,
       "margen_pct": 72.8,
       "estado": "VERDE",
-      "precio_usa_ayer": 14.99,
-      "delta_pct_vs_ayer": 20.1,
+      "precio_usa_ayer": 18.0,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "VERDE",
-      "tienda_ayer": "hannaandersson"
+      "tienda_ayer": "eBay"
     },
     {
       "id": "ergobaby_omni360",
@@ -847,15 +685,6 @@
           "titulo": "Ergobaby Omni 360 Carrier, Grey Diamond",
           "envio_gratis": false,
           "fecha": "2026-11-17",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 134.0,
-          "url": "https://www.amazon.com/dp/B07B41952V",
-          "titulo": "Ergobaby Omni Classic Baby Carrier for Newborn to Toddlers 0-48 Months",
-          "envio_gratis": true,
-          "fecha": null,
           "nota": ""
         },
         {
@@ -918,208 +747,136 @@
       "tienda_ayer": "Beanstalk"
     },
     {
-      "id": "posh_peanut_enterizo",
-      "marca": "Posh Peanut",
-      "nombre": "Enterizo de bambú estampado",
-      "tc": 3.453,
-      "ranking_tiendas": [
-        {
-          "tienda": "Amazon",
-          "precio_usd": 18.87,
-          "url": "https://www.amazon.com/dp/B0DL751N5H",
-          "titulo": "Posh Peanut Baby Girl Sleeper One Piece",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Poshmark",
-          "precio_usd": 22.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:3934293036395548593,headlineOfferDocid:3934293036395548593,imageDocid:9877615701466045188,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh Peanut Pajamas | Posh Peanut Teal Holiday Nutcracker Footed One-Piece | Color: Green | Size: Newborn | Mlleonard21's Closet",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": "45% OFF"
-        },
-        {
-          "tienda": "Mercari",
-          "precio_usd": 27.21,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:2559990666436610793,headlineOfferDocid:2559990666436610793,imageDocid:2051312454044569629,rds:PC_1343594033117791080|PROD_PC_1343594033117791080,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh peanut Boy's Bamboo Footie With Zipper - Yeti (Snowboarding) Size Preemie - New Kids | Color: Blue | Size: Newborn",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Nordstrom",
-          "precio_usd": 28.5,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:17037659704331741693,productid:18059842444963750167,headlineOfferDocid:1438875251529977393,imageDocid:17363240913027421264,gpcid:14206697857492553259,mid:576462563310913986,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh Peanut Oxford Footie Zippered One Piece Baby",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "25% OFF"
-        },
-        {
-          "tienda": "Posh Peanut",
-          "precio_usd": 29.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:11816188395366531247,productid:719800252241640722,headlineOfferDocid:7937378653799497789,imageDocid:17713467543852079979,gpcid:7597063026167361903,mid:576462913715066079,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh Peanut Baby's Hattie Blue Footie Zippered One Piece, 6-9 mo, Viscose from Bamboo",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "14% OFF"
-        },
-        {
-          "tienda": "The Strawberry Shop",
-          "precio_usd": 37.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:9210717851368113115,headlineOfferDocid:9210717851368113115,imageDocid:625590401019704159,rds:PC_1343594033117791080|PROD_PC_1343594033117791080,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh Peanut Nutcracker Footie - Baby Christmas Zip Onesie",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Maisonette",
-          "precio_usd": 40.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:13701762124493586081,productid:7083350524651006706,headlineOfferDocid:13945966370801378914,imageDocid:6094557331344361486,gpcid:6743192790417128649,mid:576462563294678098,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Posh Peanut Baby Girl's Roberta Picot Footie Ruffled Zippered One Piece Pink",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Ragg Tattoo",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:12211154506370103619,headlineOfferDocid:12211154506370103619,imageDocid:16297884955654085805,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "POSH PEANUT- Laney Footie Zippered One Piece",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Posh Peanut",
-      "ofertas_lima": [],
-      "precio_usa_usd": 18.87,
-      "tienda_ganadora": "Amazon",
-      "url_ganadora": "https://www.amazon.com/dp/B0DL751N5H",
-      "titulo_ganador": "Posh Peanut Baby Girl Sleeper One Piece",
-      "envio_gratis": true,
-      "fecha_precio_usa": null,
-      "nota_usa": "",
-      "precio_lima_ref_pen": 290,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 81,
-      "venta_objetivo_pen": 267,
-      "margen_pen": 185,
-      "margen_pct": 69.5,
-      "estado": "VERDE",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
-    },
-    {
       "id": "halo_sleepsack",
       "marca": "Halo",
       "nombre": "Saco de dormir SleepSack",
       "tc": 3.453,
       "ranking_tiendas": [
         {
-          "tienda": "Mercari",
-          "precio_usd": 14.25,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:15444923016089720615,headlineOfferDocid:15444923016089720615,imageDocid:524577299885595266,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo Sleepsack - New",
+          "tienda": "eBay",
+          "precio_usd": 13.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:6277205799767363178,headlineOfferDocid:6277205799767363178,imageDocid:2233318629489166301,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "HALO Sleepsack 100% Cotton Wearable Blanket - Gray/White Cameo",
           "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "5% OFF"
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Grailed",
+          "precio_usd": 15.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:9811111655804245296,headlineOfferDocid:9811111655804245296,imageDocid:6970543810836625917,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo Sleepsack 100% Cotton Wearable Blanket Gray Cameo, Women's",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
         },
         {
           "tienda": "Poshmark",
-          "precio_usd": 16.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:9415535878950351719,headlineOfferDocid:9415535878950351719,imageDocid:11826368439270504213,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo Pajamas | Halo Sleepsack Swaddle In Cream New | Color: Cream | Size: Newborn | Melissa98948's Closet",
+          "precio_usd": 22.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:860741235102652804,headlineOfferDocid:860741235102652804,imageDocid:8906467406485791456,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo Pajamas | Halo Sleepsack Wearable Blanket Mint Green Cotton Baby Unisex Size Xs Tog 0.5 | Color: Green | Size: 0-3mb | Arianabonill673's Closet",
           "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "57% OFF"
+          "fecha": null,
+          "nota": ""
         },
         {
-          "tienda": "eBay",
-          "precio_usd": 18.7,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:15004924347445598464,headlineOfferDocid:15004924347445598464,imageDocid:8841268647010193749,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo L3288 Sleepsack Swaddle S/p 3-6 Months Cream",
+          "tienda": "HALO Sleep",
+          "precio_usd": 26.24,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:1143172644120646726,productid:5318790881558173321,headlineOfferDocid:11718008558147311284,imageDocid:14706741511594016263,rds:PC_211131897989035573|PROD_PC_211131897989035573,gpcid:211131897989035573,mid:576462895691037436,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "HALO Baby Sleepsack Wearable Blanket, 100% Cotton - Lullaby Forest",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": "15% OFF"
+          "fecha": null,
+          "nota": "25% OFF"
         },
         {
-          "tienda": "mercari",
-          "precio_usd": 20.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:12727446776477247486,headlineOfferDocid:12727446776477247486,imageDocid:8493962072627146172,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo sleepsack Swaddle",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "20% OFF"
+          "tienda": "EasyTot",
+          "precio_usd": 34.2,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:10619489948574111501,productid:1678852273471687339,headlineOfferDocid:13332176850844765891,imageDocid:8459306071129859320,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,gpcid:5839137378436160267,mid:576462568263820156,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo Cotton SleepSack Swaddle",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "10% OFF"
         },
         {
-          "tienda": "Amazon",
-          "precio_usd": 27.96,
-          "url": "https://www.amazon.com/dp/B002L7Y30I",
-          "titulo": "HALO Sleepsack Plush Dot Velboa Wearable Blanket, TOG 1.5",
+          "tienda": "Babylist",
+          "precio_usd": 34.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:10304127662017883916,productid:651506110025610768,headlineOfferDocid:2906166508181762312,imageDocid:1708131295586948429,rds:PC_211131897989035573|PROD_PC_211131897989035573,gpcid:211131897989035573,mid:576462895691037436,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo SleepSack Wearable Blanket-Cotton Medium / Cream",
           "envio_gratis": true,
           "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "limolin",
-          "precio_usd": 29.95,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:8632281141779001237,productid:11321025056327608453,headlineOfferDocid:14795741103736747123,imageDocid:15230347151722952720,rds:PC_10146571741646167601|PROD_PC_10146571741646167601,gpcid:10146571741646167601,mid:576462872469156603,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "HALO Baby Harry Sleepsack Wearable Blanket",
+          "tienda": "Albee Baby",
+          "precio_usd": 34.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:10619489948574111501,productid:1678852273471687339,headlineOfferDocid:855374484575753875,imageDocid:8459306071129859320,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,gpcid:5839137378436160267,mid:576462568263820156,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo Cotton SleepSack Swaddle",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "MyStrollers",
-          "precio_usd": 29.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:3037441278963156902,headlineOfferDocid:3037441278963156902,imageDocid:389901097493849562,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo Halo Sleepsack 100% Cotton Midnight Moons Blue- Large",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Baby Central",
-          "precio_usd": 29.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:17121321036305137829,headlineOfferDocid:17121321036305137829,imageDocid:389901097493849562,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Halo Halo Sleepsack 100% Cotton Midnight Moons Blue- Large",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
         },
         {
           "tienda": "Nordstrom",
-          "precio_usd": 37.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:2356958858164962673,headlineOfferDocid:2356958858164962673,imageDocid:10563139786360348322,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "HALO SleepSack Swaddle in Great Barrier Reef at Nordstrom, Size 3-6M",
+          "precio_usd": 34.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:10619489948574111501,productid:1678852273471687339,headlineOfferDocid:12477585292138546234,imageDocid:8459306071129859320,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,gpcid:5839137378436160267,mid:576462568263820156,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo Cotton SleepSack Swaddle",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "GoSupps",
-          "precio_usd": 59.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:2849855620032770671,headlineOfferDocid:2849855620032770671,imageDocid:10837899742663630875,rds:PC_5839137378436160267|PROD_PC_5839137378436160267,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "HALO Baby Sleeping Bag Swaddle | 1.5 TOG Sleepsack | 100% Cotton Pink Moons Sleeping Sack for Newborn Babies | Easy Zip Access Nappy Change | Wearable",
+          "tienda": "Walmart",
+          "precio_usd": 44.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:20181742390801727,productid:17698160798128753108,headlineOfferDocid:7060502990556846723,imageDocid:14795634052100749182,rds:PC_1576702370962515801|PROD_PC_1576702370962515801,gpcid:1576702370962515801,mid:576462851343411993,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "HALO Supersoft Bamboo Sleepsack Wearable Blanket - Blue Fog",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Target",
+          "precio_usd": 44.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:2270977491324504906,productid:7990340081804479584,headlineOfferDocid:17839443904566451333,imageDocid:10651926780337914189,rds:PC_1576702370962515801|PROD_PC_1576702370962515801,gpcid:1576702370962515801,mid:576462851343411993,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "HALO Supersoft Viscose from Bamboo 1.5 TOG Sleepsack Wearable Blanket - Medium - Mocha",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Kohl's",
+          "precio_usd": 49.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=catalogid:14306949364479231170,productid:4478951042797897232,headlineOfferDocid:3447137750534640073,imageDocid:4614307651149654303,rds:PC_27487284309157163|PROD_PC_27487284309157163,gpcid:27487284309157163,mid:576462828076252943,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "HALO Supersoft Bamboo Viscose 2.0 TOG Sleepsack Swaddle",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Nifty Concept",
+          "precio_usd": 107.11,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:1745624516566479404,headlineOfferDocid:1745624516566479404,imageDocid:7641156202107111166,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Wearable Blanket Halo SleepSack Cotton NonSterile",
           "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "14% OFF"
+          "fecha": null,
+          "nota": ""
         },
         {
           "tienda": "MFI Medical",
-          "precio_usd": 92.05,
-          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:16032381559301957228,headlineOfferDocid:16032381559301957228,imageDocid:6439840727307925649,pvt:hg&hl=en&gl=us&udm=28",
+          "precio_usd": 112.19,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:7614562482034942046,headlineOfferDocid:7614562482034942046,imageDocid:6439840727307925649,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Wearable Blanket Halo SleepSack Cotton NonSterile (Case of 3)",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
+        },
+        {
+          "tienda": "Axiom Medicals",
+          "precio_usd": 143.4,
+          "url": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:7386603439134255754,headlineOfferDocid:7386603439134255754,imageDocid:7789994876146603786,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Wearable Blanket Halo SleepSack Cotton NonSterile MK-1240554",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "5% OFF"
         }
       ],
       "lima_estimado": false,
@@ -1134,13 +891,13 @@
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
@@ -1162,24 +919,125 @@
           "titulo": "HALO Swaddle SleepSack Microfleece Crema Talla S Unisex"
         }
       ],
-      "precio_usa_usd": 14.25,
-      "tienda_ganadora": "Mercari",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:15444923016089720615,headlineOfferDocid:15444923016089720615,imageDocid:524577299885595266,pvt:hg&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Halo Sleepsack - New",
+      "precio_usa_usd": 13.95,
+      "tienda_ganadora": "eBay",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Halo SleepSack wearable blanket&prds=productid:6277205799767363178,headlineOfferDocid:6277205799767363178,imageDocid:2233318629489166301,rds:PC_211131897989035573|PROD_PC_211131897989035573,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "HALO Sleepsack 100% Cotton Wearable Blanket - Gray/White Cameo",
       "envio_gratis": false,
-      "fecha_precio_usa": "2026-11-16",
-      "nota_usa": "5% OFF",
+      "fecha_precio_usa": null,
+      "nota_usa": "",
       "precio_lima_ref_pen": 219,
       "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 62,
+      "costo_lima_pen": 60,
       "venta_objetivo_pen": 201,
-      "margen_pen": 140,
-      "margen_pct": 69.5,
+      "margen_pen": 141,
+      "margen_pct": 70.1,
       "estado": "VERDE",
       "precio_usa_ayer": 14.25,
-      "delta_pct_vs_ayer": 0.0,
+      "delta_pct_vs_ayer": -2.1,
       "estado_ayer": "VERDE",
       "tienda_ayer": "Mercari"
+    },
+    {
+      "id": "posh_peanut_enterizo",
+      "marca": "Posh Peanut",
+      "nombre": "Enterizo de bambú estampado",
+      "tc": 3.453,
+      "ranking_tiendas": [
+        {
+          "tienda": "Amazon",
+          "precio_usd": 18.87,
+          "url": "https://www.amazon.com/dp/B0DL751N5H",
+          "titulo": "Posh Peanut Baby Girl Sleeper One Piece",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": ""
+        },
+        {
+          "tienda": "Poshmark",
+          "precio_usd": 22.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:3934293036395548593,headlineOfferDocid:3934293036395548593,imageDocid:9877615701466045188,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh Peanut Pajamas | Posh Peanut Teal Holiday Nutcracker Footed One-Piece | Color: Green | Size: Newborn | Mlleonard21's Closet",
+          "envio_gratis": false,
+          "fecha": "2026-11-21",
+          "nota": "45% OFF"
+        },
+        {
+          "tienda": "Mercari",
+          "precio_usd": 27.21,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:2559990666436610793,headlineOfferDocid:2559990666436610793,imageDocid:2051312454044569629,rds:PC_1343594033117791080|PROD_PC_1343594033117791080,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh peanut Boy's Bamboo Footie With Zipper - Yeti (Snowboarding) Size Preemie - New Kids | Color: Blue | Size: Newborn",
+          "envio_gratis": false,
+          "fecha": "2026-11-21",
+          "nota": ""
+        },
+        {
+          "tienda": "Nordstrom",
+          "precio_usd": 28.5,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:17037659704331741693,productid:18059842444963750167,headlineOfferDocid:1438875251529977393,imageDocid:17363240913027421264,gpcid:14206697857492553259,mid:576462563310913986,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh Peanut Oxford Footie Zippered One Piece Baby",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": "25% OFF"
+        },
+        {
+          "tienda": "Posh Peanut",
+          "precio_usd": 29.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:11816188395366531247,productid:719800252241640722,headlineOfferDocid:7937378653799497789,imageDocid:17713467543852079979,gpcid:7597063026167361903,mid:576462913715066079,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh Peanut Baby's Hattie Blue Footie Zippered One Piece, 6-9 mo, Viscose from Bamboo",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": "14% OFF"
+        },
+        {
+          "tienda": "The Strawberry Shop",
+          "precio_usd": 37.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:9210717851368113115,headlineOfferDocid:9210717851368113115,imageDocid:625590401019704159,rds:PC_1343594033117791080|PROD_PC_1343594033117791080,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh Peanut Nutcracker Footie - Baby Christmas Zip Onesie",
+          "envio_gratis": false,
+          "fecha": "2026-11-21",
+          "nota": ""
+        },
+        {
+          "tienda": "Maisonette",
+          "precio_usd": 40.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=catalogid:13701762124493586081,productid:7083350524651006706,headlineOfferDocid:13945966370801378914,imageDocid:6094557331344361486,gpcid:6743192790417128649,mid:576462563294678098,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Posh Peanut Baby Girl's Roberta Picot Footie Ruffled Zippered One Piece Pink",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": ""
+        },
+        {
+          "tienda": "Ragg Tattoo",
+          "precio_usd": 45.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:12211154506370103619,headlineOfferDocid:12211154506370103619,imageDocid:16297884955654085805,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "POSH PEANUT- Laney Footie Zippered One Piece",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Posh Peanut",
+      "ofertas_lima": [],
+      "precio_usa_usd": 18.87,
+      "tienda_ganadora": "Amazon",
+      "url_ganadora": "https://www.amazon.com/dp/B0DL751N5H",
+      "titulo_ganador": "Posh Peanut Baby Girl Sleeper One Piece",
+      "envio_gratis": true,
+      "fecha_precio_usa": "2026-11-21",
+      "nota_usa": "",
+      "precio_lima_ref_pen": 290,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 81,
+      "venta_objetivo_pen": 267,
+      "margen_pen": 185,
+      "margen_pct": 69.5,
+      "estado": "VERDE",
+      "precio_usa_ayer": 18.87,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Amazon"
     },
     {
       "id": "solly_fular",
@@ -1203,15 +1061,6 @@
           "titulo": "Solly Baby Wrap, Stripes",
           "envio_gratis": false,
           "fecha": "2026-11-17",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 55.5,
-          "url": "https://www.amazon.com/dp/B0DBN1CQ76",
-          "titulo": "Solly Baby Wrap, Newborn to Toddler Baby Carrier (8-25 Lbs), Basil",
-          "envio_gratis": true,
-          "fecha": null,
           "nota": ""
         },
         {
@@ -1436,6 +1285,117 @@
       "tienda_ayer": "Beanstalk"
     },
     {
+      "id": "skip_hop_mochila",
+      "marca": "Skip Hop",
+      "nombre": "Pañalera mochila",
+      "tc": 3.453,
+      "ranking_tiendas": [
+        {
+          "tienda": "ntozimandla.co.za",
+          "precio_usd": 25.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:17854325939056622297,headlineOfferDocid:17854325939056622297,imageDocid:13234987205738096233,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Skip Hop Dusty Rose Diaper Backpack Tote Baby Bag Multi Pocket Organizer",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "mercari",
+          "precio_usd": 29.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:4558318703684046746,headlineOfferDocid:4558318703684046746,imageDocid:10604535211824021011,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "skip hop diaper bag",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "17% OFF"
+        },
+        {
+          "tienda": "Mercari",
+          "precio_usd": 38.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:3084060746181769543,headlineOfferDocid:3084060746181769543,imageDocid:4973384675299798657,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Skip Hop Diaper Bag - New Kids | Color: Black",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "30% OFF"
+        },
+        {
+          "tienda": "Babylist",
+          "precio_usd": 55.71,
+          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:18170821463856330085,productid:10535569164851892036,headlineOfferDocid:12156005189511021198,imageDocid:7529301447686692420,rds:PC_15332054845689967458|PROD_PC_15332054845689967458,gpcid:15869898591349611131,mid:576462576504525448,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Skip Hop Mainframe Wide Open Diaper Backpack",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": "29% OFF"
+        },
+        {
+          "tienda": "Depop",
+          "precio_usd": 85.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:11266859957047471486,headlineOfferDocid:11266859957047471486,imageDocid:10744592766036677642,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Skip Hop Women's Large Pink Leather Backpack Diaper Bag",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": false,
+      "busqueda_lima": "Skip Hop pañalera mochila",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 319.2,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado",
+          "titulo": "SKIP HOP Bolso Pañalero Forma Rosado"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 319.2,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
+          "titulo": "SKIP HOP Bolso Pañalero Mainframe Black"
+        },
+        {
+          "tienda": "Oechsle",
+          "precio_pen": 319.2,
+          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p",
+          "titulo": "Bolso Pañalero Skip Hop Forma Mauve Mist"
+        },
+        {
+          "tienda": "Oechsle",
+          "precio_pen": 319.2,
+          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-mainframe-black-2974513/p",
+          "titulo": "Bolso Pañalero Skip Hop Mainframe Black"
+        },
+        {
+          "tienda": "Oechsle",
+          "precio_pen": 319.2,
+          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-verde-salvia-2974531/p",
+          "titulo": "Bolso Pañalero Skip Hop Verde Salvia"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 399.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21090172/bolso-panalero-forma-verde",
+          "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
+        }
+      ],
+      "precio_usa_usd": 25.0,
+      "tienda_ganadora": "ntozimandla.co.za",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:17854325939056622297,headlineOfferDocid:17854325939056622297,imageDocid:13234987205738096233,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Skip Hop Dusty Rose Diaper Backpack Tote Baby Bag Multi Pocket Organizer",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 319,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 108,
+      "venta_objetivo_pen": 294,
+      "margen_pen": 186,
+      "margen_pct": 63.3,
+      "estado": "VERDE",
+      "precio_usa_ayer": 40.0,
+      "delta_pct_vs_ayer": -37.5,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Caterkids Hawaii"
+    },
+    {
       "id": "kyte_enterizo",
       "marca": "Kyte Baby",
       "nombre": "Enterizo de bambú",
@@ -1466,15 +1426,6 @@
           "titulo": "Kyte Baby Sleeveless Romper",
           "envio_gratis": true,
           "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 30.39,
-          "url": "https://www.amazon.com/dp/B08284XQ64",
-          "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
-          "envio_gratis": true,
-          "fecha": null,
           "nota": ""
         },
         {
@@ -1581,18 +1532,9 @@
         {
           "tienda": "Little Sleepies (sitio oficial)",
           "precio_usd": 36.0,
-          "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971021158",
+          "url": "https://littlesleepies.com/products/forest-crew-zippy?variant=47095971053926",
           "titulo": "Little Sleepies Forest Crew Zippy",
           "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 38.0,
-          "url": "https://www.amazon.com/dp/B0DZ32C2D8",
-          "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
-          "envio_gratis": true,
           "fecha": null,
           "nota": ""
         },
@@ -1629,234 +1571,130 @@
       "tienda_ayer": "Mercari"
     },
     {
-      "id": "skip_hop_mochila",
-      "marca": "Skip Hop",
-      "nombre": "Pañalera mochila",
+      "id": "aden_anais_muselina",
+      "marca": "Aden",
+      "nombre": "Manta muselina pack x4",
       "tc": 3.453,
       "ranking_tiendas": [
         {
-          "tienda": "Caterkids Hawaii",
-          "precio_usd": 40.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:5473411506194346096,headlineOfferDocid:5473411506194346096,imageDocid:12747468729078678193,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Diaper Backpack",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "IdeaStage Promotions",
-          "precio_usd": 41.39,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:1834264856520039717,headlineOfferDocid:1834264856520039717,imageDocid:1776763865665718194,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Promotional Skip Hop Diaper Bag Backpack",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Carter's",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:460405846405685864,productid:2573938535065713768,headlineOfferDocid:15942393809134709728,imageDocid:6538583250281732188,rds:PC_2823822332976598210|PROD_PC_2823822332976598210,gpcid:2823822332976598210,mid:576462551038242116,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Luna Backpack Diaper Bag",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": "25% OFF"
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 63.99,
-          "url": "https://www.amazon.com/dp/B0731TBBWF",
-          "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+          "tienda": "eBay",
+          "precio_usd": 19.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:5615814377354175443,headlineOfferDocid:5615814377354175443,imageDocid:17456197302337458626,rds:PC_17198069913304202481|PROD_PC_17198069913304202481,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Aden + Anais Size Small/medium Easy Swaddle In Goodnight Owl",
           "envio_gratis": true,
           "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "Mumzworld",
-          "precio_usd": 63.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:7298004695661755114,headlineOfferDocid:7298004695661755114,imageDocid:8511648734047070427,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop - Luna Diaper Backpack",
+          "tienda": "Zola",
+          "precio_usd": 34.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:14067859690579330128,headlineOfferDocid:14067859690579330128,imageDocid:16160104310570538304,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Aden + Anais Essentials Assorted Interlock Zipless Easy Swaddle Wrap, Set of 3 - Garden floral",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "BabySupermarket",
+          "precio_usd": 35.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:5032396845165345501,productid:13949668230046665685,headlineOfferDocid:154511954420070196,imageDocid:3403211651006454785,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,gpcid:3564033386531003010,mid:576462858171877767,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Wrap Swaddle aden + anais",
           "envio_gratis": false,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "Albee Baby",
-          "precio_usd": 65.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:6770457675907030330,productid:7829848465683920584,headlineOfferDocid:773206695207329235,imageDocid:447455453699078646,rds:PC_9676303224451657633|PROD_PC_9676303224451657633,gpcid:9676303224451657633,mid:576462826539482775,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Duo Diaper Backpack",
+          "tienda": "EasyTot",
+          "precio_usd": 36.9,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:179208002020269308,headlineOfferDocid:179208002020269308,imageDocid:13582317369998544570,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Halo x aden + anais 3-Pack Easy Swaddle Wraps – Safari & Gray, 0-3 months",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "fecha": null,
+          "nota": "10% OFF"
+        },
+        {
+          "tienda": "Nordstrom",
+          "precio_usd": 37.95,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:5032396845165345501,productid:13949668230046665685,headlineOfferDocid:18295929802519919347,imageDocid:3403211651006454785,rds:PC_3564033386531003010|PROD_PC_3564033386531003010,gpcid:3564033386531003010,mid:576462858171877767,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Wrap Swaddle aden + anais",
+          "envio_gratis": true,
+          "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "Skip Hop",
-          "precio_usd": 75.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:8342144131660432089,productid:5878233651977620586,headlineOfferDocid:13353556388519316879,imageDocid:7229583019682779694,rds:PC_10696153664158155|PROD_PC_10696153664158155,gpcid:10696153664158155,mid:576462576179588647,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Suite 6 Piece Diaper Backpack Set",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "tienda": "JCPenney",
+          "precio_usd": 39.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:8566678256088459962,productid:4006037291431609171,headlineOfferDocid:6167965010407114524,imageDocid:2542488958447266468,rds:PC_13632312283465526892|PROD_PC_13632312283465526892,gpcid:13632312283465526892,mid:576462783972531714,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Country Floral Cotton Muslin Swaddle 4 Pack | Aden + anais",
+          "envio_gratis": false,
+          "fecha": null,
           "nota": ""
         },
         {
           "tienda": "Macrobaby",
-          "precio_usd": 75.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:7093046828997008692,productid:1788239416162722984,headlineOfferDocid:17819549450096352389,imageDocid:5680172673106376387,rds:PC_4716341792827384280|PROD_PC_4716341792827384280,gpcid:2890815296443376077,mid:576462887636234829,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Flex Diaper Bag Backpack",
+          "precio_usd": 39.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:8122732404370198850,productid:15257778775535255918,headlineOfferDocid:3660082864046334679,imageDocid:1197456328488858400,rds:PC_13632312283465526892|PROD_PC_13632312283465526892,gpcid:13632312283465526892,mid:576462783972531714,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Aden + Anais Muslin Swaddle Dusty, 4-Pack",
           "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
+          "fecha": null,
+          "nota": "20% OFF"
         },
         {
-          "tienda": "Target",
-          "precio_usd": 78.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:94451137039970771,productid:5872142024868420016,headlineOfferDocid:3683253105064621987,imageDocid:10190973024256519260,rds:PC_14270724394297965420|PROD_PC_14270724394297965420,gpcid:14270724394297965420,mid:576462875869158752,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Forma Next Backpack Diaper Bag",
+          "tienda": "bebeprecious",
+          "precio_usd": 44.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:15623646594673643439,headlineOfferDocid:15623646594673643439,imageDocid:13139841832937615754,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Aden and Anais (PRODUCT) RED Special Edition Organic Designer Swaddles",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "Babylist",
-          "precio_usd": 78.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:17657868882503530164,productid:6858503904195651488,headlineOfferDocid:13573721548313816082,imageDocid:10764229459036094893,gpcid:3413581552893011820,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Forma Diaper Backpack",
+          "tienda": "Family Nation",
+          "precio_usd": 60.36,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=catalogid:12988651391095160383,productid:5996718311378029078,headlineOfferDocid:7538344841768318402,imageDocid:13720598274864240757,rds:PC_4889010041132622004|PROD_PC_4889010041132622004,gpcid:16878656245827060228,mid:576462915979519598,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "aden + anais Organic Swaddle",
           "envio_gratis": true,
-          "fecha": "2026-11-16",
+          "fecha": null,
           "nota": ""
         },
         {
-          "tienda": "Kaya",
-          "precio_usd": 85.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:2417050519933152058,productid:17302160916851613867,headlineOfferDocid:12655412244698410401,imageDocid:2824750930534595972,gpcid:560983326846871844,mid:576462801693205262,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Riverside Ultra Light Diaper Backpack",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "Babesta Online",
-          "precio_usd": 100.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:6902482168882242493,productid:16590898410138828283,headlineOfferDocid:15967365912377154968,imageDocid:6744935581777775865,rds:PC_16626719404840809295|PROD_PC_16626719404840809295,gpcid:474479180691606807,mid:576462563334661920,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Greenwich Simply Chic Diaper Backpack",
-          "envio_gratis": true,
-          "fecha": "2026-11-16",
-          "nota": "LOW PRICE"
-        },
-        {
-          "tienda": "Juvenile Shop",
-          "precio_usd": 150.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=catalogid:1071661730583242271,productid:2740793922438484283,headlineOfferDocid:1883412933684780471,imageDocid:16432284177806411854,rds:PC_18215988302781140775|PROD_PC_18215988302781140775,gpcid:18215988302781140775,mid:576462814111438174,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Evermore 6-in-1 Diaper Backpack Set",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": ""
-        },
-        {
-          "tienda": "GoSupps",
-          "precio_usd": 349.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:15144722737581191774,headlineOfferDocid:15144722737581191774,imageDocid:17817450805691930650,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Skip Hop Diaper Bag Backpack, Greenwich Vari, Toffee Greenwich Toffee",
-          "envio_gratis": false,
-          "fecha": "2026-11-16",
-          "nota": "9% OFF"
-        }
-      ],
-      "lima_estimado": false,
-      "busqueda_lima": "Skip Hop pañalera mochila",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 319.2,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado",
-          "titulo": "SKIP HOP Bolso Pañalero Forma Rosado"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 319.2,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/137957456/BOLSO-PANALERO-MAINFRAME-BLACK",
-          "titulo": "SKIP HOP Bolso Pañalero Mainframe Black"
-        },
-        {
-          "tienda": "Oechsle",
-          "precio_pen": 319.2,
-          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p",
-          "titulo": "Bolso Pañalero Skip Hop Forma Mauve Mist"
-        },
-        {
-          "tienda": "Oechsle",
-          "precio_pen": 319.2,
-          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-mainframe-black-2974513/p",
-          "titulo": "Bolso Pañalero Skip Hop Mainframe Black"
-        },
-        {
-          "tienda": "Oechsle",
-          "precio_pen": 319.2,
-          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-verde-salvia-2974531/p",
-          "titulo": "Bolso Pañalero Skip Hop Verde Salvia"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 399.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21090172/bolso-panalero-forma-verde",
-          "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
-        }
-      ],
-      "precio_usa_usd": 40.0,
-      "tienda_ganadora": "Caterkids Hawaii",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Skip Hop diaper bag backpack&prds=productid:5473411506194346096,headlineOfferDocid:5473411506194346096,imageDocid:12747468729078678193,pvt:hg&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Skip Hop Diaper Backpack",
-      "envio_gratis": false,
-      "fecha_precio_usa": "2026-11-16",
-      "nota_usa": "",
-      "precio_lima_ref_pen": 319,
-      "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 173,
-      "venta_objetivo_pen": 294,
-      "margen_pen": 121,
-      "margen_pct": 41.2,
-      "estado": "VERDE",
-      "precio_usa_ayer": 40.0,
-      "delta_pct_vs_ayer": 0.0,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Caterkids Hawaii"
-    },
-    {
-      "id": "hatch_rest2",
-      "marca": "Hatch",
-      "nombre": "Luz de sueño Rest 2nd Gen",
-      "tc": 3.453,
-      "ranking_tiendas": [
-        {
-          "tienda": "Amazon",
-          "precio_usd": 66.49,
-          "url": "https://www.amazon.com/dp/B0F7C6XJ3P",
-          "titulo": "Hatch Baby Sound Machine & Night Light Routine Builder (Putty)",
+          "tienda": "desertcart.co.za",
+          "precio_usd": 105.93,
+          "url": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:10367411841991691423,headlineOfferDocid:10367411841991691423,imageDocid:3060707001941673296,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "aden + anais Essentials Easy Wrap Swaddle, Cotton Knit Baby Wrap, Newborn Wearable Swaddle Sleep Sack",
           "envio_gratis": true,
           "fecha": null,
           "nota": ""
         }
       ],
-      "lima_estimado": true,
-      "busqueda_lima": "Hatch Rest",
-      "ofertas_lima": [],
-      "precio_usa_usd": 66.49,
-      "tienda_ganadora": "Amazon",
-      "url_ganadora": "https://www.amazon.com/dp/B0F7C6XJ3P",
-      "titulo_ganador": "Hatch Baby Sound Machine & Night Light Routine Builder (Putty)",
+      "lima_estimado": false,
+      "busqueda_lima": "Aden Anais muselina",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 209.0,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/155608226/manta-swaddle-aden-anais-harry-potter-algodan-2-pack-beba",
+          "titulo": "MANTA Swaddle aden anais Harry Potter Algodan 2 Pack Beba"
+        }
+      ],
+      "precio_usa_usd": 19.99,
+      "tienda_ganadora": "eBay",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=aden + anais muslin swaddle 4 pack&prds=productid:5615814377354175443,headlineOfferDocid:5615814377354175443,imageDocid:17456197302337458626,rds:PC_17198069913304202481|PROD_PC_17198069913304202481,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Aden + Anais Size Small/medium Easy Swaddle In Goodnight Owl",
       "envio_gratis": true,
       "fecha_precio_usa": null,
       "nota_usa": "",
-      "precio_lima_ref_pen": 520,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 287,
-      "venta_objetivo_pen": 478,
-      "margen_pen": 191,
-      "margen_pct": 40.0,
+      "precio_lima_ref_pen": 209,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 86,
+      "venta_objetivo_pen": 192,
+      "margen_pen": 106,
+      "margen_pct": 55.1,
       "estado": "VERDE",
-      "precio_usa_ayer": 79.99,
-      "delta_pct_vs_ayer": -16.9,
-      "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Amazon"
+      "precio_usa_ayer": 12.0,
+      "delta_pct_vs_ayer": 66.6,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Poshmark"
     },
     {
       "id": "kyte_pijama_bambu",
@@ -1870,7 +1708,7 @@
           "url": "https://www.amazon.com/dp/B084RQ3735",
           "titulo": "KYTE BABY Sponsored Ad - Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -2035,7 +1873,7 @@
       "url_ganadora": "https://www.amazon.com/dp/B084RQ3735",
       "titulo_ganador": "KYTE BABY Sponsored Ad - Infant and Toddler Dual Zipper Footie, Ultra-Soft Rayon Made From Bamboo, Boys and Girls Clothing",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-21",
       "nota_usa": "",
       "precio_lima_ref_pen": 230,
       "tienda_lima_ref": "Referencia manual",
@@ -2044,10 +1882,10 @@
       "margen_pen": 72,
       "margen_pct": 34.1,
       "estado": "AMARILLO",
-      "precio_usa_ayer": 35.99,
-      "delta_pct_vs_ayer": -10.3,
+      "precio_usa_ayer": 32.29,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "AMARILLO",
-      "tienda_ayer": "The Fun Company"
+      "tienda_ayer": "Amazon"
     },
     {
       "id": "kyte_sleep_bag",
@@ -2061,7 +1899,7 @@
           "url": "https://www.amazon.com/dp/B07PH258LW",
           "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-21",
           "nota": ""
         },
         {
@@ -2217,7 +2055,7 @@
       "url_ganadora": "https://www.amazon.com/dp/B07PH258LW",
       "titulo_ganador": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-21",
       "nota_usa": "",
       "precio_lima_ref_pen": 320,
       "tienda_lima_ref": "Referencia manual",
@@ -2226,10 +2064,10 @@
       "margen_pen": 89,
       "margen_pct": 30.2,
       "estado": "AMARILLO",
-      "precio_usa_ayer": 49.99,
-      "delta_pct_vs_ayer": -4.8,
+      "precio_usa_ayer": 47.59,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Satara Home & Baby"
+      "tienda_ayer": "Amazon"
     },
     {
       "id": "kyte_toalla",
@@ -2244,15 +2082,6 @@
           "titulo": "Kyte Baby Infant Hooded Bath Towel- Blush",
           "envio_gratis": true,
           "fecha": "2026-11-20",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 41.99,
-          "url": "https://www.amazon.com/dp/B0DLH67Z1D",
-          "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Blush",
-          "envio_gratis": true,
-          "fecha": null,
           "nota": ""
         },
         {
@@ -2312,15 +2141,6 @@
       "tc": 3.453,
       "ranking_tiendas": [
         {
-          "tienda": "Amazon",
-          "precio_usd": 63.99,
-          "url": "https://www.amazon.com/dp/B0731TBBWF",
-          "titulo": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
           "tienda": "Target",
           "precio_usd": 78.99,
           "url": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2558621613968142633,productid:3535597300402177073,headlineOfferDocid:15308528460968715497,imageDocid:4223688882207297810,rds:PC_10807934512089617995|PROD_PC_10807934512089617995,gpcid:10807934512089617995,mid:576462891238342035,pvt:hg&hl=en&gl=us&udm=28",
@@ -2379,24 +2199,40 @@
           "titulo": "SKIP HOP Bolso Pañalero Forma Verde"
         }
       ],
-      "precio_usa_usd": 63.99,
-      "tienda_ganadora": "Amazon",
-      "url_ganadora": "https://www.amazon.com/dp/B0731TBBWF",
-      "titulo_ganador": "Skip Hop Diaper Bag Backpack: Forma, Multi-Function Baby Travel Bag with Changing Pad & Stroller Attachment, Jet Black",
+      "precio_usa_usd": 78.99,
+      "tienda_ganadora": "Target",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Skip Hop Forma backpack diaper bag&prds=catalogid:2558621613968142633,productid:3535597300402177073,headlineOfferDocid:15308528460968715497,imageDocid:4223688882207297810,rds:PC_10807934512089617995|PROD_PC_10807934512089617995,gpcid:10807934512089617995,mid:576462891238342035,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Skip Hop Diaper Backpack Forma",
       "envio_gratis": true,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-17",
       "nota_usa": "",
       "precio_lima_ref_pen": 319,
       "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 276,
+      "costo_lima_pen": 341,
       "venta_objetivo_pen": 294,
-      "margen_pen": 17,
-      "margen_pct": 5.9,
+      "margen_pen": -47,
+      "margen_pct": -16.1,
       "estado": "ROJO",
-      "precio_usa_ayer": 78.99,
-      "delta_pct_vs_ayer": -19.0,
+      "precio_usa_ayer": 63.99,
+      "delta_pct_vs_ayer": 23.4,
       "estado_ayer": "ROJO",
-      "tienda_ayer": "Target"
+      "tienda_ayer": "Amazon"
+    },
+    {
+      "id": "hatch_rest2",
+      "marca": "Hatch",
+      "nombre": "Luz de sueño Rest 2nd Gen",
+      "tc": 3.453,
+      "ranking_tiendas": [],
+      "lima_estimado": true,
+      "busqueda_lima": "Hatch Rest",
+      "ofertas_lima": [],
+      "precio_lima_ref_pen": 520,
+      "tienda_lima_ref": "Referencia manual",
+      "estado": "SIN DATOS",
+      "falta": "USA",
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Amazon"
     }
   ],
   "errores": [
