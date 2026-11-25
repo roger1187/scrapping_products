@@ -1,14 +1,14 @@
 {
-  "fecha": "2026-11-24",
-  "generado": "2026-11-24T22:02:20+00:00",
-  "tipo_cambio": 3.455,
+  "fecha": "2026-11-25",
+  "generado": "2026-11-25T21:10:55+00:00",
+  "tipo_cambio": 3.479,
   "tipo_cambio_fuente": "SUNAT",
   "productos": [
     {
       "id": "posh_peanut_swaddle",
       "marca": "Posh Peanut",
       "nombre": "Swaddle de bambú",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "eBay",
@@ -45,15 +45,6 @@
           "envio_gratis": true,
           "fecha": "2026-11-20",
           "nota": "60% OFF"
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 20.0,
-          "url": "https://www.amazon.com/dp/B0DZYT1LKX",
-          "titulo": "Posh Peanut Newborn Baby Girl Swaddle & Headband Set, Pixie",
-          "envio_gratis": true,
-          "fecha": "2026-11-23",
-          "nota": ""
         },
         {
           "tienda": "Expressions Boutique NY",
@@ -179,7 +170,7 @@
       "costo_lima_pen": 52,
       "venta_objetivo_pen": 267,
       "margen_pen": 215,
-      "margen_pct": 80.6,
+      "margen_pct": 80.4,
       "estado": "VERDE",
       "precio_usa_ayer": 12.0,
       "delta_pct_vs_ayer": 0.0,
@@ -190,7 +181,7 @@
       "id": "kickee_pijama",
       "marca": "Kickee Pants",
       "nombre": "Pijama de bambú",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Little Labels Co",
@@ -351,8 +342,8 @@
       "tienda_lima_ref": "Referencia manual",
       "costo_lima_pen": 65,
       "venta_objetivo_pen": 248,
-      "margen_pen": 184,
-      "margen_pct": 73.9,
+      "margen_pen": 183,
+      "margen_pct": 73.7,
       "estado": "VERDE",
       "precio_usa_ayer": 15.0,
       "delta_pct_vs_ayer": 0.0,
@@ -363,7 +354,7 @@
       "id": "hanna_pijama",
       "marca": "Hanna Andersson",
       "nombre": "Pijama de algodón orgánico",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "eBay",
@@ -426,7 +417,7 @@
       "costo_lima_pen": 78,
       "venta_objetivo_pen": 285,
       "margen_pen": 207,
-      "margen_pct": 72.7,
+      "margen_pct": 72.6,
       "estado": "VERDE",
       "precio_usa_ayer": 18.0,
       "delta_pct_vs_ayer": 0.0,
@@ -437,7 +428,7 @@
       "id": "halo_sleepsack",
       "marca": "Halo",
       "nombre": "Saco de dormir SleepSack",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "eBay",
@@ -578,13 +569,13 @@
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
           "tienda": "Falabella",
           "precio_pen": 229.0,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/159532102/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
+          "url": "https://www.falabella.com.pe/falabella-pe/product/159496978/manta-swaddle-halo-sleepsack-algodon-1-5-tog",
           "titulo": "MANTA Swaddle HALO SleepSack Algodon 1.5 TOG"
         },
         {
@@ -615,10 +606,10 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 219,
       "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 60,
+      "costo_lima_pen": 61,
       "venta_objetivo_pen": 201,
       "margen_pen": 141,
-      "margen_pct": 70.1,
+      "margen_pct": 69.9,
       "estado": "VERDE",
       "precio_usa_ayer": 13.95,
       "delta_pct_vs_ayer": 0.0,
@@ -629,7 +620,7 @@
       "id": "aden_anais_muselina",
       "marca": "Aden",
       "nombre": "Manta muselina pack x4",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "eBay",
@@ -734,10 +725,10 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 310,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 86,
+      "costo_lima_pen": 87,
       "venta_objetivo_pen": 285,
-      "margen_pen": 199,
-      "margen_pct": 69.7,
+      "margen_pen": 198,
+      "margen_pct": 69.5,
       "estado": "VERDE",
       "precio_usa_ayer": 19.99,
       "delta_pct_vs_ayer": 0.0,
@@ -745,20 +736,250 @@
       "tienda_ayer": "eBay"
     },
     {
-      "id": "posh_peanut_enterizo",
-      "marca": "Posh Peanut",
-      "nombre": "Enterizo de bambú estampado",
-      "tc": 3.455,
+      "id": "carters_pants4",
+      "marca": "Carter's",
+      "nombre": "Pack pantalones x4 (control)",
+      "tc": 3.479,
       "ranking_tiendas": [
         {
+          "tienda": "Carter's",
+          "precio_usd": 3.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16888776577333783464,productid:10225874948919495477,headlineOfferDocid:8710285800467501792,imageDocid:14628727202502424337,rds:PC_11238436453061885151|PROD_PC_11238436453061885151,gpcid:11238436453061885151,mid:576462894457043145,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's baby girl knit chambray pants",
+          "envio_gratis": true,
+          "fecha": "2026-11-24",
+          "nota": "75% OFF"
+        },
+        {
+          "tienda": "Kohl's",
+          "precio_usd": 7.7,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:4793648302166908289,productid:7343644070720640991,headlineOfferDocid:6699850706142564506,imageDocid:5444666915675713265,rds:PC_2022899345703159861|PROD_PC_2022899345703159861,gpcid:2022899345703159861,mid:576462863971746639,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Baby Girls 2-Pack Cotton Pants",
+          "envio_gratis": false,
+          "fecha": "2026-11-24",
+          "nota": "65% OFF"
+        },
+        {
+          "tienda": "Walmart",
+          "precio_usd": 8.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:2182267365501206200,productid:16507549949022925208,headlineOfferDocid:13215866128666244458,imageDocid:1126748175716366667,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,gpcid:16896039271690266055,mid:576462567040487759,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Child of Mine Baby Pants Four-Pack",
+          "envio_gratis": true,
+          "fecha": "2026-11-24",
+          "nota": "42% OFF"
+        },
+        {
+          "tienda": "Target",
+          "precio_usd": 10.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:8325669867683572819,productid:5629090850434294061,headlineOfferDocid:2344618260154621582,imageDocid:10597624325334744342,rds:PC_10436287132594531898|PROD_PC_10436287132594531898,gpcid:10436287132594531898,mid:576462896381689947,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Just One You Baby Boys' 2pk Pull-On Pants",
+          "envio_gratis": true,
+          "fecha": "2026-11-24",
+          "nota": ""
+        },
+        {
+          "tienda": "Babylist",
+          "precio_usd": 16.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16849195797414555752,productid:1126550883707468834,headlineOfferDocid:6474767427465103787,imageDocid:10710268624776206665,rds:PC_13378129400177677671|PROD_PC_13378129400177677671,gpcid:13378129400177677671,mid:576462916373496695,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Baby Boys 4-pc. Pant Set",
+          "envio_gratis": true,
+          "fecha": "2026-11-24",
+          "nota": "50% OFF"
+        },
+        {
+          "tienda": "Baby and Toys",
+          "precio_usd": 23.49,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:9239389727316433619,productid:396709174856268318,headlineOfferDocid:14581873329742906343,imageDocid:2892313487560779916,rds:PC_6498963811141168973|PROD_PC_6498963811141168973,gpcid:6498963811141168973,mid:576462523754817112,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Babies' Simple Joys by Carter's 4-Pack Pant",
+          "envio_gratis": true,
+          "fecha": "2026-11-24",
+          "nota": "36% OFF"
+        },
+        {
+          "tienda": "elettrodomestici.shop",
+          "precio_usd": 119.98,
+          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:15770889788323800588,headlineOfferDocid:15770889788323800588,imageDocid:13097760954824249320,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Carter's Child of Mine Baby Pants, Four-Pack, Sizes Preemie-12 Months",
+          "envio_gratis": false,
+          "fecha": "2026-11-24",
+          "nota": ""
+        }
+      ],
+      "lima_estimado": false,
+      "busqueda_lima": "Carters pantalon pack x4 bebe",
+      "ofertas_lima": [
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 59.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 149.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21501668/pantalon-bebe-nino-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Bebé Niño Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 149.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Buzo Bebé Niño Niña Pack X4 Algodón"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 149.9,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
+          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
+        }
+      ],
+      "precio_usa_usd": 3.99,
+      "tienda_ganadora": "Carter's",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16888776577333783464,productid:10225874948919495477,headlineOfferDocid:8710285800467501792,imageDocid:14628727202502424337,rds:PC_11238436453061885151|PROD_PC_11238436453061885151,gpcid:11238436453061885151,mid:576462894457043145,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Carter's baby girl knit chambray pants",
+      "envio_gratis": true,
+      "fecha_precio_usa": "2026-11-24",
+      "nota_usa": "75% OFF",
+      "precio_lima_ref_pen": 60,
+      "tienda_lima_ref": "Falabella",
+      "costo_lima_pen": 17,
+      "venta_objetivo_pen": 55,
+      "margen_pen": 38,
+      "margen_pct": 68.5,
+      "estado": "VERDE",
+      "precio_usa_ayer": 3.99,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Carter's"
+    },
+    {
+      "id": "kyte_sleep_bag",
+      "marca": "Kyte Baby",
+      "nombre": "Saco de dormir 1.0 TOG",
+      "tc": 3.479,
+      "ranking_tiendas": [
+        {
+          "tienda": "Me 'n Mommy To Be",
+          "precio_usd": 21.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:6393786360741640309,productid:18098927307064713899,headlineOfferDocid:14345057802814291774,imageDocid:10722881059800456124,gpcid:15628690997798452705,mid:576462916373348780,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby 1.0 TOG Bamboo Sleep Bag Blue sz M",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Bloomingdale's",
+          "precio_usd": 43.5,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:15464840920723685752,headlineOfferDocid:15464840920723685752,imageDocid:2551943230750491288,rds:PC_18017425013435182712|PROD_PC_18017425013435182712,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Sleep Bag 1.0 - Baby - Green - Size Medium - Sage",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "25% OFF"
+        },
+        {
           "tienda": "Amazon",
-          "precio_usd": 18.87,
-          "url": "https://www.amazon.com/dp/B0DL751N5H",
-          "titulo": "Posh Peanut Baby Girl Sleeper One Piece",
+          "precio_usd": 47.59,
+          "url": "https://www.amazon.com/dp/B07PH258LW",
+          "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
           "envio_gratis": true,
           "fecha": "2026-11-21",
           "nota": ""
         },
+        {
+          "tienda": "The Natural Baby Company",
+          "precio_usd": 52.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:5881728874298691354,headlineOfferDocid:5881728874298691354,imageDocid:2060911910642600634,rds:PC_18017425013435182712|PROD_PC_18017425013435182712,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Sleep Bag 1.0, M / Midnight",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "10% OFF"
+        },
+        {
+          "tienda": "Zola",
+          "precio_usd": 54.99,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:1040801533017034516,headlineOfferDocid:1040801533017034516,imageDocid:12140829867512361339,rds:PC_18017425013435182712|PROD_PC_18017425013435182712,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Baby Sleep Bag 1.0 TOG - Storm",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Kyte Baby",
+          "precio_usd": 55.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:14555945803292498959,productid:13525268599278544541,headlineOfferDocid:14769455006992238228,imageDocid:16227521649255278270,rds:PC_4242550849617944146|PROD_PC_4242550849617944146,gpcid:4242550849617944146,mid:576462917255681709,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby 1.0 Sleep Baby Sleep Bag",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Nordstrom",
+          "precio_usd": 55.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:16191508972670172038,productid:6675168753166680112,headlineOfferDocid:82080306469684346,imageDocid:6346466358749176591,gpcid:12203767471320195549,mid:576462918753173766,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte BABY Sleep Bag in Sage 1.0 TOG S",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Kyte Baby (sitio oficial)",
+          "precio_usd": 55.0,
+          "url": "https://kytebaby.com/products/sleep-bag-in-oat-1-0",
+          "titulo": "Sleep Bag in Oat 1.0 TOG | Bamboo Sleep Sack | Kyte Baby",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Lullaby Lane",
+          "precio_usd": 55.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:8211863726099638264,headlineOfferDocid:8211863726099638264,imageDocid:790557856406398450,pvt:hg&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby - 1.0 Tog Sleep Bag - Sienna",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Kyte Baby sleep bag",
+      "ofertas_lima": [],
+      "precio_usa_usd": 21.99,
+      "tienda_ganadora": "Me 'n Mommy To Be",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:6393786360741640309,productid:18098927307064713899,headlineOfferDocid:14345057802814291774,imageDocid:10722881059800456124,gpcid:15628690997798452705,mid:576462916373348780,pvt:hg&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Kyte Baby 1.0 TOG Bamboo Sleep Bag Blue sz M",
+      "envio_gratis": true,
+      "fecha_precio_usa": null,
+      "nota_usa": "",
+      "precio_lima_ref_pen": 320,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 96,
+      "venta_objetivo_pen": 294,
+      "margen_pen": 199,
+      "margen_pct": 67.5,
+      "estado": "VERDE",
+      "precio_usa_ayer": 47.59,
+      "delta_pct_vs_ayer": -53.8,
+      "estado_ayer": "AMARILLO",
+      "tienda_ayer": "Amazon"
+    },
+    {
+      "id": "posh_peanut_enterizo",
+      "marca": "Posh Peanut",
+      "nombre": "Enterizo de bambú estampado",
+      "tc": 3.479,
+      "ranking_tiendas": [
         {
           "tienda": "Poshmark",
           "precio_usd": 22.0,
@@ -826,260 +1047,30 @@
       "lima_estimado": true,
       "busqueda_lima": "Posh Peanut",
       "ofertas_lima": [],
-      "precio_usa_usd": 18.87,
-      "tienda_ganadora": "Amazon",
-      "url_ganadora": "https://www.amazon.com/dp/B0DL751N5H",
-      "titulo_ganador": "Posh Peanut Baby Girl Sleeper One Piece",
-      "envio_gratis": true,
+      "precio_usa_usd": 22.0,
+      "tienda_ganadora": "Poshmark",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Posh Peanut footie zippered one piece&prds=productid:3934293036395548593,headlineOfferDocid:3934293036395548593,imageDocid:9877615701466045188,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Posh Peanut Pajamas | Posh Peanut Teal Holiday Nutcracker Footed One-Piece | Color: Green | Size: Newborn | Mlleonard21's Closet",
+      "envio_gratis": false,
       "fecha_precio_usa": "2026-11-21",
-      "nota_usa": "",
+      "nota_usa": "45% OFF",
       "precio_lima_ref_pen": 290,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 81,
+      "costo_lima_pen": 96,
       "venta_objetivo_pen": 267,
-      "margen_pen": 185,
-      "margen_pct": 69.5,
+      "margen_pen": 171,
+      "margen_pct": 64.1,
       "estado": "VERDE",
       "precio_usa_ayer": 18.87,
-      "delta_pct_vs_ayer": 0.0,
+      "delta_pct_vs_ayer": 16.6,
       "estado_ayer": "VERDE",
       "tienda_ayer": "Amazon"
-    },
-    {
-      "id": "carters_pants4",
-      "marca": "Carter's",
-      "nombre": "Pack pantalones x4 (control)",
-      "tc": 3.455,
-      "ranking_tiendas": [
-        {
-          "tienda": "Carter's",
-          "precio_usd": 3.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16888776577333783464,productid:10225874948919495477,headlineOfferDocid:8710285800467501792,imageDocid:14628727202502424337,rds:PC_11238436453061885151|PROD_PC_11238436453061885151,gpcid:11238436453061885151,mid:576462894457043145,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's baby girl knit chambray pants",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "75% OFF"
-        },
-        {
-          "tienda": "Kohl's",
-          "precio_usd": 7.7,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:4793648302166908289,productid:7343644070720640991,headlineOfferDocid:6699850706142564506,imageDocid:5444666915675713265,rds:PC_2022899345703159861|PROD_PC_2022899345703159861,gpcid:2022899345703159861,mid:576462863971746639,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's Baby Girls 2-Pack Cotton Pants",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": "65% OFF"
-        },
-        {
-          "tienda": "Walmart",
-          "precio_usd": 8.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:2182267365501206200,productid:16507549949022925208,headlineOfferDocid:13215866128666244458,imageDocid:1126748175716366667,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,gpcid:16896039271690266055,mid:576462567040487759,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's Child of Mine Baby Pants Four-Pack",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "42% OFF"
-        },
-        {
-          "tienda": "Target",
-          "precio_usd": 10.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:8325669867683572819,productid:5629090850434294061,headlineOfferDocid:2344618260154621582,imageDocid:10597624325334744342,rds:PC_10436287132594531898|PROD_PC_10436287132594531898,gpcid:10436287132594531898,mid:576462896381689947,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's Just One You Baby Boys' 2pk Pull-On Pants",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Babylist",
-          "precio_usd": 16.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16849195797414555752,productid:1126550883707468834,headlineOfferDocid:6474767427465103787,imageDocid:10710268624776206665,rds:PC_13378129400177677671|PROD_PC_13378129400177677671,gpcid:13378129400177677671,mid:576462916373496695,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's Baby Boys 4-pc. Pant Set",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "50% OFF"
-        },
-        {
-          "tienda": "Baby and Toys",
-          "precio_usd": 23.49,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:9239389727316433619,productid:396709174856268318,headlineOfferDocid:14581873329742906343,imageDocid:2892313487560779916,rds:PC_6498963811141168973|PROD_PC_6498963811141168973,gpcid:6498963811141168973,mid:576462523754817112,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Babies' Simple Joys by Carter's 4-Pack Pant",
-          "envio_gratis": true,
-          "fecha": null,
-          "nota": "36% OFF"
-        },
-        {
-          "tienda": "elettrodomestici.shop",
-          "precio_usd": 119.98,
-          "url": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=productid:15770889788323800588,headlineOfferDocid:15770889788323800588,imageDocid:13097760954824249320,rds:PC_16896039271690266055|PROD_PC_16896039271690266055,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Carter's Child of Mine Baby Pants, Four-Pack, Sizes Preemie-12 Months",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        }
-      ],
-      "lima_estimado": false,
-      "busqueda_lima": "Carters pantalon pack x4 bebe",
-      "ofertas_lima": [
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993854/pantalon-buzo-bebe-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niña Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993838/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 59.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/20993846/pantalon-buzo-bebe-nino-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 149.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21501668/pantalon-bebe-nino-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Bebé Niño Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 149.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500541/pantalon-bebe-nino-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Buzo Bebé Niño Niña Pack X4 Algodón"
-        },
-        {
-          "tienda": "Falabella",
-          "precio_pen": 149.9,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21500533/pantalon-bebe-nina-pack-x4-algodon-carters",
-          "titulo": "CARTERS Pantalón Bebé Niña Pack X4 Algodón"
-        }
-      ],
-      "precio_usa_usd": 3.99,
-      "tienda_ganadora": "Carter's",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Carter's baby 4-pack pants&prds=catalogid:16888776577333783464,productid:10225874948919495477,headlineOfferDocid:8710285800467501792,imageDocid:14628727202502424337,rds:PC_11238436453061885151|PROD_PC_11238436453061885151,gpcid:11238436453061885151,mid:576462894457043145,pvt:a&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Carter's baby girl knit chambray pants",
-      "envio_gratis": true,
-      "fecha_precio_usa": null,
-      "nota_usa": "75% OFF",
-      "precio_lima_ref_pen": 60,
-      "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 17,
-      "venta_objetivo_pen": 55,
-      "margen_pen": 38,
-      "margen_pct": 68.7,
-      "estado": "VERDE",
-      "precio_usa_ayer": 2.7,
-      "delta_pct_vs_ayer": 47.8,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Depop"
-    },
-    {
-      "id": "kyte_enterizo",
-      "marca": "Kyte Baby",
-      "nombre": "Enterizo de bambú",
-      "tc": 3.455,
-      "ranking_tiendas": [
-        {
-          "tienda": "Destination Baby & Kids",
-          "precio_usd": 19.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:267175752969053139,productid:5959046845891172183,headlineOfferDocid:1413545948633738794,imageDocid:13064128066099759099,gpcid:5968692072556015813,mid:576462915708542033,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Printed Sleeveless Romper in Polka Dots by Kyte Baby",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": "41% OFF"
-        },
-        {
-          "tienda": "Mercari",
-          "precio_usd": 25.5,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=productid:12065427482304171664,headlineOfferDocid:12065427482304171664,imageDocid:7396819897026076829,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte BABY Kyte Sleeveless Snap Romper - New Kids | Color: Purple | Size: 12-18 Months",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": "15% OFF"
-        },
-        {
-          "tienda": "Hazel & Fawn",
-          "precio_usd": 28.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:7455511803212152483,productid:11659710832848266403,headlineOfferDocid:18158480933027279197,imageDocid:3122457101107719014,gpcid:10820188216575613467,mid:576462576358199428,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleeveless Romper",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Amazon",
-          "precio_usd": 30.39,
-          "url": "https://www.amazon.com/dp/B08284XQ64",
-          "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
-          "envio_gratis": true,
-          "fecha": "2026-11-21",
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Baby",
-          "precio_usd": 34.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:16475522967389264631,productid:10412786249798360444,headlineOfferDocid:14525388970386013706,imageDocid:12393312328797824001,rds:PC_9241437728971272704|PROD_PC_9241437728971272704,gpcid:9241437728971272704,mid:576462823840394285,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Shortall Romper",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Poshmark",
-          "precio_usd": 34.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:13093161867531969813,productid:9846564015781248261,headlineOfferDocid:10063310864404947179,imageDocid:15856698364961969422,gpcid:17082528558897603753,mid:576462815439033025,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte BABY Raspberry Shell Stretch Romper at Nordstrom Rack",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Bead Shack Gift Shop",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:9274431568912633425,productid:2934445764187619871,headlineOfferDocid:1189924687715140428,imageDocid:11346036757908987827,rds:PC_10665027556030209685|PROD_PC_10665027556030209685,gpcid:9610510313152766109,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Solid Snap Romper",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Drool and Co",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:8463063028308968750,productid:1888068094556866600,headlineOfferDocid:10060888258229693232,imageDocid:16959074564064401790,rds:PC_11992487539858903484|PROD_PC_11992487539858903484,gpcid:11992487539858903484,mid:576462549605489453,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Romper in Mallard Duck by Kyte Baby",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Kyte Baby enterizo",
-      "ofertas_lima": [],
-      "precio_usa_usd": 19.99,
-      "tienda_ganadora": "Destination Baby & Kids",
-      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:267175752969053139,productid:5959046845891172183,headlineOfferDocid:1413545948633738794,imageDocid:13064128066099759099,gpcid:5968692072556015813,mid:576462915708542033,pvt:a&hl=en&gl=us&udm=28",
-      "titulo_ganador": "Bamboo Printed Sleeveless Romper in Polka Dots by Kyte Baby",
-      "envio_gratis": true,
-      "fecha_precio_usa": "2026-11-19",
-      "nota_usa": "41% OFF",
-      "precio_lima_ref_pen": 250,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 86,
-      "venta_objetivo_pen": 230,
-      "margen_pen": 144,
-      "margen_pct": 62.5,
-      "estado": "VERDE",
-      "precio_usa_ayer": 19.99,
-      "delta_pct_vs_ayer": 0.0,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Destination Baby & Kids"
     },
     {
       "id": "little_sleepies_pack2",
       "marca": "Little Sleepies",
       "nombre": "Pijama de bambú",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Mercari",
@@ -1118,15 +1109,6 @@
           "nota": ""
         },
         {
-          "tienda": "Amazon",
-          "precio_usd": 38.0,
-          "url": "https://www.amazon.com/dp/B0DZ32C2D8",
-          "titulo": "Little Sleepies Baby Pajamas, Viscose from Bamboo, Newborn Sleeper Baby PJs",
-          "envio_gratis": true,
-          "fecha": "2026-11-21",
-          "nota": ""
-        },
-        {
           "tienda": "Shop",
           "precio_usd": 38.0,
           "url": "https://www.google.com/search?ibp=oshop&q=Little Sleepies zippy bamboo pajamas&prds=productid:3160747205866428818,headlineOfferDocid:3160747205866428818,imageDocid:187328405229826055,rds:PC_4739410872013254780|PROD_PC_4739410872013254780,pvt:a&hl=en&gl=us&udm=28",
@@ -1151,7 +1133,7 @@
       "costo_lima_pen": 78,
       "venta_objetivo_pen": 193,
       "margen_pen": 115,
-      "margen_pct": 59.7,
+      "margen_pct": 59.4,
       "estado": "VERDE",
       "precio_usa_ayer": 18.05,
       "delta_pct_vs_ayer": 0.0,
@@ -1162,7 +1144,7 @@
       "id": "skip_hop_mochila",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "ntozimandla.co.za",
@@ -1220,28 +1202,28 @@
           "titulo": "SKIP HOP Bolso Pañalero Mainframe Black"
         },
         {
-          "tienda": "Falabella",
-          "precio_pen": 319.2,
-          "url": "https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado",
-          "titulo": "SKIP HOP Bolso Pañalero Forma Rosado"
-        },
-        {
           "tienda": "Oechsle",
-          "precio_pen": 319.2,
+          "precio_pen": 279.3,
           "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p",
           "titulo": "Bolso Pañalero Skip Hop Forma Mauve Mist"
         },
         {
           "tienda": "Oechsle",
-          "precio_pen": 319.2,
+          "precio_pen": 279.3,
           "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-mainframe-black-2974513/p",
           "titulo": "Bolso Pañalero Skip Hop Mainframe Black"
         },
         {
           "tienda": "Oechsle",
-          "precio_pen": 319.2,
+          "precio_pen": 279.3,
           "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-verde-salvia-2974531/p",
           "titulo": "Bolso Pañalero Skip Hop Verde Salvia"
+        },
+        {
+          "tienda": "Falabella",
+          "precio_pen": 319.2,
+          "url": "https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado",
+          "titulo": "SKIP HOP Bolso Pañalero Forma Rosado"
         },
         {
           "tienda": "Falabella",
@@ -1259,10 +1241,10 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 279,
       "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 108,
+      "costo_lima_pen": 109,
       "venta_objetivo_pen": 257,
-      "margen_pen": 149,
-      "margen_pct": 58.0,
+      "margen_pen": 148,
+      "margen_pct": 57.7,
       "estado": "VERDE",
       "precio_usa_ayer": 25.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1273,7 +1255,7 @@
       "id": "hatch_rest2",
       "marca": "Hatch",
       "nombre": "Luz de sueño Rest 2nd Gen",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Mercari",
@@ -1281,7 +1263,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:3711659888456427102,headlineOfferDocid:3711659888456427102,imageDocid:6167080590341218775,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Hatch Rest 2nd Gen Smart Sleep Assistant In White - New Kids | Color: White",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-24",
           "nota": ""
         },
         {
@@ -1290,7 +1272,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:3050892042126568663,headlineOfferDocid:3050892042126568663,imageDocid:1715928981104786187,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Hatch Accessories | Hatch Rest 2nd Gen Baby Sound Machine & Night Light | Color: White | Size: Osbb | Heart4kidscraft's Closet",
           "envio_gratis": false,
-          "fecha": null,
+          "fecha": "2026-11-24",
           "nota": "65% OFF"
         },
         {
@@ -1299,7 +1281,7 @@
           "url": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=catalogid:3637079156985866638,productid:1693416691086123958,headlineOfferDocid:11758623804000861561,imageDocid:1051952398643851014,rds:PC_18074374684976126576|PROD_PC_18074374684976126576,gpcid:18074374684976126576,mid:576462556857129597,pvt:hg&hl=en&gl=us&udm=28",
           "titulo": "Hatch Rest+ 2nd Gen Sound Machine Night Light",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-24",
           "nota": ""
         }
       ],
@@ -1311,23 +1293,126 @@
       "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Hatch Rest 2nd Gen sound machine&prds=productid:3711659888456427102,headlineOfferDocid:3711659888456427102,imageDocid:6167080590341218775,pvt:hg&hl=en&gl=us&udm=28",
       "titulo_ganador": "Hatch Rest 2nd Gen Smart Sleep Assistant In White - New Kids | Color: White",
       "envio_gratis": false,
-      "fecha_precio_usa": null,
+      "fecha_precio_usa": "2026-11-24",
       "nota_usa": "",
       "precio_lima_ref_pen": 520,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 216,
+      "costo_lima_pen": 217,
       "venta_objetivo_pen": 478,
-      "margen_pen": 262,
-      "margen_pct": 54.9,
+      "margen_pen": 261,
+      "margen_pct": 54.5,
       "estado": "VERDE",
-      "estado_ayer": "SIN DATOS",
-      "tienda_ayer": null
+      "precio_usa_ayer": 50.0,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Mercari"
+    },
+    {
+      "id": "kyte_enterizo",
+      "marca": "Kyte Baby",
+      "nombre": "Enterizo de bambú",
+      "tc": 3.479,
+      "ranking_tiendas": [
+        {
+          "tienda": "The Natural Baby Company",
+          "precio_usd": 28.8,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:3778835280741760481,productid:3765722056629483886,headlineOfferDocid:4233578003139232535,imageDocid:7745118065133928910,rds:PC_1115364412698567995|PROD_PC_1115364412698567995,gpcid:1115364412698567995,mid:576462912382143117,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Zippered Romper",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "20% OFF"
+        },
+        {
+          "tienda": "Amazon",
+          "precio_usd": 30.39,
+          "url": "https://www.amazon.com/dp/B08284XQ64",
+          "titulo": "KYTE BABY Infant and Toddler Dual Zipper Romper, Ultra-Soft Rayon Made From Bamboo Sleeper, Boys and Girls Pajamas",
+          "envio_gratis": true,
+          "fecha": "2026-11-21",
+          "nota": ""
+        },
+        {
+          "tienda": "Mercari",
+          "precio_usd": 31.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=productid:841750708798149438,headlineOfferDocid:841750708798149438,imageDocid:9208620668711145951,rds:PC_1115364412698567995|PROD_PC_1115364412698567995,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kyte BABY Zip Romper - New - New Kids | Color: Blue | Size: 24 Months",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": "31% OFF"
+        },
+        {
+          "tienda": "Kyte Baby",
+          "precio_usd": 34.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:17611762213087303390,productid:15162102173389622426,headlineOfferDocid:7059457341205578374,imageDocid:12393312328797824001,rds:PC_9241437728971272704|PROD_PC_9241437728971272704,gpcid:9241437728971272704,mid:576462823840394285,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Bamboo Zippered Shortall Romper",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "English Country Market",
+          "precio_usd": 36.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=productid:7081444627291131112,headlineOfferDocid:7081444627291131112,imageDocid:3926139955131978212,rds:PC_1896090760751700688|PROD_PC_1896090760751700688,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Zippered Footless Romper (Various Colors) | Kyte Baby Apricot / 3-6m",
+          "envio_gratis": true,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Einstein's Attic Northport",
+          "precio_usd": 36.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=productid:14169572690493054486,headlineOfferDocid:14169572690493054486,imageDocid:950401737766582685,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Zippered Romper in Eucalyptus 3-6 m",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Salchicha",
+          "precio_usd": 38.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:12163959818193045640,productid:5414443004977680261,headlineOfferDocid:5111494066289591610,imageDocid:15128972635988772735,gpcid:16208253040944868011,mid:576462916373191741,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Bamboo Zippered Romper in Home Run Print by Kyte Baby",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        },
+        {
+          "tienda": "Babycakes Children's Boutique",
+          "precio_usd": 38.0,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:11989864315194837812,productid:11710425569016535218,headlineOfferDocid:1107457868426954027,imageDocid:582402848510063907,gpcid:13120336263324931992,mid:576462916359491988,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Bamboo Zippered Romper in Sugar Plum by Kyte Baby",
+          "envio_gratis": false,
+          "fecha": null,
+          "nota": ""
+        }
+      ],
+      "lima_estimado": true,
+      "busqueda_lima": "Kyte Baby enterizo",
+      "ofertas_lima": [],
+      "precio_usa_usd": 28.8,
+      "tienda_ganadora": "The Natural Baby Company",
+      "url_ganadora": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered romper&prds=catalogid:3778835280741760481,productid:3765722056629483886,headlineOfferDocid:4233578003139232535,imageDocid:7745118065133928910,rds:PC_1115364412698567995|PROD_PC_1115364412698567995,gpcid:1115364412698567995,mid:576462912382143117,pvt:a&hl=en&gl=us&udm=28",
+      "titulo_ganador": "Kyte Baby Zippered Romper",
+      "envio_gratis": false,
+      "fecha_precio_usa": null,
+      "nota_usa": "20% OFF",
+      "precio_lima_ref_pen": 250,
+      "tienda_lima_ref": "Referencia manual",
+      "costo_lima_pen": 125,
+      "venta_objetivo_pen": 230,
+      "margen_pen": 105,
+      "margen_pct": 45.5,
+      "estado": "VERDE",
+      "precio_usa_ayer": 19.99,
+      "delta_pct_vs_ayer": 44.1,
+      "estado_ayer": "VERDE",
+      "tienda_ayer": "Destination Baby & Kids"
     },
     {
       "id": "kyte_pijama_bambu",
       "marca": "Kyte Baby",
       "nombre": "Pijama con cierre de bambú",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Amazon",
@@ -1339,93 +1424,12 @@
           "nota": ""
         },
         {
-          "tienda": "The Fun Company",
-          "precio_usd": 35.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:790775354457969013,headlineOfferDocid:790775354457969013,imageDocid:1607154209495890465,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie in Poi 3-6 Months",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Posh Tots Children's Boutique",
-          "precio_usd": 36.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:1151158213778793917,headlineOfferDocid:1151158213778793917,imageDocid:16751689355917308198,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie Jurassic / 3-6m",
+          "tienda": "Princess and the Pea",
+          "precio_usd": 35.2,
+          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:8605820213385348236,productid:10478259753150826811,headlineOfferDocid:15015261857257492378,imageDocid:4642482721010267622,rds:PC_602981423927261567|PROD_PC_602981423927261567,gpcid:602981423927261567,mid:576462917252587190,pvt:a&hl=en&gl=us&udm=28",
+          "titulo": "Kyte Baby Zippered Footie in Holiday Pups",
           "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Sweet E's Boutique",
-          "precio_usd": 36.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:14753536305588784470,headlineOfferDocid:14753536305588784470,imageDocid:11724392822246929443,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby - Zippered Footie - Cloud Preemie *with fold over mits*",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "www.shopthenesttucson",
-          "precio_usd": 36.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:5362445798360877315,headlineOfferDocid:5362445798360877315,imageDocid:6502833333922226172,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby - Loch Zippered Footie (Newborn)",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "AH Baby + co",
-          "precio_usd": 36.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:10943852554971495559,headlineOfferDocid:10943852554971495559,imageDocid:154750683005736641,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie 18-24m / Oat",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Blossom Baby + Maternity",
-          "precio_usd": 37.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:5159545254589466238,productid:14719534467304193661,headlineOfferDocid:12744264996313077013,imageDocid:7789264136707318507,rds:PC_15456115809719591888|PROD_PC_15456115809719591888,gpcid:6909507992161079390,mid:576462916375390808,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Ribbed Ruffle Zipper Footie",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Baby",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:4608102032928799759,productid:17149620550292490641,headlineOfferDocid:4558639431953243418,imageDocid:9527329499665591797,rds:PC_1397440080458139170|PROD_PC_1397440080458139170,gpcid:1397440080458139170,mid:576462567969992570,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Ribbed Zipper Footie in Blush Size Newborn | Bamboo",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Saplings",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:2704511288116054337,headlineOfferDocid:2704511288116054337,imageDocid:13717537481756073222,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie Slate / NB",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Living",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:7742923617611767795,productid:2886428175930026076,headlineOfferDocid:8483141335365731989,imageDocid:3397678074562900321,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,gpcid:10833440706159421055,mid:576462576361970297,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie in Gingerbread",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Babinski's Baby",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:4296501739880908483,productid:16729459631663125847,headlineOfferDocid:14743758151630981407,imageDocid:702196708947401359,rds:PC_14579640591094388815|PROD_PC_14579640591094388815,gpcid:17179738798072626012,mid:576462916371449160,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Footie in Ecru Roar Kyte Baby",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
+          "fecha": null,
           "nota": ""
         },
         {
@@ -1435,60 +1439,6 @@
           "titulo": "Shop Zippered Footie in Taro | Kyte Baby",
           "envio_gratis": false,
           "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Keedo Kids Clothes",
-          "precio_usd": 38.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=catalogid:16792882469717568350,productid:7699742656398140034,headlineOfferDocid:11085175971975834808,imageDocid:8383523812808460211,rds:PC_14579640591094388815|PROD_PC_14579640591094388815,gpcid:2652902653445221635,mid:576462576251792658,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Footie in Silly Goose Kyte Baby",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Suite Child",
-          "precio_usd": 39.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:10563927506185845060,headlineOfferDocid:10563927506185845060,imageDocid:6672488909556213208,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie / Poi Newborn",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Baby Bliss",
-          "precio_usd": 42.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:7234926821342615415,headlineOfferDocid:7234926821342615415,imageDocid:1335569593288752922,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie | Pine Newborn",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Mercari",
-          "precio_usd": 42.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:8761732697422548374,headlineOfferDocid:8761732697422548374,imageDocid:13789868953659037668,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte BABY Bamboo Zipper Footie NWT Sleeper Zippy - New Kids | Color: Gold | Size: Newborn",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Drool and Co",
-          "precio_usd": 45.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:9327433589864346443,headlineOfferDocid:9327433589864346443,imageDocid:16037964656509046355,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Zippered Footie in Toile Ballet from Kyte Baby | Size: 3-6 months",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "emiliageorge",
-          "precio_usd": 50.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby zippered footie&prds=productid:651314200292043510,headlineOfferDocid:651314200292043510,imageDocid:4937800228393991453,rds:PC_8066952432204596088|PROD_PC_8066952432204596088,pvt:a&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Zippered Footie Sage / 6-12M",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
           "nota": ""
         }
       ],
@@ -1504,21 +1454,21 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 230,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 139,
+      "costo_lima_pen": 140,
       "venta_objetivo_pen": 212,
-      "margen_pen": 72,
-      "margen_pct": 34.1,
+      "margen_pen": 71,
+      "margen_pct": 33.6,
       "estado": "AMARILLO",
-      "precio_usa_ayer": 35.99,
-      "delta_pct_vs_ayer": -10.3,
+      "precio_usa_ayer": 32.29,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "AMARILLO",
-      "tienda_ayer": "The Fun Company"
+      "tienda_ayer": "Amazon"
     },
     {
       "id": "ergobaby_omni360",
       "marca": "Ergobaby",
       "nombre": "Portabebé Omni 360",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Pottery Barn Kids",
@@ -1542,203 +1492,21 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 1250,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 773,
+      "costo_lima_pen": 778,
       "venta_objetivo_pen": 1150,
-      "margen_pen": 377,
-      "margen_pct": 32.8,
+      "margen_pen": 372,
+      "margen_pct": 32.3,
       "estado": "AMARILLO",
-      "precio_usa_ayer": 134.0,
-      "delta_pct_vs_ayer": 33.6,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Amazon"
-    },
-    {
-      "id": "kyte_sleep_bag",
-      "marca": "Kyte Baby",
-      "nombre": "Saco de dormir 1.0 TOG",
-      "tc": 3.455,
-      "ranking_tiendas": [
-        {
-          "tienda": "Amazon",
-          "precio_usd": 47.59,
-          "url": "https://www.amazon.com/dp/B07PH258LW",
-          "titulo": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
-          "envio_gratis": true,
-          "fecha": "2026-11-21",
-          "nota": ""
-        },
-        {
-          "tienda": "Satara Home & Baby",
-          "precio_usd": 49.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:1773196121059547708,headlineOfferDocid:1773196121059547708,imageDocid:16625796493023610421,rds:PC_2129855740966712654|PROD_PC_2129855740966712654,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bags 0.5 Tog Fog M (6-18m)",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Baby",
-          "precio_usd": 55.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:4223739000189691297,productid:12297714395144772026,headlineOfferDocid:273179850631710918,imageDocid:3628465418173815632,rds:PC_6141569324582346335|PROD_PC_6141569324582346335,gpcid:6141569324582346335,mid:576462915995784964,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Bamboo Sleep Bag 1.0 in Silly Goose by Kyte Baby | Size XS",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "ZukaBaby",
-          "precio_usd": 55.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:15310622322158448311,headlineOfferDocid:15310622322158448311,imageDocid:15726150065850458413,rds:PC_2129855740966712654|PROD_PC_2129855740966712654,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Bamboo Sleep Bag 0.5 TOG | Taro M",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "The Gingham Goose Boutique",
-          "precio_usd": 55.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:3096002580203076515,headlineOfferDocid:3096002580203076515,imageDocid:11139181122837345891,rds:PC_2129855740966712654|PROD_PC_2129855740966712654,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag, 0.5 tog- Bow S (0-6m)",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Babinski's Baby",
-          "precio_usd": 55.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:17412771244604995707,headlineOfferDocid:17412771244604995707,imageDocid:6522263451883018976,rds:PC_5479879520092744871|PROD_PC_5479879520092744871,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag 1.0 Tog - Oat S",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Kyte Baby (sitio oficial)",
-          "precio_usd": 55.0,
-          "url": "https://kytebaby.com/products/sleep-bag-in-oat-1-0",
-          "titulo": "Sleep Bag in Oat 1.0 TOG | Bamboo Sleep Sack | Kyte Baby",
-          "envio_gratis": false,
-          "fecha": null,
-          "nota": ""
-        },
-        {
-          "tienda": "Crib & Kids",
-          "precio_usd": 55.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:2226422124324441429,productid:15855789912492402756,headlineOfferDocid:11525484308508791774,imageDocid:14795930913062856483,rds:PC_6141569324582346335|PROD_PC_6141569324582346335,gpcid:6141569324582346335,mid:576462915995784964,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag in Silly Goose 1.0 TOG",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": "LOW PRICE"
-        },
-        {
-          "tienda": "Joey & June Boutique",
-          "precio_usd": 56.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:4395446866055791892,headlineOfferDocid:4395446866055791892,imageDocid:9276976047624392365,rds:PC_8892372061460672514|PROD_PC_8892372061460672514,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag | 0.5 Tog 18-36M / Sage",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "The Baby Cubby",
-          "precio_usd": 57.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=catalogid:9322198568954594007,productid:18039391796379514661,headlineOfferDocid:7173295373891413227,imageDocid:12241325805407387118,rds:PC_5479879520092744871|PROD_PC_5479879520092744871,gpcid:18017425013435182712,mid:576462576309322660,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby 1.0 Baby Sleep Bag Pine",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Milk & Honey Babies",
-          "precio_usd": 58.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:5242051501804122420,headlineOfferDocid:5242051501804122420,imageDocid:1764252667798500216,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag in Construction, 1.0 TOG S",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Sweet E's Boutique",
-          "precio_usd": 60.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:9485636002095928348,headlineOfferDocid:9485636002095928348,imageDocid:16031852804028838399,rds:PC_5479879520092744871|PROD_PC_5479879520092744871,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby - Sleep Bag 1.0 Tog - Sage Small",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "AH Baby + co",
-          "precio_usd": 60.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:8882064691457800035,headlineOfferDocid:8882064691457800035,imageDocid:4367607547239030782,rds:PC_1559532380194085565|PROD_PC_1559532380194085565,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag 2.5 Cloud / L",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Nordstrom",
-          "precio_usd": 63.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:11865826504150206403,headlineOfferDocid:11865826504150206403,imageDocid:17683691228358749433,rds:PC_8892372061460672514|PROD_PC_8892372061460672514,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte BABY The Original Sleep Bag 2.5 TOG Wearable Blanket in Cloud at Nordstrom, Size Large",
-          "envio_gratis": true,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "The Fun Company",
-          "precio_usd": 76.99,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:11694066382839041890,headlineOfferDocid:11694066382839041890,imageDocid:13301218474601916177,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Sleep Bag Walker in Dusty Rose 1.0 TOG Medium (6-18 Months)",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "eBay",
-          "precio_usd": 120.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:907568957188155099,headlineOfferDocid:907568957188155099,imageDocid:14156538449965521056,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "KYTE BABY Woof Sleep Bag 18-36M 0.5 Tog Bamboo Sleep Sack Blanket NWT",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        },
-        {
-          "tienda": "Poshmark",
-          "precio_usd": 132.0,
-          "url": "https://www.google.com/search?ibp=oshop&q=Kyte Baby sleep bag 1.0 TOG&prds=productid:16465199251157505725,headlineOfferDocid:16465199251157505725,imageDocid:16415975884115392166,pvt:hg&hl=en&gl=us&udm=28",
-          "titulo": "Kyte Baby Pajamas | Kyte Baby Woof Sleep Bag 18-36m 0.5 Tog New Htf Bamboo Sleep Sack Blanket Nwt | Color: Blue/White | Size: 24mb | Aussiebady's",
-          "envio_gratis": false,
-          "fecha": "2026-11-19",
-          "nota": ""
-        }
-      ],
-      "lima_estimado": true,
-      "busqueda_lima": "Kyte Baby sleep bag",
-      "ofertas_lima": [],
-      "precio_usa_usd": 47.59,
-      "tienda_ganadora": "Amazon",
-      "url_ganadora": "https://www.amazon.com/dp/B07PH258LW",
-      "titulo_ganador": "KYTE BABY Sleep Bag 1.0 TOG, Rayon Made From Bamboo Wearable Blanket, Dual Zipper For Infants And Toddlers Nursery Essentials",
-      "envio_gratis": true,
-      "fecha_precio_usa": "2026-11-21",
-      "nota_usa": "",
-      "precio_lima_ref_pen": 320,
-      "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 206,
-      "venta_objetivo_pen": 294,
-      "margen_pen": 89,
-      "margen_pct": 30.2,
-      "estado": "AMARILLO",
-      "precio_usa_ayer": 47.59,
+      "precio_usa_ayer": 179.0,
       "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "AMARILLO",
-      "tienda_ayer": "Amazon"
+      "tienda_ayer": "Pottery Barn Kids"
     },
     {
       "id": "solly_fular",
       "marca": "Solly Baby",
       "nombre": "Fular elástico",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Solly Baby (sitio oficial)",
@@ -1762,21 +1530,21 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 490,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 320,
+      "costo_lima_pen": 322,
       "venta_objetivo_pen": 451,
-      "margen_pen": 131,
-      "margen_pct": 29.1,
+      "margen_pen": 129,
+      "margen_pct": 28.6,
       "estado": "AMARILLO",
-      "precio_usa_ayer": 55.5,
-      "delta_pct_vs_ayer": 33.3,
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "Amazon"
+      "precio_usa_ayer": 74.0,
+      "delta_pct_vs_ayer": 0.0,
+      "estado_ayer": "AMARILLO",
+      "tienda_ayer": "Solly Baby (sitio oficial)"
     },
     {
       "id": "kyte_toalla",
       "marca": "Kyte Baby",
       "nombre": "Toalla con capucha",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "The Gingham Goose Boutique",
@@ -1793,7 +1561,7 @@
           "url": "https://www.amazon.com/dp/B0DLH67Z1D",
           "titulo": "KYTE BABY Hooded Bath Towel, Ultra Soft Bamboo Rayon Terry for Babies & Toddlers, 32 x 32 Inches, Blush",
           "envio_gratis": true,
-          "fecha": null,
+          "fecha": "2026-11-24",
           "nota": ""
         },
         {
@@ -1836,10 +1604,10 @@
       "nota_usa": "",
       "precio_lima_ref_pen": 250,
       "tienda_lima_ref": "Referencia manual",
-      "costo_lima_pen": 173,
+      "costo_lima_pen": 174,
       "venta_objetivo_pen": 230,
-      "margen_pen": 57,
-      "margen_pct": 24.9,
+      "margen_pen": 56,
+      "margen_pct": 24.4,
       "estado": "AMARILLO",
       "precio_usa_ayer": 40.0,
       "delta_pct_vs_ayer": 0.0,
@@ -1850,7 +1618,7 @@
       "id": "skip_hop_forma",
       "marca": "Skip Hop",
       "nombre": "Pañalera mochila Forma",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [
         {
           "tienda": "Target",
@@ -1866,16 +1634,16 @@
       "busqueda_lima": "Skip Hop Forma",
       "ofertas_lima": [
         {
+          "tienda": "Oechsle",
+          "precio_pen": 279.3,
+          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p",
+          "titulo": "Bolso Pañalero Skip Hop Forma Mauve Mist"
+        },
+        {
           "tienda": "Falabella",
           "precio_pen": 319.2,
           "url": "https://www.falabella.com.pe/falabella-pe/product/21090132/bolso-panalero-forma-rosado",
           "titulo": "SKIP HOP Bolso Pañalero Forma Rosado"
-        },
-        {
-          "tienda": "Oechsle",
-          "precio_pen": 319.2,
-          "url": "https://www.oechsle.pe/bolso-panalero-skip-hop-forma-mauve-mist-2974461/p",
-          "titulo": "Bolso Pañalero Skip Hop Forma Mauve Mist"
         },
         {
           "tienda": "Falabella",
@@ -1891,23 +1659,23 @@
       "envio_gratis": true,
       "fecha_precio_usa": "2026-11-23",
       "nota_usa": "",
-      "precio_lima_ref_pen": 319,
-      "tienda_lima_ref": "Falabella",
-      "costo_lima_pen": 341,
-      "venta_objetivo_pen": 294,
-      "margen_pen": -48,
-      "margen_pct": -16.2,
+      "precio_lima_ref_pen": 279,
+      "tienda_lima_ref": "Oechsle",
+      "costo_lima_pen": 344,
+      "venta_objetivo_pen": 257,
+      "margen_pen": -87,
+      "margen_pct": -33.7,
       "estado": "ROJO",
-      "precio_usa_ayer": 63.99,
-      "delta_pct_vs_ayer": 23.5,
+      "precio_usa_ayer": 79.0,
+      "delta_pct_vs_ayer": 0.0,
       "estado_ayer": "ROJO",
-      "tienda_ayer": "Amazon"
+      "tienda_ayer": "Target"
     },
     {
       "id": "freshly_picked_zapatos",
       "marca": "Freshly Picked",
       "nombre": "Zapatos primeros pasos",
-      "tc": 3.455,
+      "tc": 3.479,
       "ranking_tiendas": [],
       "lima_estimado": true,
       "busqueda_lima": "Freshly Picked",
@@ -1916,8 +1684,8 @@
       "tienda_lima_ref": "Referencia manual",
       "estado": "SIN DATOS",
       "falta": "USA",
-      "estado_ayer": "VERDE",
-      "tienda_ayer": "eBay"
+      "estado_ayer": "SIN DATOS",
+      "tienda_ayer": null
     }
   ],
   "errores": [
