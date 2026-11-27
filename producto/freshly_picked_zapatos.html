@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Freshly Picked Zapatos primeros pasos · Precios bebé</title>
+<style>
+:root {
+  --bg: #f6f5f2; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6a66; --line: #e3e1db;
+  --accent: #1f5fbf; --accent-text: #ffffff;
+  --verde: #1e7d45; --verde-bg: #e3f4ea; --amarillo: #8a5a00; --amarillo-bg: #fdf1d6;
+  --rojo: #b3261e; --rojo-bg: #fbe6e4; --gris: #5f5e5a; --gris-bg: #ecebe7;
+  --baja: #1e7d45; --sube: #b3261e;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141413; --surface: #1f1f1d; --text: #ecebe7; --muted: #a3a29c; --line: #34332f;
+    --accent: #6ea2ff; --accent-text: #0d1a33;
+    --verde: #6fd39a; --verde-bg: #173826; --amarillo: #f2c260; --amarillo-bg: #3a2d0e;
+    --rojo: #ff8a80; --rojo-bg: #43201d; --gris: #b5b4ae; --gris-bg: #2c2b28;
+    --baja: #6fd39a; --sube: #ff8a80;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1200px; margin: 0 auto; padding: 16px; }
+header.top h1 { font-size: 1.3rem; margin: 0 0 4px; }
+.meta { color: var(--muted); font-size: .85rem; }
+.pill { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: .75rem; font-weight: 600;
+  white-space: nowrap; }
+.pill.VERDE { background: var(--verde-bg); color: var(--verde); }
+.pill.AMARILLO { background: var(--amarillo-bg); color: var(--amarillo); }
+.pill.ROJO { background: var(--rojo-bg); color: var(--rojo); }
+.pill.SIN { background: var(--gris-bg); color: var(--gris); }
+.tag { display: inline-block; font-size: .7rem; padding: 1px 6px; border-radius: 4px; background: var(--gris-bg);
+  color: var(--gris); margin-left: 4px; white-space: nowrap; }
+.tag.aviso { background: var(--amarillo-bg); color: var(--amarillo); }
+.btn { display: inline-block; background: var(--accent); color: var(--accent-text); text-decoration: none;
+  padding: 7px 12px; border-radius: 8px; font-weight: 600; font-size: .85rem; white-space: nowrap; }
+.num { font-variant-numeric: tabular-nums; }
+.baja { color: var(--baja); } .sube { color: var(--sube); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+footer { color: var(--muted); font-size: .8rem; margin: 24px 0 8px; }
+
+.volver { display: inline-block; margin-bottom: 10px; text-decoration: none; }
+h1 { font-size: 1.25rem; margin: 0; }
+.cab { display: flex; gap: 10px; justify-content: space-between; align-items: flex-start; margin-bottom: 14px; }
+.kpis { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 14px; }
+@media (min-width: 700px) { .kpis { grid-template-columns: repeat(4, 1fr); } }
+.kpi .l { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+.kpi .v { font-size: 1.25rem; font-weight: 700; }
+.kpi .s { font-size: .8rem; color: var(--muted); }
+h2 { font-size: 1rem; margin: 22px 0 8px; }
+.grafico { position: relative; height: 240px; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: .72rem; color: var(--muted); text-transform: uppercase; padding: 6px 6px;
+  border-bottom: 1px solid var(--line); }
+td { padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+td.r, th.r { text-align: right; }
+.titulo { font-size: .78rem; color: var(--muted); display: block; max-width: 46ch; overflow-wrap: anywhere; }
+.scroll { overflow-x: auto; }
+
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<a class="volver" href="../index.html">← Todos los productos</a>
+<div class="cab">
+  <div><div class="meta">Freshly Picked</div><h1>Zapatos primeros pasos</h1></div>
+  <span class="pill SIN">SIN DATOS</span>
+</div>
+
+<div class="kpis">
+  <div class="card kpi"><div class="l">Mejor USA</div>
+    <div class="v num">—</div>
+    <div class="s"></div></div>
+  <div class="card kpi"><div class="l">Costo puesto en Lima</div>
+    <div class="v num">—</div></div>
+  <div class="card kpi"><div class="l">Ref. Lima</div>
+    <div class="v num">S/ 420</div>
+    <div class="s"><span class="tag aviso">referencia estimada</span></div></div>
+  <div class="card kpi"><div class="l">Margen</div>
+    <div class="v num">—</div>
+    <div class="s">falta precio USA</div></div>
+</div>
+
+
+
+
+<h2>Mejor precio USA, últimos 30 días</h2>
+<div class="card">
+  
+  <div class="grafico"><canvas id="g" aria-label="Mejor precio USA por día"></canvas></div>
+  
+</div>
+
+<h2>Ranking de tiendas hoy</h2>
+<div class="card scroll">
+  <p class="meta">Ninguna tienda de EE.UU. devolvió ofertas relevantes hoy.</p>
+</div>
+
+<h2>Precios en Lima</h2>
+<div class="card scroll">
+  <p class="meta">Sin resultados en tiendas de Lima; se usa el precio de referencia manual
+    (S/ 420) de products.yaml. Conviene revisarlo.</p>
+  
+</div>
+
+<footer>Generado 2026-11-27T20:48:02+00:00 · Tipo de cambio 3.484 SUNAT</footer>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.js"></script>
+<script>
+(function () {
+  var serie = [{"fecha": "2026-11-13", "precio": 59.0, "tienda": "Freshly Picked (sitio oficial)"}, {"fecha": "2026-11-14", "precio": 59.0, "tienda": "Freshly Picked (sitio oficial)"}, {"fecha": "2026-11-15", "precio": 59.0, "tienda": "Freshly Picked (sitio oficial)"}, {"fecha": "2026-11-16", "precio": 59.0, "tienda": "Freshly Picked (sitio oficial)"}, {"fecha": "2026-11-17", "precio": 65.0, "tienda": "Freshly Picked (sitio oficial)"}, {"fecha": "2026-11-18", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-19", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-20", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-21", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-22", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-23", "precio": 20.0, "tienda": "eBay"}, {"fecha": "2026-11-24", "precio": null, "tienda": null}, {"fecha": "2026-11-25", "precio": null, "tienda": null}, {"fecha": "2026-11-26", "precio": null, "tienda": null}, {"fecha": "2026-11-27", "precio": null, "tienda": null}];
+  if (!window.Chart) {   // sin conexión al CDN: lista simple en lugar del gráfico
+    var caja = document.querySelector(".grafico");
+    caja.style.height = "auto";
+    caja.innerHTML = "<ul class='meta'>" + serie.filter(function (d) { return d.precio; }).map(function (d) {
+      return "<li>" + d.fecha + ": $" + d.precio.toFixed(2) + "</li>"; }).join("") + "</ul>";
+    return;
+  }
+  var css = getComputedStyle(document.documentElement);
+  var color = css.getPropertyValue("--accent").trim(), muted = css.getPropertyValue("--muted").trim(),
+      line = css.getPropertyValue("--line").trim();
+  new Chart(document.getElementById("g"), {
+    type: "line",
+    data: {
+      labels: serie.map(function (d) { return d.fecha.slice(5); }),
+      datasets: [{ data: serie.map(function (d) { return d.precio; }), borderColor: color, backgroundColor: color,
+                   pointRadius: 3, tension: 0.2, spanGaps: true }]
+    },
+    options: {
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: {
+        label: function (c) { var d = serie[c.dataIndex]; return "$" + c.parsed.y.toFixed(2) + (d.tienda ? " · " + d.tienda : ""); }
+      } } },
+      scales: {
+        x: { ticks: { color: muted, maxRotation: 0, autoSkip: true }, grid: { display: false } },
+        y: { ticks: { color: muted, callback: function (v) { return "$" + v; } }, grid: { color: line } }
+      }
+    }
+  });
+})();
+</script>
+
+
+</body>
+</html>
